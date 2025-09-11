@@ -1,6 +1,6 @@
 # TODO: add papers by configuration file
 base_url: "https://arxiv.paperswithcode.com/api/v0/papers/"
-user_name: "jiangranlv"
+user_name: "chanyoung ahn"
 repo_name: "robotics-arxiv-daily"
 show_authors: True
 show_links: True
@@ -24,12 +24,14 @@ md_wechat_path: './docs/wechat.md'
 keywords:
     # --------- My Keywords ---------
     "Manipulation":
-        filters: ["Robot Manipulation", "Robotic Manipulation", "Robot Learning", "Imitation Learning"]
-    "VLM":
-        filters: ["Vision Language Model", "Vision Language Models", "Vision-Language Model", "Vision-Language Models"]
+        filters: ["Robot Manipulation", "Robotic Manipulation", "Robot Learning", 
+                    "Imitation Learning", "In-hand Manipulation", "Deformable"]
+    "Dexterous":
+        filters: ["Dexterous Manipulation", "Dexterous hand", "Dexterity", "Dexterous", "Bimanual"]
     "VLA":
         filters: ["Vision Language Action","Vision-Language-Action"]
-    "Humanoid":
-        filters: ["Humanoid Robot", "Humanoid"]
-    "Dexterous":
-        filters: ["Dexterous Manipulation", "Dexterous hand", "Dexterity", "Dexterous"]
+    # "VLM":
+    #     filters: ["Vision Language Model", "Vision Language Models", "Vision-Language Model", "Vision-Language Models"]
+
+    # "Humanoid":
+    #     filters: ["Humanoid Robot", "Humanoid"]
