@@ -16,6 +16,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-09-11**|**SimpleVLA-RL: Scaling VLA Training via Reinforcement Learning**|Ning Ding Team|[2509.09674](http://arxiv.org/abs/2509.09674)|null|
+|**2025-09-11**|**Dexplore: Scalable Neural Control for Dexterous Manipulation from Reference-Scoped Exploration**|Wei Yang Team|[2509.09671](http://arxiv.org/abs/2509.09671)|null|
+|**2025-09-11**|**A Neuromorphic Incipient Slip Detection System using Papillae Morphology**|Benjamin Ward-Cherrier Team|[2509.09546](http://arxiv.org/abs/2509.09546)|null|
+|**2025-09-11**|**KoopMotion: Learning Almost Divergence Free Koopman Flow Fields for Motion Planning**|M. Ani Hsieh Team|[2509.09074](http://arxiv.org/abs/2509.09074)|null|
 |**2025-09-11**|**Joint Model-based Model-free Diffusion for Planning with Constraints**|Shreyas Kousik Team|[2509.08775](http://arxiv.org/abs/2509.08775)|null|
 |**2025-09-10**|**SocialNav-SUB: Benchmarking VLMs for Scene Understanding in Social Robot Navigation**|Peter Stone Team|[2509.08757](http://arxiv.org/abs/2509.08757)|**[link](https://larg.github.io/socialnav-sub)**|
 |**2025-09-10**|**PegasusFlow: Parallel Rolling-Denoising Score Sampling for Robot Diffusion Planner Flow Matching**|Liang Ding Team|[2509.08435](http://arxiv.org/abs/2509.08435)|null|
@@ -2174,6 +2178,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-09-11**|**SimpleVLA-RL: Scaling VLA Training via Reinforcement Learning**|Ning Ding Team|[2509.09674](http://arxiv.org/abs/2509.09674)|null|
+|**2025-09-11**|**VLA-Adapter: An Effective Paradigm for Tiny-Scale Vision-Language-Action Model**|Donglin Wang Team|[2509.09372](http://arxiv.org/abs/2509.09372)|null|
+|**2025-09-11**|**SQAP-VLA: A Synergistic Quantization-Aware Pruning Framework for High-Performance Vision-Language-Action Models**|Huanrui Yang Team|[2509.09090](http://arxiv.org/abs/2509.09090)|null|
 |**2025-09-10**|**RoboChemist: Long-Horizon and Safety-Compliant Robotic Chemical Experimentation**|Hao Zhao Team|[2509.08820](http://arxiv.org/abs/2509.08820)|**[link](https://zzongzheng0918.github.io/RoboChemist.github.io/)**|
 |**2025-09-09**|**TA-VLA: Elucidating the Design Space of Torque-aware Vision-Language-Action Models**|Hao Zhao Team|[2509.07962](http://arxiv.org/abs/2509.07962)|**[link](https://zzongzheng0918.github.io/Torque-Aware-VLA.github.io/})**|
 |**2025-09-09**|**Graph-Fused Vision-Language-Action for Policy Reasoning in Multi-Arm Robotic Manipulation**|Yingbai Hu Team|[2509.07957](http://arxiv.org/abs/2509.07957)|null|
@@ -2553,6 +2560,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-09-11**|**Dexplore: Scalable Neural Control for Dexterous Manipulation from Reference-Scoped Exploration**|Wei Yang Team|[2509.09671](http://arxiv.org/abs/2509.09671)|null|
 |**2025-09-10**|**Grasp Like Humans: Learning Generalizable Multi-Fingered Grasping from Human Proprioceptive Sensorimotor Integration**|Huimin Lu Team|[2509.08354](http://arxiv.org/abs/2509.08354)|null|
 |**2025-09-09**|**Text2Touch: Tactile In-Hand Manipulation with LLM-Designed Reward Functions**|Nathan F. Lepora Team|[2509.07445](http://arxiv.org/abs/2509.07445)|null|
 |**2025-09-05**|**OpenEgo: A Large-Scale Multimodal Egocentric Dataset for Dexterous Manipulation**|Yu Xiang Team|[2509.05513](http://arxiv.org/abs/2509.05513)|null|
