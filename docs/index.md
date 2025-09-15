@@ -9,6 +9,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-11**|**Self-Augmented Robot Trajectory: Efficient Imitation Learning via Safe Self-augmentation with Demonstrator-annotated Precision**|Yukiyasu Domae Team|[2509.09893](http://arxiv.org/abs/2509.09893)|null|
+|**2025-09-11**|**Off Policy Lyapunov Stability in Reinforcement Learning**|Daniela Constantinescu Team|[2509.09863](http://arxiv.org/abs/2509.09863)|null|
+|**2025-09-11**|**MimicDroid: In-Context Learning for Humanoid Robot Manipulation from Human Play Videos**|Yuke Zhu Team|[2509.09769](http://arxiv.org/abs/2509.09769)|null|
 |**2025-09-11**|**SimpleVLA-RL: Scaling VLA Training via Reinforcement Learning**|Ning Ding Team|[2509.09674](http://arxiv.org/abs/2509.09674)|null|
 |**2025-09-11**|**Dexplore: Scalable Neural Control for Dexterous Manipulation from Reference-Scoped Exploration**|Wei Yang Team|[2509.09671](http://arxiv.org/abs/2509.09671)|null|
 |**2025-09-11**|**A Neuromorphic Incipient Slip Detection System using Papillae Morphology**|Benjamin Ward-Cherrier Team|[2509.09546](http://arxiv.org/abs/2509.09546)|null|
