@@ -9,6 +9,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-16**|**StageACT: Stage-Conditioned Imitation for Robust Humanoid Door Opening**|Shayegan Omidshafiei Team|[2509.13200](http://arxiv.org/abs/2509.13200)|null|
+|**2025-09-16**|**A Design Co-Pilot for Task-Tailored Manipulators**|Matthias Althoff Team|[2509.13077](http://arxiv.org/abs/2509.13077)|null|
+|**2025-09-16**|**Deep Learning for Model-Free Prediction of Thermal States of Robot Joint Motors**|Eric Guiffo Kaigom Team|[2509.12739](http://arxiv.org/abs/2509.12739)|null|
+|**2025-09-16**|**Safety filtering of robotic manipulation under environment uncertainty: a computational approach**|Martin Servin Team|[2509.12674](http://arxiv.org/abs/2509.12674)|null|
+|**2025-09-16**|**ActiveVLN: Towards Active Exploration via Multi-Turn RL in Vision-and-Language Navigation**|Feng Zheng Team|[2509.12618](http://arxiv.org/abs/2509.12618)|null|
+|**2025-09-16**|**Robust Online Residual Refinement via Koopman-Guided Dynamics Modeling**|Donglin Wang Team|[2509.12562](http://arxiv.org/abs/2509.12562)|null|
+|**2025-09-16**|**Pre-trained Visual Representations Generalize Where it Matters in Model-Based Reinforcement Learning**|Sebastian W. Pattinson Team|[2509.12531](http://arxiv.org/abs/2509.12531)|null|
+|**2025-09-15**|**Geometric Red-Teaming for Robotic Manipulation**|Zackory Erickson Team|[2509.12379](http://arxiv.org/abs/2509.12379)|null|
 |**2025-09-15**|**Deceptive Risk Minimization: Out-of-Distribution Generalization by Deceiving Distribution Shift Detectors**|Anirudha Majumdar Team|[2509.12081](http://arxiv.org/abs/2509.12081)|null|
 |**2025-09-15**|**Imitation Learning as Return Distribution Matching**|Alberto Maria Metelli Team|[2509.12026](http://arxiv.org/abs/2509.12026)|null|
 |**2025-09-15**|**Gesture-Based Robot Control Integrating Mm-wave Radar and Behavior Trees**|Stephan Sigg Team|[2509.12008](http://arxiv.org/abs/2509.12008)|null|
@@ -2188,6 +2196,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-16**|**The Better You Learn, The Smarter You Prune: Towards Efficient Vision-language-action Models via Differentiable Token Pruning**|Xianpeng Lang Team|[2509.12594](http://arxiv.org/abs/2509.12594)|**[link](https://liauto-research.github.io/LightVLA)**|
 |**2025-09-15**|**Cross-Platform Scaling of Vision-Language-Action Models from Edge to Cloud GPUs**|Yanzhi Wang Team|[2509.11480](http://arxiv.org/abs/2509.11480)|null|
 |**2025-09-14**|**Enhancing Generalization in Vision-Language-Action Models by Preserving Pretrained Representations**|Xuanlin Li Team|[2509.11417](http://arxiv.org/abs/2509.11417)|**[link](https://gen-vla.github.io/)**|
 |**2025-09-11**|**SimpleVLA-RL: Scaling VLA Training via Reinforcement Learning**|Ning Ding Team|[2509.09674](http://arxiv.org/abs/2509.09674)|null|
@@ -2568,6 +2577,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-16**|**Beyond Anthropomorphism: Enhancing Grasping and Eliminating a Degree of Freedom by Fusing the Abduction of Digits Four and Five**|Robert K. Katzschmann Team|[2509.13074](http://arxiv.org/abs/2509.13074)|null|
+|**2025-09-16**|**MoiréTac: A Dual-Mode Visuotactile Sensor for Multidimensional Perception Using Moiré Pattern Amplification**|Wenbo Ding Team|[2509.12714](http://arxiv.org/abs/2509.12714)|null|
 |**2025-09-11**|**Dexplore: Scalable Neural Control for Dexterous Manipulation from Reference-Scoped Exploration**|Wei Yang Team|[2509.09671](http://arxiv.org/abs/2509.09671)|null|
 |**2025-09-10**|**Grasp Like Humans: Learning Generalizable Multi-Fingered Grasping from Human Proprioceptive Sensorimotor Integration**|Huimin Lu Team|[2509.08354](http://arxiv.org/abs/2509.08354)|null|
 |**2025-09-09**|**Text2Touch: Tactile In-Hand Manipulation with LLM-Designed Reward Functions**|Nathan F. Lepora Team|[2509.07445](http://arxiv.org/abs/2509.07445)|null|
