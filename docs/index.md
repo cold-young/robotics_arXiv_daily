@@ -9,6 +9,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-17**|**MIMIC-D: Multi-modal Imitation for MultI-agent Coordination with Decentralized Diffusion Policies**|Negar Mehr Team|[2509.14159](http://arxiv.org/abs/2509.14159)|null|
+|**2025-09-17**|**SeqVLA: Sequential Task Execution for Long-Horizon Manipulation with Completion-Aware Vision-Language-Action Model**|Yiming Feng Team|[2509.14138](http://arxiv.org/abs/2509.14138)|null|
+|**2025-09-17**|**PhysicalAgent: Towards General Cognitive Robotics with Foundation World Models**|Dzmitry Tsetserukou Team|[2509.13903](http://arxiv.org/abs/2509.13903)|null|
+|**2025-09-17**|**Dual-Actor Fine-Tuning of VLA Models: A Talk-and-Tweak Human-in-the-Loop Approach**|Yangwei You Team|[2509.13774](http://arxiv.org/abs/2509.13774)|null|
+|**2025-09-17**|**Motion Adaptation Across Users and Tasks for Exoskeletons via Meta-Learning**|Houcheng Li Team|[2509.13736](http://arxiv.org/abs/2509.13736)|null|
+|**2025-09-17**|**Reinforcement Learning for Robotic Insertion of Flexible Cables in Industrial Settings**|Changjoo Nam Team|[2509.13731](http://arxiv.org/abs/2509.13731)|null|
+|**2025-09-17**|**HGACNet: Hierarchical Graph Attention Network for Cross-Modal Point Cloud Completion**|I-Ming Chen Team|[2509.13692](http://arxiv.org/abs/2509.13692)|null|
+|**2025-09-16**|**TreeIRL: Safe Urban Driving with Tree Search and Inverse Reinforcement Learning**|Yunqing Hu Team|[2509.13579](http://arxiv.org/abs/2509.13579)|null|
 |**2025-09-16**|**StageACT: Stage-Conditioned Imitation for Robust Humanoid Door Opening**|Shayegan Omidshafiei Team|[2509.13200](http://arxiv.org/abs/2509.13200)|null|
 |**2025-09-16**|**A Design Co-Pilot for Task-Tailored Manipulators**|Matthias Althoff Team|[2509.13077](http://arxiv.org/abs/2509.13077)|null|
 |**2025-09-16**|**Deep Learning for Model-Free Prediction of Thermal States of Robot Joint Motors**|Eric Guiffo Kaigom Team|[2509.12739](http://arxiv.org/abs/2509.12739)|null|
@@ -2196,7 +2204,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-17**|**CLAW: A Vision-Language-Action Framework for Weight-Aware Robotic Grasping**|Lifeng Zhou Team|[2509.14143](http://arxiv.org/abs/2509.14143)|null|
+|**2025-09-17**|**SeqVLA: Sequential Task Execution for Long-Horizon Manipulation with Completion-Aware Vision-Language-Action Model**|Yiming Feng Team|[2509.14138](http://arxiv.org/abs/2509.14138)|null|
+|**2025-09-17**|**GeoAware-VLA: Implicit Geometry Aware Vision-Language-Action Model**|Dezhen Song Team|[2509.14117](http://arxiv.org/abs/2509.14117)|null|
+|**2025-09-17**|**Dual-Actor Fine-Tuning of VLA Models: A Talk-and-Tweak Human-in-the-Loop Approach**|Yangwei You Team|[2509.13774](http://arxiv.org/abs/2509.13774)|null|
+|**2025-09-17**|**AdaThinkDrive: Adaptive Thinking via Reinforcement Learning for Autonomous Driving**|Zhi-xin Yang Team|[2509.13769](http://arxiv.org/abs/2509.13769)|null|
+|**2025-09-13**|**OpenHA: A Series of Open-Source Hierarchical Agentic Models in Minecraft**|Yitao Liang Team|[2509.13347](http://arxiv.org/abs/2509.13347)|null|
 |**2025-09-16**|**The Better You Learn, The Smarter You Prune: Towards Efficient Vision-language-action Models via Differentiable Token Pruning**|Xianpeng Lang Team|[2509.12594](http://arxiv.org/abs/2509.12594)|**[link](https://liauto-research.github.io/LightVLA)**|
+|**2025-09-17**|**TrajBooster: Boosting Humanoid Whole-Body Manipulation via Trajectory-Centric Learning**|Donglin Wang Team|[2509.11839](http://arxiv.org/abs/2509.11839)|null|
 |**2025-09-15**|**Cross-Platform Scaling of Vision-Language-Action Models from Edge to Cloud GPUs**|Yanzhi Wang Team|[2509.11480](http://arxiv.org/abs/2509.11480)|null|
 |**2025-09-17**|**Enhancing Generalization in Vision-Language-Action Models by Preserving Pretrained Representations**|Xuanlin Li Team|[2509.11417](http://arxiv.org/abs/2509.11417)|**[link](https://gen-vla.github.io/)**|
 |**2025-09-11**|**SimpleVLA-RL: Scaling VLA Training via Reinforcement Learning**|Ning Ding Team|[2509.09674](http://arxiv.org/abs/2509.09674)|null|
@@ -2577,6 +2592,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-16**|**\textsc{Gen2Real}: Towards Demo-Free Dexterous Manipulation by Harnessing Generated Video**|Rui Huang Team|[2509.14178](http://arxiv.org/abs/2509.14178)|null|
+|**2025-09-17**|**Whole-body Motion Control of an Omnidirectional Wheel-Legged Mobile Manipulator via Contact-Aware Dynamic Optimization**|Yiqun Li Team|[2509.14010](http://arxiv.org/abs/2509.14010)|null|
 |**2025-09-16**|**Beyond Anthropomorphism: Enhancing Grasping and Eliminating a Degree of Freedom by Fusing the Abduction of Digits Four and Five**|Robert K. Katzschmann Team|[2509.13074](http://arxiv.org/abs/2509.13074)|null|
 |**2025-09-16**|**MoiréTac: A Dual-Mode Visuotactile Sensor for Multidimensional Perception Using Moiré Pattern Amplification**|Wenbo Ding Team|[2509.12714](http://arxiv.org/abs/2509.12714)|null|
 |**2025-09-11**|**Dexplore: Scalable Neural Control for Dexterous Manipulation from Reference-Scoped Exploration**|Wei Yang Team|[2509.09671](http://arxiv.org/abs/2509.09671)|null|
