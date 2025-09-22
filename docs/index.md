@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.09.21
+## Updated on 2025.09.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Manipulation
@@ -13,7 +13,7 @@ layout: default
 |**2025-09-18**|**Self-Improving Embodied Foundation Models**|Igor Mordatch Team|[2509.15155](http://arxiv.org/abs/2509.15155)|null|
 |**2025-09-18**|**A Nonlinear Scaling-based Design of Control Lyapunov-barrier Function for Relative Degree 2 Case and its Application to Safe Feedback Linearization**|Gyunghoon Park Team|[2509.15071](http://arxiv.org/abs/2509.15071)|null|
 |**2025-09-18**|**Reinforcement Learning Agent for a 2D Shooter Game**|Hamza A. A. Gardi Team|[2509.15042](http://arxiv.org/abs/2509.15042)|null|
-|**2025-09-18**|**Affordance-Based Disambiguation of Surgical Instructions for Collaborative Robot-Assisted Surgery**|Yasuhisa Hasegawa Team|[2509.14967](http://arxiv.org/abs/2509.14967)|null|
+|**2025-09-19**|**Affordance-Based Disambiguation of Surgical Instructions for Collaborative Robot-Assisted Surgery**|Yasuhisa Hasegawa Team|[2509.14967](http://arxiv.org/abs/2509.14967)|null|
 |**2025-09-18**|**Robot Control Stack: A Lean Ecosystem for Robot Learning at Scale**|Florian Walter Team|[2509.14932](http://arxiv.org/abs/2509.14932)|null|
 |**2025-09-18**|**exUMI: Extensible Robot Teaching System with Action-aware Task-agnostic Tactile Representation**|Yong-Lu Li Team|[2509.14688](http://arxiv.org/abs/2509.14688)|null|
 |**2025-09-18**|**SimCoachCorpus: A naturalistic dataset with language and trajectories for embodied teaching**|Guy Rosman Team|[2509.14548](http://arxiv.org/abs/2509.14548)|null|
@@ -28,7 +28,7 @@ layout: default
 |**2025-09-17**|**Reinforcement Learning for Robotic Insertion of Flexible Cables in Industrial Settings**|Changjoo Nam Team|[2509.13731](http://arxiv.org/abs/2509.13731)|null|
 |**2025-09-17**|**HGACNet: Hierarchical Graph Attention Network for Cross-Modal Point Cloud Completion**|I-Ming Chen Team|[2509.13692](http://arxiv.org/abs/2509.13692)|null|
 |**2025-09-16**|**TreeIRL: Safe Urban Driving with Tree Search and Inverse Reinforcement Learning**|Yunqing Hu Team|[2509.13579](http://arxiv.org/abs/2509.13579)|null|
-|**2025-09-16**|**StageACT: Stage-Conditioned Imitation for Robust Humanoid Door Opening**|Shayegan Omidshafiei Team|[2509.13200](http://arxiv.org/abs/2509.13200)|null|
+|**2025-09-18**|**StageACT: Stage-Conditioned Imitation for Robust Humanoid Door Opening**|Shayegan Omidshafiei Team|[2509.13200](http://arxiv.org/abs/2509.13200)|null|
 |**2025-09-16**|**A Design Co-Pilot for Task-Tailored Manipulators**|Matthias Althoff Team|[2509.13077](http://arxiv.org/abs/2509.13077)|null|
 |**2025-09-16**|**Deep Learning for Model-Free Prediction of Thermal States of Robot Joint Motors**|Eric Guiffo Kaigom Team|[2509.12739](http://arxiv.org/abs/2509.12739)|null|
 |**2025-09-16**|**Safety filtering of robotic manipulation under environment uncertainty: a computational approach**|Martin Servin Team|[2509.12674](http://arxiv.org/abs/2509.12674)|null|
