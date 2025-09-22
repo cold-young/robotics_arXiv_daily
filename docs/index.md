@@ -9,6 +9,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-19**|**Efficient Detection of Objects Near a Robot Manipulator via Miniature Time-of-Flight Sensors**|Michael Gleicher Team|[2509.16122](http://arxiv.org/abs/2509.16122)|null|
+|**2025-09-19**|**I-FailSense: Towards General Robotic Failure Detection with Vision-Language Models**|Mohamed Chetouani Team|[2509.16072](http://arxiv.org/abs/2509.16072)|null|
+|**2025-09-19**|**Compose by Focus: Scene Graph-based Atomic Skills**|Heng Yang Team|[2509.16053](http://arxiv.org/abs/2509.16053)|null|
+|**2025-09-19**|**Learning Safety for Obstacle Avoidance via Control Barrier Functions**|Calin A. Belta Team|[2509.16037](http://arxiv.org/abs/2509.16037)|null|
+|**2025-09-19**|**Improving Robotic Manipulation with Efficient Geometry-Aware Vision Encoder**|Ian Reid Team|[2509.15880](http://arxiv.org/abs/2509.15880)|**[link](https://evggt.github.io/)**|
+|**2025-09-19**|**All-Electric Heavy-Duty Robotic Manipulator: Actuator Configuration Optimization and Sensorless Control**|Jouni Mattila Team|[2509.15778](http://arxiv.org/abs/2509.15778)|null|
+|**2025-09-19**|**GP3: A 3D Geometry-Aware Policy with Multi-View Images for Robotic Manipulation**|Deli Zhao Team|[2509.15733](http://arxiv.org/abs/2509.15733)|null|
+|**2025-09-19**|**Imagination at Inference: Synthesizing In-Hand Views for Robust Visuomotor Policy Inference**|Yoshihiko Nakamura Team|[2509.15717](http://arxiv.org/abs/2509.15717)|null|
+|**2025-09-18**|**Implicit Kinodynamic Motion Retargeting for Human-to-humanoid Imitation Learning**|Haodong Zhang Team|[2509.15443](http://arxiv.org/abs/2509.15443)|null|
 |**2025-09-18**|**RynnVLA-001: Using Human Demonstrations to Improve Robot Manipulation**|Xin Li Team|[2509.15212](http://arxiv.org/abs/2509.15212)|**[link](https://github.com/alibaba-damo-academy/RynnVLA-001)**|
 |**2025-09-18**|**Self-Improving Embodied Foundation Models**|Igor Mordatch Team|[2509.15155](http://arxiv.org/abs/2509.15155)|null|
 |**2025-09-18**|**A Nonlinear Scaling-based Design of Control Lyapunov-barrier Function for Relative Degree 2 Case and its Application to Safe Feedback Linearization**|Gyunghoon Park Team|[2509.15071](http://arxiv.org/abs/2509.15071)|null|
@@ -2215,6 +2224,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-19**|**CoReVLA: A Dual-Stage End-to-End Autonomous Driving Framework for Long-Tail Scenarios via Collect-and-Refine**|Jian Sun Team|[2509.15968](http://arxiv.org/abs/2509.15968)|null|
+|**2025-09-19**|**A Vision-Language-Action-Critic Model for Robotic Real-World Reinforcement Learning**|Jiangmiao Pang Team|[2509.15937](http://arxiv.org/abs/2509.15937)|null|
 |**2025-09-18**|**RynnVLA-001: Using Human Demonstrations to Improve Robot Manipulation**|Xin Li Team|[2509.15212](http://arxiv.org/abs/2509.15212)|**[link](https://github.com/alibaba-damo-academy/RynnVLA-001)**|
 |**2025-09-18**|**Robot Control Stack: A Lean Ecosystem for Robot Learning at Scale**|Florian Walter Team|[2509.14932](http://arxiv.org/abs/2509.14932)|null|
 |**2025-09-18**|**CollabVLA: Self-Reflective Vision-Language-Action Model Dreaming Together with Human**|Huaping Liu Team|[2509.14889](http://arxiv.org/abs/2509.14889)|null|
