@@ -16,6 +16,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-09-22**|**ByteWrist: A Parallel Robotic Wrist Enabling Flexible and Anthropomorphic Motion for Confined Spaces**|Zeyu Ren Team|[2509.18084](http://arxiv.org/abs/2509.18084)|**[link](https://bytewrist.github.io/)**|
+|**2025-09-22**|**Prepare Before You Act: Learning From Humans to Rearrange Initial States**|Dylan P. Losey Team|[2509.18043](http://arxiv.org/abs/2509.18043)|null|
+|**2025-09-22**|**FinFlowRL: An Imitation-Reinforcement Learning Framework for Adaptive Stochastic Control in Finance**|Ruixun Zhang Team|[2509.17964](http://arxiv.org/abs/2509.17964)|null|
+|**2025-09-22**|**ComposableNav: Instruction-Following Navigation in Dynamic Environments via Composable Diffusion**|Joydeep Biswas Team|[2509.17941](http://arxiv.org/abs/2509.17941)|**[link](https://amrl.cs.utexas.edu/ComposableNav/)**|
+|**2025-09-22**|**DriveDPO: Policy Learning via Safety DPO For End-to-End Autonomous Driving**|Zhaoxiang Zhang Team|[2509.17940](http://arxiv.org/abs/2509.17940)|null|
+|**2025-09-22**|**RoboSeek: You Need to Interact with Your Objects**|Yatong Han Team|[2509.17783](http://arxiv.org/abs/2509.17783)|null|
+|**2025-09-22**|**MotionTrans: Human VR Data Enable Motion-Level Learning for Robotic Manipulation Policies**|Yang Gao Team|[2509.17759](http://arxiv.org/abs/2509.17759)|null|
+|**2025-09-22**|**EigenSafe: A Spectral Framework for Learning-Based Stochastic Safety Filtering**|H. Jin Kim Team|[2509.17750](http://arxiv.org/abs/2509.17750)|null|
+|**2025-09-22**|**DINOv3-Diffusion Policy: Self-Supervised Large Visual Model for Visuomotor Diffusion Policy Learning**|Zidong Chen Team|[2509.17684](http://arxiv.org/abs/2509.17684)|null|
+|**2025-09-22**|**Learning Dexterous Manipulation with Quantized Hand State**|Cewu Lu Team|[2509.17450](http://arxiv.org/abs/2509.17450)|null|
+|**2025-09-22**|**Fast Trajectory Planner with a Reinforcement Learning-based Controller for Robotic Manipulators**|Hamidreza Kasaei Team|[2509.17381](http://arxiv.org/abs/2509.17381)|**[link](https://sites.google.com/view/ftp4rm/home)**|
+|**2025-09-21**|**Scalable Multi Agent Diffusion Policies for Coverage Control**|Alejandro Ribeiro Team|[2509.17244](http://arxiv.org/abs/2509.17244)|null|
+|**2025-09-21**|**Ratatouille: Imitation Learning Ingredients for Real-world Social Robot Navigation**|Timothy D. Barfoot Team|[2509.17204](http://arxiv.org/abs/2509.17204)|null|
+|**2025-09-21**|**MAST: Multi-Agent Spatial Transformer for Learning to Collaborate**|Alejandro Ribeiro Team|[2509.17195](http://arxiv.org/abs/2509.17195)|null|
+|**2025-09-21**|**Imagine2Act: Leveraging Object-Action Motion Consistency from Imagined Goals for Robotic Manipulation**|Hao Dong Team|[2509.17125](http://arxiv.org/abs/2509.17125)|null|
+|**2025-09-21**|**RoboManipBaselines: A Unified Framework for Imitation Learning in Robotic Manipulation across Real and Simulated Environments**|Yukiyasu Domae Team|[2509.17057](http://arxiv.org/abs/2509.17057)|null|
+|**2025-09-21**|**FILIC: Dual-Loop Force-Guided Imitation Learning with Impedance Torque Control for Contact-Rich Manipulation Tasks**|Guyue Zhou Team|[2509.17053](http://arxiv.org/abs/2509.17053)|null|
+|**2025-09-21**|**Generalized Momenta-Based Koopman Formalism for Robust Control of Euler-Lagrangian Systems**|Jishnu Keshavan Team|[2509.17010](http://arxiv.org/abs/2509.17010)|null|
+|**2025-09-21**|**End2Race: Efficient End-to-End Imitation Learning for Real-Time F1Tenth Racing**|Henry X. Liu Team|[2509.16894](http://arxiv.org/abs/2509.16894)|null|
+|**2025-09-20**|**Robot Learning with Sparsity and Scarcity**|Jingxi Xu Team|[2509.16834](http://arxiv.org/abs/2509.16834)|null|
 |**2025-09-19**|**Efficient Detection of Objects Near a Robot Manipulator via Miniature Time-of-Flight Sensors**|Michael Gleicher Team|[2509.16122](http://arxiv.org/abs/2509.16122)|null|
 |**2025-09-19**|**I-FailSense: Towards General Robotic Failure Detection with Vision-Language Models**|Mohamed Chetouani Team|[2509.16072](http://arxiv.org/abs/2509.16072)|null|
 |**2025-09-19**|**Compose by Focus: Scene Graph-based Atomic Skills**|Heng Yang Team|[2509.16053](http://arxiv.org/abs/2509.16053)|null|
@@ -2248,12 +2268,12 @@
 |**2025-09-17**|**Dual-Actor Fine-Tuning of VLA Models: A Talk-and-Tweak Human-in-the-Loop Approach**|Yangwei You Team|[2509.13774](http://arxiv.org/abs/2509.13774)|null|
 |**2025-09-17**|**AdaThinkDrive: Adaptive Thinking via Reinforcement Learning for Autonomous Driving**|Zhi-xin Yang Team|[2509.13769](http://arxiv.org/abs/2509.13769)|null|
 |**2025-09-13**|**OpenHA: A Series of Open-Source Hierarchical Agentic Models in Minecraft**|Yitao Liang Team|[2509.13347](http://arxiv.org/abs/2509.13347)|null|
-|**2025-09-16**|**The Better You Learn, The Smarter You Prune: Towards Efficient Vision-language-action Models via Differentiable Token Pruning**|Xianpeng Lang Team|[2509.12594](http://arxiv.org/abs/2509.12594)|**[link](https://liauto-research.github.io/LightVLA)**|
+|**2025-09-21**|**The Better You Learn, The Smarter You Prune: Towards Efficient Vision-language-action Models via Differentiable Token Pruning**|Xianpeng Lang Team|[2509.12594](http://arxiv.org/abs/2509.12594)|**[link](https://liauto-research.github.io/LightVLA)**|
 |**2025-09-17**|**TrajBooster: Boosting Humanoid Whole-Body Manipulation via Trajectory-Centric Learning**|Donglin Wang Team|[2509.11839](http://arxiv.org/abs/2509.11839)|null|
 |**2025-09-15**|**Cross-Platform Scaling of Vision-Language-Action Models from Edge to Cloud GPUs**|Yanzhi Wang Team|[2509.11480](http://arxiv.org/abs/2509.11480)|null|
 |**2025-09-17**|**Enhancing Generalization in Vision-Language-Action Models by Preserving Pretrained Representations**|Xuanlin Li Team|[2509.11417](http://arxiv.org/abs/2509.11417)|**[link](https://gen-vla.github.io/)**|
 |**2025-09-11**|**SimpleVLA-RL: Scaling VLA Training via Reinforcement Learning**|Ning Ding Team|[2509.09674](http://arxiv.org/abs/2509.09674)|null|
-|**2025-09-11**|**VLA-Adapter: An Effective Paradigm for Tiny-Scale Vision-Language-Action Model**|Donglin Wang Team|[2509.09372](http://arxiv.org/abs/2509.09372)|null|
+|**2025-09-22**|**VLA-Adapter: An Effective Paradigm for Tiny-Scale Vision-Language-Action Model**|Donglin Wang Team|[2509.09372](http://arxiv.org/abs/2509.09372)|**[link](https://vla-adapter.github.io/)**|
 |**2025-09-11**|**SQAP-VLA: A Synergistic Quantization-Aware Pruning Framework for High-Performance Vision-Language-Action Models**|Huanrui Yang Team|[2509.09090](http://arxiv.org/abs/2509.09090)|null|
 |**2025-09-10**|**RoboChemist: Long-Horizon and Safety-Compliant Robotic Chemical Experimentation**|Hao Zhao Team|[2509.08820](http://arxiv.org/abs/2509.08820)|**[link](https://zzongzheng0918.github.io/RoboChemist.github.io/)**|
 |**2025-09-09**|**TA-VLA: Elucidating the Design Space of Torque-aware Vision-Language-Action Models**|Hao Zhao Team|[2509.07962](http://arxiv.org/abs/2509.07962)|**[link](https://zzongzheng0918.github.io/Torque-Aware-VLA.github.io/})**|
@@ -2634,6 +2654,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-09-22**|**Learning Dexterous Manipulation with Quantized Hand State**|Cewu Lu Team|[2509.17450](http://arxiv.org/abs/2509.17450)|null|
 |**2025-09-18**|**A Novel Task-Driven Diffusion-Based Policy with Affordance Learning for Generalizable Manipulation of Articulated Objects**|Yongduan Song Team|[2509.14939](http://arxiv.org/abs/2509.14939)|null|
 |**2025-09-18**|**Learning to Pick: A Visuomotor Policy for Clustered Strawberry Picking**|Chen Peng Team|[2509.14530](http://arxiv.org/abs/2509.14530)|null|
 |**2025-09-17**|**LeVR: A Modular VR Teleoperation Framework for Imitation Learning in Dexterous Manipulation**|Han Liu Team|[2509.14349](http://arxiv.org/abs/2509.14349)|null|
