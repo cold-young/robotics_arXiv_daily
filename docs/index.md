@@ -9,6 +9,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-23**|**SOE: Sample-Efficient Robot Policy Self-Improvement via On-Manifold Exploration**|Cewu Lu Team|[2509.19292](http://arxiv.org/abs/2509.19292)|null|
+|**2025-09-23**|**Imitation-Guided Bimanual Planning for Stable Manipulation under Changing External Forces**|Arash Ajoudani Team|[2509.19261](http://arxiv.org/abs/2509.19261)|null|
+|**2025-09-23**|**FUNCanon: Learning Pose-Aware Action Primitives via Functional Object Canonicalization for Generalizable Robotic Manipulation**|Jianwei Zhang Team|[2509.19102](http://arxiv.org/abs/2509.19102)|**[link](https://sites.google.com/view/funcanon)**|
+|**2025-09-23**|**World4RL: Diffusion World Models for Policy Refinement with Reinforcement Learning for Robotic Manipulation**|Dongbin Zhao Team|[2509.19080](http://arxiv.org/abs/2509.19080)|null|
+|**2025-09-23**|**ManipForce: Force-Guided Policy Learning with Frequency-Aware Representation for Contact-Rich Manipulation**|Kyoobin Lee Team|[2509.19047](http://arxiv.org/abs/2509.19047)|null|
+|**2025-09-23**|**Eva-VLA: Evaluating Vision-Language-Action Models' Robustness Under Real-World Physical Variations**|Wen Yao Team|[2509.18953](http://arxiv.org/abs/2509.18953)|null|
+|**2025-09-23**|**Bi-VLA: Bilateral Control-Based Imitation Learning via Vision-Language Fusion for Action Generation**|Thanpimon Buamanee Team|[2509.18865](http://arxiv.org/abs/2509.18865)|null|
+|**2025-09-23**|**DexSkin: High-Coverage Conformable Robotic Skin for Learning Contact-Rich Manipulation**|Jiajun Wu Team|[2509.18830](http://arxiv.org/abs/2509.18830)|null|
+|**2025-09-23**|**VGGT-DP: Generalizable Robot Control via Vision Foundation Models**|Zhi Wang Team|[2509.18778](http://arxiv.org/abs/2509.18778)|null|
+|**2025-09-23**|**MV-UMI: A Scalable Multi-View Interface for Cross-Embodiment Learning**|Fares Abu-Dakka Team|[2509.18757](http://arxiv.org/abs/2509.18757)|**[link](https://mv-umi.github.io)**|
+|**2025-09-23**|**Learning Obstacle Avoidance using Double DQN for Quadcopter Navigation**|Sanket Gujar Team|[2509.18734](http://arxiv.org/abs/2509.18734)|null|
+|**2025-09-23**|**3D Flow Diffusion Policy: Visuomotor Policy Learning via Generating Flow in 3D Space**|Kyoobin Lee Team|[2509.18676](http://arxiv.org/abs/2509.18676)|null|
+|**2025-09-23**|**Do You Need Proprioceptive States in Visuomotor Policies?**|Yang Gao Team|[2509.18644](http://arxiv.org/abs/2509.18644)|**[link](https://statefreepolicy.github.io)**|
+|**2025-09-23**|**Generalizable Domain Adaptation for Sim-and-Real Policy Co-Training**|Danfei Xu Team|[2509.18631](http://arxiv.org/abs/2509.18631)|null|
+|**2025-09-23**|**SINGER: An Onboard Generalist Vision-Language Navigation Policy for Drones**|Mac Schwager Team|[2509.18610](http://arxiv.org/abs/2509.18610)|null|
+|**2025-09-23**|**Growing with Your Embodied Agent: A Human-in-the-Loop Lifelong Code Generation Framework for Long-Horizon Manipulation Skills**|Alois Knoll Team|[2509.18597](http://arxiv.org/abs/2509.18597)|null|
+|**2025-09-23**|**A scaling law for large-deformation contact in soft materials**|Huajian Gao Team|[2509.18581](http://arxiv.org/abs/2509.18581)|null|
+|**2025-09-22**|**Robotic Skill Diversification via Active Mutation of Reward Functions in Reinforcement Learning During a Liquid Pouring Task**|Luka Peternel Team|[2509.18463](http://arxiv.org/abs/2509.18463)|null|
+|**2025-09-22**|**Learning Geometry-Aware Nonprehensile Pushing and Pulling with Dexterous Hands**|Daniel Seita Team|[2509.18455](http://arxiv.org/abs/2509.18455)|null|
+|**2025-09-22**|**PrioriTouch: Adapting to User Contact Preferences for Whole-Arm Physical Human-Robot Interaction**|Tapomayukh Bhattacharjee Team|[2509.18447](http://arxiv.org/abs/2509.18447)|null|
 |**2025-09-22**|**ByteWrist: A Parallel Robotic Wrist Enabling Flexible and Anthropomorphic Motion for Confined Spaces**|Zeyu Ren Team|[2509.18084](http://arxiv.org/abs/2509.18084)|**[link](https://bytewrist.github.io/)**|
 |**2025-09-22**|**Prepare Before You Act: Learning From Humans to Rearrange Initial States**|Dylan P. Losey Team|[2509.18043](http://arxiv.org/abs/2509.18043)|null|
 |**2025-09-22**|**FinFlowRL: An Imitation-Reinforcement Learning Framework for Adaptive Stochastic Control in Finance**|Ruixun Zhang Team|[2509.17964](http://arxiv.org/abs/2509.17964)|null|
@@ -2244,6 +2264,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-23**|**Pure Vision Language Action (VLA) Models: A Comprehensive Survey**|Qingguo Zhou Team|[2509.19012](http://arxiv.org/abs/2509.19012)|null|
+|**2025-09-23**|**Eva-VLA: Evaluating Vision-Language-Action Models' Robustness Under Real-World Physical Variations**|Wen Yao Team|[2509.18953](http://arxiv.org/abs/2509.18953)|null|
+|**2025-09-22**|**Latent Action Pretraining Through World Modeling**|Ian Reid Team|[2509.18428](http://arxiv.org/abs/2509.18428)|null|
+|**2025-09-18**|**VLA-LPAF: Lightweight Perspective-Adaptive Fusion for Vision-Language-Action to Enable More Unconstrained Robotic Manipulation**|Anzhou Hou Team|[2509.18183](http://arxiv.org/abs/2509.18183)|null|
 |**2025-09-19**|**CoReVLA: A Dual-Stage End-to-End Autonomous Driving Framework for Long-Tail Scenarios via Collect-and-Refine**|Jian Sun Team|[2509.15968](http://arxiv.org/abs/2509.15968)|null|
 |**2025-09-19**|**A Vision-Language-Action-Critic Model for Robotic Real-World Reinforcement Learning**|Jiangmiao Pang Team|[2509.15937](http://arxiv.org/abs/2509.15937)|null|
 |**2025-09-18**|**RynnVLA-001: Using Human Demonstrations to Improve Robot Manipulation**|Xin Li Team|[2509.15212](http://arxiv.org/abs/2509.15212)|**[link](https://github.com/alibaba-damo-academy/RynnVLA-001)**|
@@ -2639,6 +2663,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-23**|**Residual Off-Policy RL for Finetuning Behavior Cloning Policies**|Anusha Nagabandi Team|[2509.19301](http://arxiv.org/abs/2509.19301)|null|
+|**2025-09-23**|**Lang2Morph: Language-Driven Morphological Design of Robotic Hands**|Josie Hughes Team|[2509.18937](http://arxiv.org/abs/2509.18937)|null|
+|**2025-09-22**|**Learning Geometry-Aware Nonprehensile Pushing and Pulling with Dexterous Hands**|Daniel Seita Team|[2509.18455](http://arxiv.org/abs/2509.18455)|null|
 |**2025-09-22**|**Learning Dexterous Manipulation with Quantized Hand State**|Cewu Lu Team|[2509.17450](http://arxiv.org/abs/2509.17450)|null|
 |**2025-09-18**|**A Novel Task-Driven Diffusion-Based Policy with Affordance Learning for Generalizable Manipulation of Articulated Objects**|Yongduan Song Team|[2509.14939](http://arxiv.org/abs/2509.14939)|null|
 |**2025-09-18**|**Learning to Pick: A Visuomotor Policy for Clustered Strawberry Picking**|Chen Peng Team|[2509.14530](http://arxiv.org/abs/2509.14530)|null|
