@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.09.23
+## Updated on 2025.09.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Manipulation
@@ -14,7 +14,7 @@ layout: default
 |**2025-09-22**|**FinFlowRL: An Imitation-Reinforcement Learning Framework for Adaptive Stochastic Control in Finance**|Ruixun Zhang Team|[2509.17964](http://arxiv.org/abs/2509.17964)|null|
 |**2025-09-22**|**ComposableNav: Instruction-Following Navigation in Dynamic Environments via Composable Diffusion**|Joydeep Biswas Team|[2509.17941](http://arxiv.org/abs/2509.17941)|**[link](https://amrl.cs.utexas.edu/ComposableNav/)**|
 |**2025-09-22**|**DriveDPO: Policy Learning via Safety DPO For End-to-End Autonomous Driving**|Zhaoxiang Zhang Team|[2509.17940](http://arxiv.org/abs/2509.17940)|null|
-|**2025-09-22**|**RoboSeek: You Need to Interact with Your Objects**|Yatong Han Team|[2509.17783](http://arxiv.org/abs/2509.17783)|null|
+|**2025-09-23**|**RoboSeek: You Need to Interact with Your Objects**|Yatong Han Team|[2509.17783](http://arxiv.org/abs/2509.17783)|null|
 |**2025-09-22**|**MotionTrans: Human VR Data Enable Motion-Level Learning for Robotic Manipulation Policies**|Yang Gao Team|[2509.17759](http://arxiv.org/abs/2509.17759)|null|
 |**2025-09-22**|**EigenSafe: A Spectral Framework for Learning-Based Stochastic Safety Filtering**|H. Jin Kim Team|[2509.17750](http://arxiv.org/abs/2509.17750)|null|
 |**2025-09-22**|**DINOv3-Diffusion Policy: Self-Supervised Large Visual Model for Visuomotor Diffusion Policy Learning**|Zidong Chen Team|[2509.17684](http://arxiv.org/abs/2509.17684)|null|
@@ -2253,7 +2253,7 @@ layout: default
 |**2025-09-18**|**Toward Embodiment Equivariant Vision-Language-Action Policy**|Yue Wang Team|[2509.14630](http://arxiv.org/abs/2509.14630)|null|
 |**2025-09-17**|**CLAW: A Vision-Language-Action Framework for Weight-Aware Robotic Grasping**|Lifeng Zhou Team|[2509.14143](http://arxiv.org/abs/2509.14143)|null|
 |**2025-09-17**|**SeqVLA: Sequential Task Execution for Long-Horizon Manipulation with Completion-Aware Vision-Language-Action Model**|Yiming Feng Team|[2509.14138](http://arxiv.org/abs/2509.14138)|null|
-|**2025-09-17**|**GeoAware-VLA: Implicit Geometry Aware Vision-Language-Action Model**|Dezhen Song Team|[2509.14117](http://arxiv.org/abs/2509.14117)|null|
+|**2025-09-22**|**GeoAware-VLA: Implicit Geometry Aware Vision-Language-Action Model**|Dezhen Song Team|[2509.14117](http://arxiv.org/abs/2509.14117)|null|
 |**2025-09-17**|**Dual-Actor Fine-Tuning of VLA Models: A Talk-and-Tweak Human-in-the-Loop Approach**|Yangwei You Team|[2509.13774](http://arxiv.org/abs/2509.13774)|null|
 |**2025-09-17**|**AdaThinkDrive: Adaptive Thinking via Reinforcement Learning for Autonomous Driving**|Zhi-xin Yang Team|[2509.13769](http://arxiv.org/abs/2509.13769)|null|
 |**2025-09-13**|**OpenHA: A Series of Open-Source Hierarchical Agentic Models in Minecraft**|Yitao Liang Team|[2509.13347](http://arxiv.org/abs/2509.13347)|null|
