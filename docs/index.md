@@ -2,13 +2,26 @@
 layout: default
 ---
 
-## Updated on 2025.09.24
+## Updated on 2025.09.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Manipulation
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-24**|**mindmap: Spatial Memory in Deep Feature Maps for 3D Action Policies**|Shiwei Sheng Team|[2509.20297](http://arxiv.org/abs/2509.20297)|null|
+|**2025-09-24**|**Discrete Diffusion for Reflective Vision-Language-Action Models in Autonomous Driving**|Xianpeng Lang Team|[2509.20109](http://arxiv.org/abs/2509.20109)|null|
+|**2025-09-24**|**LLM Trainer: Automated Robotic Data Generating via Demonstration Augmentation using LLMs**|Amir Barati Farimani Team|[2509.20070](http://arxiv.org/abs/2509.20070)|null|
+|**2025-09-24**|**Generalist Robot Manipulation beyond Action Labeled Data**|Danda Pani Paudel Team|[2509.19958](http://arxiv.org/abs/2509.19958)|null|
+|**2025-09-24**|**SAGE:State-Aware Guided End-to-End Policy for Multi-Stage Sequential Tasks via Hidden Markov Decision Process**|JingYuan Wang Team|[2509.19853](http://arxiv.org/abs/2509.19853)|null|
+|**2025-09-24**|**TopoCut: Learning Multi-Step Cutting with Spectral Rewards and Discrete Diffusion Policies**|Animesh Garg Team|[2509.19712](http://arxiv.org/abs/2509.19712)|null|
+|**2025-09-24**|**RoboSSM: Scalable In-context Imitation Learning via State-Space Models**|Peter Stone Team|[2509.19658](http://arxiv.org/abs/2509.19658)|null|
+|**2025-09-23**|**EgoBridge: Domain Adaptation for Generalizable Imitation from Egocentric Human Data**|Danfei Xu Team|[2509.19626](http://arxiv.org/abs/2509.19626)|null|
+|**2025-09-23**|**From Space to Time: Enabling Adaptive Safety with Learned Value Functions via Disturbance Recasting**|Sylvia L. Herbert Team|[2509.19597](http://arxiv.org/abs/2509.19597)|null|
+|**2025-09-23**|**Agentic Scene Policies: Unifying Space, Semantics, and Affordances for Robot Action**|Liam Paull Team|[2509.19571](http://arxiv.org/abs/2509.19571)|**[link](https://montrealrobotics.ca/agentic-scene-policies.github.io/)**|
+|**2025-09-23**|**Score the Steps, Not Just the Goal: VLM-Based Subgoal Evaluation for Robotic Manipulation**|Chi-Guhn Lee Team|[2509.19524](http://arxiv.org/abs/2509.19524)|null|
+|**2025-09-23**|**Self-evolved Imitation Learning in Simulated World**|Zhihe Lu Team|[2509.19460](http://arxiv.org/abs/2509.19460)|null|
+|**2025-09-23**|**ROPA: Synthetic Robot Pose Generation for RGB-D Bimanual Data Augmentation**|Daniel Seita Team|[2509.19454](http://arxiv.org/abs/2509.19454)|null|
 |**2025-09-23**|**SOE: Sample-Efficient Robot Policy Self-Improvement via On-Manifold Exploration**|Cewu Lu Team|[2509.19292](http://arxiv.org/abs/2509.19292)|null|
 |**2025-09-23**|**Imitation-Guided Bimanual Planning for Stable Manipulation under Changing External Forces**|Arash Ajoudani Team|[2509.19261](http://arxiv.org/abs/2509.19261)|null|
 |**2025-09-23**|**FUNCanon: Learning Pose-Aware Action Primitives via Functional Object Canonicalization for Generalizable Robotic Manipulation**|Jianwei Zhang Team|[2509.19102](http://arxiv.org/abs/2509.19102)|**[link](https://sites.google.com/view/funcanon)**|
@@ -2264,6 +2277,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-24**|**Discrete Diffusion for Reflective Vision-Language-Action Models in Autonomous Driving**|Xianpeng Lang Team|[2509.20109](http://arxiv.org/abs/2509.20109)|null|
+|**2025-09-24**|**FreezeVLA: Action-Freezing Attacks against Vision-Language-Action Models**|Yu-Gang Jiang Team|[2509.19870](http://arxiv.org/abs/2509.19870)|null|
+|**2025-09-24**|**Beyond Human Demonstrations: Diffusion-Based Reinforcement Learning to Generate Data for VLA Training**|Yi Chen Team|[2509.19752](http://arxiv.org/abs/2509.19752)|null|
+|**2025-09-23**|**Agentic Scene Policies: Unifying Space, Semantics, and Affordances for Robot Action**|Liam Paull Team|[2509.19571](http://arxiv.org/abs/2509.19571)|**[link](https://montrealrobotics.ca/agentic-scene-policies.github.io/)**|
+|**2025-09-23**|**OmniVLA: An Omni-Modal Vision-Language-Action Model for Robot Navigation**|Sergey Levine Team|[2509.19480](http://arxiv.org/abs/2509.19480)|null|
 |**2025-09-23**|**Pure Vision Language Action (VLA) Models: A Comprehensive Survey**|Qingguo Zhou Team|[2509.19012](http://arxiv.org/abs/2509.19012)|null|
 |**2025-09-23**|**Eva-VLA: Evaluating Vision-Language-Action Models' Robustness Under Real-World Physical Variations**|Wen Yao Team|[2509.18953](http://arxiv.org/abs/2509.18953)|null|
 |**2025-09-22**|**Latent Action Pretraining Through World Modeling**|Ian Reid Team|[2509.18428](http://arxiv.org/abs/2509.18428)|null|
