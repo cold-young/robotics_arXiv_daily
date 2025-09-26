@@ -9,6 +9,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-25**|**Inverse Reinforcement Learning Using Just Classification and a Few Regressions**|Aurélien Bibaut Team|[2509.21172](http://arxiv.org/abs/2509.21172)|null|
+|**2025-09-25**|**ImaginationPolicy: Towards Generalizable, Precise and Reliable End-to-End Policy for Robotic Manipulation**|Kui Jia Team|[2509.20841](http://arxiv.org/abs/2509.20841)|**[link](https://sites.google.com/view/imaginationpolicy)**|
+|**2025-09-25**|**Joint Flow Trajectory Optimization For Feasible Robot Motion Generation from Video Demonstrations**|Weiming Zhi Team|[2509.20703](http://arxiv.org/abs/2509.20703)|null|
+|**2025-09-24**|**Large Pre-Trained Models for Bimanual Manipulation in 3D**|David Meger Team|[2509.20579](http://arxiv.org/abs/2509.20579)|null|
+|**2025-09-24**|**Selective Progress-Aware Querying for Human-in-the-Loop Reinforcement Learning**|Anamika J H Team|[2509.20541](http://arxiv.org/abs/2509.20541)|null|
 |**2025-09-24**|**mindmap: Spatial Memory in Deep Feature Maps for 3D Action Policies**|Shiwei Sheng Team|[2509.20297](http://arxiv.org/abs/2509.20297)|null|
 |**2025-09-24**|**Discrete Diffusion for Reflective Vision-Language-Action Models in Autonomous Driving**|Xianpeng Lang Team|[2509.20109](http://arxiv.org/abs/2509.20109)|null|
 |**2025-09-24**|**LLM Trainer: Automated Robotic Data Generating via Demonstration Augmentation using LLMs**|Amir Barati Farimani Team|[2509.20070](http://arxiv.org/abs/2509.20070)|null|
@@ -2277,12 +2282,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-25**|**RetoVLA: Reusing Register Tokens for Spatial Reasoning in Vision-Language-Action Models**|Andrew Jaeyong Choi Team|[2509.21243](http://arxiv.org/abs/2509.21243)|null|
 |**2025-09-24**|**Discrete Diffusion for Reflective Vision-Language-Action Models in Autonomous Driving**|Xianpeng Lang Team|[2509.20109](http://arxiv.org/abs/2509.20109)|null|
 |**2025-09-24**|**FreezeVLA: Action-Freezing Attacks against Vision-Language-Action Models**|Yu-Gang Jiang Team|[2509.19870](http://arxiv.org/abs/2509.19870)|null|
 |**2025-09-24**|**Beyond Human Demonstrations: Diffusion-Based Reinforcement Learning to Generate Data for VLA Training**|Yi Chen Team|[2509.19752](http://arxiv.org/abs/2509.19752)|null|
 |**2025-09-23**|**Agentic Scene Policies: Unifying Space, Semantics, and Affordances for Robot Action**|Liam Paull Team|[2509.19571](http://arxiv.org/abs/2509.19571)|**[link](https://montrealrobotics.ca/agentic-scene-policies.github.io/)**|
 |**2025-09-23**|**OmniVLA: An Omni-Modal Vision-Language-Action Model for Robot Navigation**|Sergey Levine Team|[2509.19480](http://arxiv.org/abs/2509.19480)|null|
-|**2025-09-23**|**Pure Vision Language Action (VLA) Models: A Comprehensive Survey**|Qingguo Zhou Team|[2509.19012](http://arxiv.org/abs/2509.19012)|null|
+|**2025-09-25**|**Pure Vision Language Action (VLA) Models: A Comprehensive Survey**|Qingguo Zhou Team|[2509.19012](http://arxiv.org/abs/2509.19012)|null|
 |**2025-09-23**|**Eva-VLA: Evaluating Vision-Language-Action Models' Robustness Under Real-World Physical Variations**|Wen Yao Team|[2509.18953](http://arxiv.org/abs/2509.18953)|null|
 |**2025-09-22**|**Latent Action Pretraining Through World Modeling**|Ian Reid Team|[2509.18428](http://arxiv.org/abs/2509.18428)|null|
 |**2025-09-18**|**VLA-LPAF: Lightweight Perspective-Adaptive Fusion for Vision-Language-Action to Enable More Unconstrained Robotic Manipulation**|Anzhou Hou Team|[2509.18183](http://arxiv.org/abs/2509.18183)|null|
