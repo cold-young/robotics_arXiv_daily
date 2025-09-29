@@ -16,6 +16,21 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-09-26**|**Pixel Motion Diffusion is What We Need for Robot Control**|Michael S. Ryoo Team|[2509.22652](http://arxiv.org/abs/2509.22652)|null|
+|**2025-09-26**|**VLA-Reasoner: Empowering Vision-Language-Action Models with Reasoning via Online Monte Carlo Tree Search**|Ziwei Wang Team|[2509.22643](http://arxiv.org/abs/2509.22643)|null|
+|**2025-09-26**|**Learn the Ropes, Then Trust the Wins: Self-imitation with Progressive Exploration for Agentic Reinforcement Learning**|Xing Sun Team|[2509.22601](http://arxiv.org/abs/2509.22601)|null|
+|**2025-09-26**|**EgoDemoGen: Novel Egocentric Demonstration Generation Enables Viewpoint-Robust Manipulation**|Liang Wang Team|[2509.22578](http://arxiv.org/abs/2509.22578)|null|
+|**2025-09-26**|**Learning to Ball: Composing Policies for Long-Horizon Basketball Moves**|C. Karen Liu Team|[2509.22442](http://arxiv.org/abs/2509.22442)|**[link](http://pei-xu.github.io/basketball.)**|
+|**2025-09-26**|**EMMA: Generalizing Real-World Robot Manipulation via Generative Visual Transfer**|Guan Huang Team|[2509.22407](http://arxiv.org/abs/2509.22407)|null|
+|**2025-09-26**|**ReLAM: Learning Anticipation Model for Rewarding Visual Robotic Manipulation**|Yang Yu Team|[2509.22402](http://arxiv.org/abs/2509.22402)|null|
+|**2025-09-26**|**RoboView-Bias: Benchmarking Visual Bias in Embodied Agents for Robotic Manipulation**|Shuchao Pang Team|[2509.22356](http://arxiv.org/abs/2509.22356)|null|
+|**2025-09-26**|**DemoGrasp: Universal Dexterous Grasping from a Single Demonstration**|Zongqing Lu Team|[2509.22149](http://arxiv.org/abs/2509.22149)|null|
+|**2025-09-26**|**Action-aware Dynamic Pruning for Efficient Vision-Language-Action Manipulation**|Chang Xu Team|[2509.22093](http://arxiv.org/abs/2509.22093)|null|
+|**2025-09-26**|**Teaching Transformers to Solve Combinatorial Problems through Efficient Trial & Error**|Christos Tzamos Team|[2509.22023](http://arxiv.org/abs/2509.22023)|null|
+|**2025-09-26**|**WAVE: Worm Gear-based Adaptive Variable Elasticity for Decoupling Actuators from External Forces**|Kazutoshi Tanaka Team|[2509.21878](http://arxiv.org/abs/2509.21878)|null|
+|**2025-09-26**|**Learning Multi-Skill Legged Locomotion Using Conditional Adversarial Motion Priors**|Qinchuan Li Team|[2509.21810](http://arxiv.org/abs/2509.21810)|null|
+|**2025-09-26**|**The Turkish Ice Cream Robot: Examining Playful Deception in Social Human-Robot Interactions**|Matthew Pan Team|[2509.21776](http://arxiv.org/abs/2509.21776)|**[link](https://hyeonseong-kim98.github.io/turkish-ice-cream-robot/)**|
+|**2025-09-25**|**Generating Stable Placements via Physics-guided Diffusion Models**|Jonathan Kelly Team|[2509.21664](http://arxiv.org/abs/2509.21664)|null|
 |**2025-09-25**|**Inverse Reinforcement Learning Using Just Classification and a Few Regressions**|Aurélien Bibaut Team|[2509.21172](http://arxiv.org/abs/2509.21172)|null|
 |**2025-09-25**|**ImaginationPolicy: Towards Generalizable, Precise and Reliable End-to-End Policy for Robotic Manipulation**|Kui Jia Team|[2509.20841](http://arxiv.org/abs/2509.20841)|**[link](https://sites.google.com/view/imaginationpolicy)**|
 |**2025-09-25**|**Joint Flow Trajectory Optimization For Feasible Robot Motion Generation from Video Demonstrations**|Weiming Zhi Team|[2509.20703](http://arxiv.org/abs/2509.20703)|null|
@@ -2293,6 +2308,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-09-26**|**VLA-Reasoner: Empowering Vision-Language-Action Models with Reasoning via Online Monte Carlo Tree Search**|Ziwei Wang Team|[2509.22643](http://arxiv.org/abs/2509.22643)|null|
+|**2025-09-26**|**UnderwaterVLA: Dual-brain Vision-Language-Action architecture for Autonomous Underwater Navigation**|Dixia Fan Team|[2509.22441](http://arxiv.org/abs/2509.22441)|null|
+|**2025-09-26**|**EMMA: Generalizing Real-World Robot Manipulation via Generative Visual Transfer**|Guan Huang Team|[2509.22407](http://arxiv.org/abs/2509.22407)|null|
+|**2025-09-26**|**MimicDreamer: Aligning Human and Robot Demonstrations for Scalable VLA Training**|Xingang Wang Team|[2509.22199](http://arxiv.org/abs/2509.22199)|null|
+|**2025-09-26**|**Actions as Language: Fine-Tuning VLMs into VLAs Without Catastrophic Forgetting**|Anirudha Majumdar Team|[2509.22195](http://arxiv.org/abs/2509.22195)|null|
+|**2025-09-26**|**Action-aware Dynamic Pruning for Efficient Vision-Language-Action Manipulation**|Chang Xu Team|[2509.22093](http://arxiv.org/abs/2509.22093)|null|
+|**2025-09-26**|**Developing Vision-Language-Action Model from Egocentric Videos**|Shinsuke Mori Team|[2509.21986](http://arxiv.org/abs/2509.21986)|null|
+|**2025-09-20**|**KV-Efficient VLA: A Method of Speed up Vision Language Model with RNN-Gated Chunked KV Cache**|Long Zhuang Team|[2509.21354](http://arxiv.org/abs/2509.21354)|null|
 |**2025-09-25**|**RetoVLA: Reusing Register Tokens for Spatial Reasoning in Vision-Language-Action Models**|Andrew Jaeyong Choi Team|[2509.21243](http://arxiv.org/abs/2509.21243)|null|
 |**2025-09-24**|**Discrete Diffusion for Reflective Vision-Language-Action Models in Autonomous Driving**|Xianpeng Lang Team|[2509.20109](http://arxiv.org/abs/2509.20109)|null|
 |**2025-09-24**|**FreezeVLA: Action-Freezing Attacks against Vision-Language-Action Models**|Yu-Gang Jiang Team|[2509.19870](http://arxiv.org/abs/2509.19870)|null|
@@ -2702,6 +2725,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-09-26**|**DemoGrasp: Universal Dexterous Grasping from a Single Demonstration**|Zongqing Lu Team|[2509.22149](http://arxiv.org/abs/2509.22149)|null|
 |**2025-09-25**|**Residual Off-Policy RL for Finetuning Behavior Cloning Policies**|Anusha Nagabandi Team|[2509.19301](http://arxiv.org/abs/2509.19301)|**[link](https://residual-offpolicy-rl.github.io)**|
 |**2025-09-23**|**Lang2Morph: Language-Driven Morphological Design of Robotic Hands**|Josie Hughes Team|[2509.18937](http://arxiv.org/abs/2509.18937)|null|
 |**2025-09-22**|**Learning Geometry-Aware Nonprehensile Pushing and Pulling with Dexterous Hands**|Daniel Seita Team|[2509.18455](http://arxiv.org/abs/2509.18455)|null|
