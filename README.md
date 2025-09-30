@@ -16,6 +16,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-09-29**|**Curriculum Imitation Learning of Distributed Multi-Robot Policies**|Eduardo Montijano Team|[2509.25097](http://arxiv.org/abs/2509.25097)|null|
+|**2025-09-29**|**Annotation-Free One-Shot Imitation Learning for Multi-Step Manipulation Tasks**|Ruchi Choudhary Team|[2509.24972](http://arxiv.org/abs/2509.24972)|null|
+|**2025-09-29**|**MSG: Multi-Stream Generative Policies for Sample-Efficient Robotic Manipulation**|Abhinav Valada Team|[2509.24956](http://arxiv.org/abs/2509.24956)|null|
+|**2025-09-29**|**World-Env: Leveraging World Model as a Virtual Environment for VLA Post-Training**|Qing Zhang Team|[2509.24948](http://arxiv.org/abs/2509.24948)|null|
+|**2025-09-29**|**From Code to Action: Hierarchical Learning of Diffusion-VLM Policies**|Daniel Dijkman Team|[2509.24917](http://arxiv.org/abs/2509.24917)|null|
+|**2025-09-29**|**Quantifying Generalisation in Imitation Learning**|Odinaldo Rodrigues Team|[2509.24784](http://arxiv.org/abs/2509.24784)|null|
+|**2025-09-29**|**IA-VLA: Input Augmentation for Vision-Language-Action models in settings with semantically complex tasks**|Ville Kyrki Team|[2509.24768](http://arxiv.org/abs/2509.24768)|null|
+|**2025-09-29**|**Stabilizing Humanoid Robot Trajectory Generation via Physics-Informed Learning and Control-Informed Steering**|Daniele Pucci Team|[2509.24697](http://arxiv.org/abs/2509.24697)|null|
+|**2025-09-29**|**CEDex: Cross-Embodiment Dexterous Grasp Generation at Scale from Human-like Contact Representations**|Shan Luo Team|[2509.24661](http://arxiv.org/abs/2509.24661)|null|
+|**2025-09-29**|**U-DiT Policy: U-shaped Diffusion Transformers for Robotic Manipulation**|Zhongxue Gan Team|[2509.24579](http://arxiv.org/abs/2509.24579)|null|
+|**2025-09-29**|**Unlocking the Potential of Soft Actor-Critic for Imitation Learning**|Frank Kirchner Team|[2509.24539](http://arxiv.org/abs/2509.24539)|null|
+|**2025-09-29**|**Learning to Sample: Reinforcement Learning-Guided Sampling for Autonomous Vehicle Motion Planning**|Johannes Betz Team|[2509.24313](http://arxiv.org/abs/2509.24313)|null|
+|**2025-09-29**|**FreeAction: Training-Free Techniques for Enhanced Fidelity of Trajectory-to-Video Generation**|Minsu Cho Team|[2509.24241](http://arxiv.org/abs/2509.24241)|null|
+|**2025-09-29**|**ViReSkill: Vision-Grounded Replanning with Skill Memory for LLM-Based Planning in Lifelong Robot Learning**|Yang You Team|[2509.24219](http://arxiv.org/abs/2509.24219)|null|
+|**2025-09-29**|**Preference-Based Long-Horizon Robotic Stacking with Multimodal Large Language Models**|Sethu Vijayakumar Team|[2509.24163](http://arxiv.org/abs/2509.24163)|null|
+|**2025-09-29**|**Memory Transfer Planning: LLM-driven Context-Aware Code Adaptation for Robot Manipulation**|Yang You Team|[2509.24160](http://arxiv.org/abs/2509.24160)|null|
+|**2025-09-28**|**Mash, Spread, Slice! Learning to Manipulate Object States via Visual Spatial Progress**|Kristen Grauman Team|[2509.24129](http://arxiv.org/abs/2509.24129)|null|
+|**2025-09-28**|**DexFlyWheel: A Scalable and Self-improving Data Generation Framework for Dexterous Manipulation**|Yuanpei Chen Team|[2509.23829](http://arxiv.org/abs/2509.23829)|null|
+|**2025-09-28**|**Control Your Robot: A Unified System for Robot Control and Policy Deployment**|Bingshan Hu Team|[2509.23823](http://arxiv.org/abs/2509.23823)|**[link](https://github.com/Tian-Nian/control_your_robot)**|
+|**2025-09-28**|**Sequence Pathfinder for Multi-Agent Pickup and Delivery in the Warehouse**|Ying Wen Team|[2509.23778](http://arxiv.org/abs/2509.23778)|null|
 |**2025-09-26**|**Pixel Motion Diffusion is What We Need for Robot Control**|Michael S. Ryoo Team|[2509.22652](http://arxiv.org/abs/2509.22652)|null|
 |**2025-09-26**|**VLA-Reasoner: Empowering Vision-Language-Action Models with Reasoning via Online Monte Carlo Tree Search**|Ziwei Wang Team|[2509.22643](http://arxiv.org/abs/2509.22643)|null|
 |**2025-09-26**|**Learn the Ropes, Then Trust the Wins: Self-imitation with Progressive Exploration for Agentic Reinforcement Learning**|Xing Sun Team|[2509.22601](http://arxiv.org/abs/2509.22601)|null|
@@ -2308,10 +2328,20 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-09-29**|**AIRoA MoMa Dataset: A Large-Scale Hierarchical Dataset for Mobile Manipulation**|Tetsuya Ogata Team|[2509.25032](http://arxiv.org/abs/2509.25032)|null|
+|**2025-09-29**|**World-Env: Leveraging World Model as a Virtual Environment for VLA Post-Training**|Qing Zhang Team|[2509.24948](http://arxiv.org/abs/2509.24948)|null|
+|**2025-09-29**|**IA-VLA: Input Augmentation for Vision-Language-Action models in settings with semantically complex tasks**|Ville Kyrki Team|[2509.24768](http://arxiv.org/abs/2509.24768)|null|
+|**2025-09-29**|**Emergent World Representations in OpenVLA**|Omar G. Younis Team|[2509.24559](http://arxiv.org/abs/2509.24559)|null|
+|**2025-09-29**|**PhysiAgent: An Embodied Agent Framework in Physical World**|Xianyuan Zhan Team|[2509.24524](http://arxiv.org/abs/2509.24524)|null|
+|**2025-09-28**|**AutoPrune: Each Complexity Deserves a Pruning Policy**|Zhipeng Zhang Team|[2509.23931](http://arxiv.org/abs/2509.23931)|null|
+|**2025-09-28**|**Control Your Robot: A Unified System for Robot Control and Policy Deployment**|Bingshan Hu Team|[2509.23823](http://arxiv.org/abs/2509.23823)|**[link](https://github.com/Tian-Nian/control_your_robot)**|
+|**2025-09-28**|**Focusing on What Matters: Object-Agent-centric Tokenization for Vision Language Action models**|Pietro Mazzaglia Team|[2509.23655](http://arxiv.org/abs/2509.23655)|null|
+|**2025-09-27**|**Leave No Observation Behind: Real-time Correction for VLA Action Chunks**|Yusuke Iwasawa Team|[2509.23224](http://arxiv.org/abs/2509.23224)|null|
+|**2025-09-27**|**Transferring Vision-Language-Action Models to Industry Applications: Architectures, Performance, and Challenges**|Zhibo Pang Team|[2509.23121](http://arxiv.org/abs/2509.23121)|null|
 |**2025-09-26**|**VLA-Reasoner: Empowering Vision-Language-Action Models with Reasoning via Online Monte Carlo Tree Search**|Ziwei Wang Team|[2509.22643](http://arxiv.org/abs/2509.22643)|null|
 |**2025-09-26**|**UnderwaterVLA: Dual-brain Vision-Language-Action architecture for Autonomous Underwater Navigation**|Dixia Fan Team|[2509.22441](http://arxiv.org/abs/2509.22441)|null|
 |**2025-09-26**|**EMMA: Generalizing Real-World Robot Manipulation via Generative Visual Transfer**|Guan Huang Team|[2509.22407](http://arxiv.org/abs/2509.22407)|null|
-|**2025-09-26**|**MimicDreamer: Aligning Human and Robot Demonstrations for Scalable VLA Training**|Xingang Wang Team|[2509.22199](http://arxiv.org/abs/2509.22199)|null|
+|**2025-09-29**|**MimicDreamer: Aligning Human and Robot Demonstrations for Scalable VLA Training**|Xingang Wang Team|[2509.22199](http://arxiv.org/abs/2509.22199)|null|
 |**2025-09-26**|**Actions as Language: Fine-Tuning VLMs into VLAs Without Catastrophic Forgetting**|Anirudha Majumdar Team|[2509.22195](http://arxiv.org/abs/2509.22195)|null|
 |**2025-09-26**|**Action-aware Dynamic Pruning for Efficient Vision-Language-Action Manipulation**|Chang Xu Team|[2509.22093](http://arxiv.org/abs/2509.22093)|null|
 |**2025-09-26**|**Developing Vision-Language-Action Model from Egocentric Videos**|Shinsuke Mori Team|[2509.21986](http://arxiv.org/abs/2509.21986)|null|
@@ -2725,6 +2755,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-09-28**|**DexFlyWheel: A Scalable and Self-improving Data Generation Framework for Dexterous Manipulation**|Yuanpei Chen Team|[2509.23829](http://arxiv.org/abs/2509.23829)|null|
 |**2025-09-26**|**DemoGrasp: Universal Dexterous Grasping from a Single Demonstration**|Zongqing Lu Team|[2509.22149](http://arxiv.org/abs/2509.22149)|null|
 |**2025-09-25**|**Residual Off-Policy RL for Finetuning Behavior Cloning Policies**|Anusha Nagabandi Team|[2509.19301](http://arxiv.org/abs/2509.19301)|**[link](https://residual-offpolicy-rl.github.io)**|
 |**2025-09-23**|**Lang2Morph: Language-Driven Morphological Design of Robotic Hands**|Josie Hughes Team|[2509.18937](http://arxiv.org/abs/2509.18937)|null|
