@@ -16,6 +16,19 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-09-30**|**MLA: A Multisensory Language-Action Model for Multimodal Understanding and Forecasting in Robotic Manipulation**|Shanghang Zhang Team|[2509.26642](http://arxiv.org/abs/2509.26642)|null|
+|**2025-09-30**|**Learning from Hallucinating Critical Points for Navigation in Dynamic Environments**|Xuesu Xiao Team|[2509.26513](http://arxiv.org/abs/2509.26513)|null|
+|**2025-09-30**|**Anomaly detection for generic failure monitoring in robotic assembly, screwing and manipulation**|Kevin Haninger Team|[2509.26308](http://arxiv.org/abs/2509.26308)|null|
+|**2025-09-30**|**Noise-Guided Transport for Imitation Learning**|Alexandros Kalousis Team|[2509.26294](http://arxiv.org/abs/2509.26294)|null|
+|**2025-09-30**|**Reinforced Embodied Planning with Verifiable Reward for Real-World Robotic Manipulation**|Hao Chen Team|[2509.25852](http://arxiv.org/abs/2509.25852)|null|
+|**2025-09-30**|**Act to See, See to Act: Diffusion-Driven Perception-Action Interplay for Adaptive Policies**|Li Cheng Team|[2509.25822](http://arxiv.org/abs/2509.25822)|null|
+|**2025-09-30**|**Point-It-Out: Benchmarking Embodied Reasoning for Vision Language Models in Multi-Stage Visual Grounding**|Jiaojiao Fan Team|[2509.25794](http://arxiv.org/abs/2509.25794)|null|
+|**2025-09-30**|**SAC Flow: Sample-Efficient Reinforcement Learning of Flow-Based Policies via Velocity-Reparameterized Sequential Modeling**|Wenbo Ding Team|[2509.25756](http://arxiv.org/abs/2509.25756)|null|
+|**2025-09-30**|**Best of Sim and Real: Decoupled Visuomotor Manipulation via Learning Control in Simulation and Perception in Real**|Yang Gao Team|[2509.25747](http://arxiv.org/abs/2509.25747)|null|
+|**2025-09-29**|**Boolean Satisfiability via Imitation Learning**|Xiangyu Xu Team|[2509.25411](http://arxiv.org/abs/2509.25411)|null|
+|**2025-09-29**|**Parallel Heuristic Search as Inference for Actor-Critic Reinforcement Learning Models**|Maxim Likhachev Team|[2509.25402](http://arxiv.org/abs/2509.25402)|null|
+|**2025-09-29**|**SARM: Stage-Aware Reward Modeling for Long Horizon Robot Manipulation**|Philipp Wu Team|[2509.25358](http://arxiv.org/abs/2509.25358)|null|
+|**2025-09-29**|**SRMP: Search-Based Robot Motion Planning Library**|Maxim Likhachev Team|[2509.25352](http://arxiv.org/abs/2509.25352)|null|
 |**2025-09-29**|**Curriculum Imitation Learning of Distributed Multi-Robot Policies**|Eduardo Montijano Team|[2509.25097](http://arxiv.org/abs/2509.25097)|null|
 |**2025-09-29**|**Annotation-Free One-Shot Imitation Learning for Multi-Step Manipulation Tasks**|Ruchi Choudhary Team|[2509.24972](http://arxiv.org/abs/2509.24972)|null|
 |**2025-09-29**|**MSG: Multi-Stream Generative Policies for Sample-Efficient Robotic Manipulation**|Abhinav Valada Team|[2509.24956](http://arxiv.org/abs/2509.24956)|null|
@@ -2328,6 +2341,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-09-30**|**MLA: A Multisensory Language-Action Model for Multimodal Understanding and Forecasting in Robotic Manipulation**|Shanghang Zhang Team|[2509.26642](http://arxiv.org/abs/2509.26642)|null|
+|**2025-09-30**|**MUVLA: Learning to Explore Object Navigation via Map Understanding**|Jianye Hao Team|[2509.25966](http://arxiv.org/abs/2509.25966)|null|
+|**2025-09-30**|**TacRefineNet: Tactile-Only Grasp Refinement Between Arbitrary In-Hand Object Poses**|Yangwei You Team|[2509.25746](http://arxiv.org/abs/2509.25746)|null|
+|**2025-09-30**|**VLA Model Post-Training via Action-Chunked PPO and Self Behavior Cloning**|Zeng-Guang Hou Team|[2509.25718](http://arxiv.org/abs/2509.25718)|null|
+|**2025-09-30**|**dVLA: Diffusion Vision-Language-Action Model with Multimodal Chain-of-Thought**|Yi Xu Team|[2509.25681](http://arxiv.org/abs/2509.25681)|null|
 |**2025-09-29**|**AIRoA MoMa Dataset: A Large-Scale Hierarchical Dataset for Mobile Manipulation**|Tetsuya Ogata Team|[2509.25032](http://arxiv.org/abs/2509.25032)|null|
 |**2025-09-29**|**World-Env: Leveraging World Model as a Virtual Environment for VLA Post-Training**|Qing Zhang Team|[2509.24948](http://arxiv.org/abs/2509.24948)|null|
 |**2025-09-29**|**IA-VLA: Input Augmentation for Vision-Language-Action models in settings with semantically complex tasks**|Ville Kyrki Team|[2509.24768](http://arxiv.org/abs/2509.24768)|null|
@@ -2755,6 +2773,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-09-30**|**ISyHand: A Dexterous Multi-finger Robot Hand with an Articulated Palm**|Katherine J. Kuchenbecker Team|[2509.26236](http://arxiv.org/abs/2509.26236)|null|
 |**2025-09-28**|**DexFlyWheel: A Scalable and Self-improving Data Generation Framework for Dexterous Manipulation**|Yuanpei Chen Team|[2509.23829](http://arxiv.org/abs/2509.23829)|null|
 |**2025-09-26**|**DemoGrasp: Universal Dexterous Grasping from a Single Demonstration**|Zongqing Lu Team|[2509.22149](http://arxiv.org/abs/2509.22149)|null|
 |**2025-09-25**|**Residual Off-Policy RL for Finetuning Behavior Cloning Policies**|Anusha Nagabandi Team|[2509.19301](http://arxiv.org/abs/2509.19301)|**[link](https://residual-offpolicy-rl.github.io)**|
