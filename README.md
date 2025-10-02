@@ -21,7 +21,7 @@
 |**2025-09-30**|**Anomaly detection for generic failure monitoring in robotic assembly, screwing and manipulation**|Kevin Haninger Team|[2509.26308](http://arxiv.org/abs/2509.26308)|null|
 |**2025-09-30**|**Noise-Guided Transport for Imitation Learning**|Alexandros Kalousis Team|[2509.26294](http://arxiv.org/abs/2509.26294)|null|
 |**2025-09-30**|**Reinforced Embodied Planning with Verifiable Reward for Real-World Robotic Manipulation**|Hao Chen Team|[2509.25852](http://arxiv.org/abs/2509.25852)|null|
-|**2025-09-30**|**Act to See, See to Act: Diffusion-Driven Perception-Action Interplay for Adaptive Policies**|Li Cheng Team|[2509.25822](http://arxiv.org/abs/2509.25822)|null|
+|**2025-10-01**|**Act to See, See to Act: Diffusion-Driven Perception-Action Interplay for Adaptive Policies**|Li Cheng Team|[2509.25822](http://arxiv.org/abs/2509.25822)|null|
 |**2025-09-30**|**Point-It-Out: Benchmarking Embodied Reasoning for Vision Language Models in Multi-Stage Visual Grounding**|Jiaojiao Fan Team|[2509.25794](http://arxiv.org/abs/2509.25794)|null|
 |**2025-09-30**|**SAC Flow: Sample-Efficient Reinforcement Learning of Flow-Based Policies via Velocity-Reparameterized Sequential Modeling**|Wenbo Ding Team|[2509.25756](http://arxiv.org/abs/2509.25756)|null|
 |**2025-09-30**|**Best of Sim and Real: Decoupled Visuomotor Manipulation via Learning Control in Simulation and Perception in Real**|Yang Gao Team|[2509.25747](http://arxiv.org/abs/2509.25747)|null|
@@ -2342,6 +2342,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2025-09-30**|**MLA: A Multisensory Language-Action Model for Multimodal Understanding and Forecasting in Robotic Manipulation**|Shanghang Zhang Team|[2509.26642](http://arxiv.org/abs/2509.26642)|null|
+|**2025-09-30**|**Seeing Space and Motion: Enhancing Latent Actions with Spatial and Dynamic Awareness for VLA**|Ruqi Huang Team|[2509.26251](http://arxiv.org/abs/2509.26251)|null|
 |**2025-09-30**|**MUVLA: Learning to Explore Object Navigation via Map Understanding**|Jianye Hao Team|[2509.25966](http://arxiv.org/abs/2509.25966)|null|
 |**2025-09-30**|**TacRefineNet: Tactile-Only Grasp Refinement Between Arbitrary In-Hand Object Poses**|Yangwei You Team|[2509.25746](http://arxiv.org/abs/2509.25746)|null|
 |**2025-09-30**|**VLA Model Post-Training via Action-Chunked PPO and Self Behavior Cloning**|Zeng-Guang Hou Team|[2509.25718](http://arxiv.org/abs/2509.25718)|null|
