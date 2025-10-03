@@ -16,6 +16,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-02**|**ARMADA: Autonomous Online Failure Detection and Human Shared Control Empower Scalable Real-world Deployment and Adaptation**|Cewu Lu Team|[2510.02298](http://arxiv.org/abs/2510.02298)|null|
+|**2025-10-02**|**Do You Know Where Your Camera Is? View-Invariant Policy Learning with Camera Conditioning**|Matthew R. Walter Team|[2510.02268](http://arxiv.org/abs/2510.02268)|null|
+|**2025-10-02**|**GRACE: A Language Model Framework for Explainable Inverse Reinforcement Learning**|Bogdan Mazoure Team|[2510.02180](http://arxiv.org/abs/2510.02180)|null|
+|**2025-10-02**|**Fine-Tuning Flow Matching via Maximum Likelihood Estimation of Reconstructions**|Shihua Li Team|[2510.02081](http://arxiv.org/abs/2510.02081)|null|
+|**2025-10-02**|**Contrastive Representation Regularization for Vision-Language-Action Models**|Jinwoo Shin Team|[2510.01711](http://arxiv.org/abs/2510.01711)|null|
+|**2025-10-02**|**Symskill: Symbol and Skill Co-Invention for Data-Efficient and Real-Time Long-Horizon Manipulation**|Nadia Figueroa Team|[2510.01661](http://arxiv.org/abs/2510.01661)|**[link](https://sites.google.com/view/symskill))**|
+|**2025-10-02**|**FailSafe: Reasoning and Recovery from Failures in Vision-Language-Action Models**|Bihan Wen Team|[2510.01642](http://arxiv.org/abs/2510.01642)|**[link](https://jimntu.github.io/FailSafe/)**|
+|**2025-10-02**|**MIMIC: Integrating Diverse Personality Traits for Better Game Testing Using Large Language Model**|Lili Wei Team|[2510.01635](http://arxiv.org/abs/2510.01635)|null|
+|**2025-10-02**|**ActiveUMI: Robotic Manipulation with Active Perception from Robot-Free Human Demonstrations**|Yi Xu Team|[2510.01607](http://arxiv.org/abs/2510.01607)|**[link](https://activeumi.github.io)**|
+|**2025-10-02**|**MiniBEE: A New Form Factor for Compact Bimanual Dexterity**|Matei Ciocarlie Team|[2510.01603](http://arxiv.org/abs/2510.01603)|null|
+|**2025-10-02**|**Predictive Preference Learning from Human Interventions**|Bolei Zhou Team|[2510.01545](http://arxiv.org/abs/2510.01545)|**[link](https://metadriverse.github.io/ppl)**|
+|**2025-10-02**|**Information Seeking for Robust Decision Making under Partial Observability**|Tsung-Wei Ke Team|[2510.01531](http://arxiv.org/abs/2510.01531)|**[link](https://infoseekerllm.github.io)**|
+|**2025-10-01**|**Online Hierarchical Policy Learning using Physics Priors for Robot Navigation in Unknown Environments**|Ahmed H. Qureshi Team|[2510.01519](http://arxiv.org/abs/2510.01519)|null|
+|**2025-10-01**|**Density-Ratio Weighted Behavioral Cloning: Learning Control Policies from Corrupted Datasets**|Ali Baheri Team|[2510.01479](http://arxiv.org/abs/2510.01479)|null|
+|**2025-10-01**|**AFFORD2ACT: Affordance-Guided Automatic Keypoint Selection for Generalizable and Lightweight Robotic Manipulation**|Pratap Tokekar Team|[2510.01433](http://arxiv.org/abs/2510.01433)|null|
+|**2025-10-01**|**How Well do Diffusion Policies Learn Kinematic Constraint Manifolds?**|Russ Tedrake Team|[2510.01404](http://arxiv.org/abs/2510.01404)|**[link](https://diffusion-learns-kinematic.github.io)**|
+|**2025-10-01**|**Temporal Score Rescaling for Temperature Sampling in Diffusion and Flow Models**|Shubham Tulsiani Team|[2510.01184](http://arxiv.org/abs/2510.01184)|null|
+|**2025-10-01**|**Prometheus: Universal, Open-Source Mocap-Based Teleoperation System with Force Feedback for Dataset Collection in Robot Learning**|D. Tsetserukou Team|[2510.01023](http://arxiv.org/abs/2510.01023)|null|
+|**2025-10-01**|**On Discovering Algorithms for Adversarial Imitation Learning**|Pradeep Varakantham Team|[2510.00922](http://arxiv.org/abs/2510.00922)|null|
+|**2025-10-01**|**TubeDAgger: Reducing the Number of Expert Interventions with Stochastic Reach-Tubes**|Sophie A. Neubauer Team|[2510.00906](http://arxiv.org/abs/2510.00906)|null|
 |**2025-09-30**|**MLA: A Multisensory Language-Action Model for Multimodal Understanding and Forecasting in Robotic Manipulation**|Shanghang Zhang Team|[2509.26642](http://arxiv.org/abs/2509.26642)|null|
 |**2025-09-30**|**Learning from Hallucinating Critical Points for Navigation in Dynamic Environments**|Xuesu Xiao Team|[2509.26513](http://arxiv.org/abs/2509.26513)|null|
 |**2025-09-30**|**Anomaly detection for generic failure monitoring in robotic assembly, screwing and manipulation**|Kevin Haninger Team|[2509.26308](http://arxiv.org/abs/2509.26308)|null|
@@ -2341,6 +2361,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-02**|**Contrastive Representation Regularization for Vision-Language-Action Models**|Jinwoo Shin Team|[2510.01711](http://arxiv.org/abs/2510.01711)|null|
+|**2025-10-02**|**FailSafe: Reasoning and Recovery from Failures in Vision-Language-Action Models**|Bihan Wen Team|[2510.01642](http://arxiv.org/abs/2510.01642)|**[link](https://jimntu.github.io/FailSafe/)**|
+|**2025-10-02**|**VLA-R1: Enhancing Reasoning in Vision-Language-Action Models**|Zheng Zhu Team|[2510.01623](http://arxiv.org/abs/2510.01623)|null|
+|**2025-10-01**|**INSIGHT: INference-time Sequence Introspection for Generating Help Triggers in Vision-Language-Action Models**|Tesca FItzgerald Team|[2510.01389](http://arxiv.org/abs/2510.01389)|null|
+|**2025-10-01**|**Compose Your Policies! Improving Diffusion-based or Flow-based Robot Policies via Test-time Distribution-level Composition**|Andrew F. Luo Team|[2510.01068](http://arxiv.org/abs/2510.01068)|**[link](https://sagecao1125.github.io/GPC-Site/)**|
+|**2025-10-02**|**HAMLET: Switch your Vision-Language-Action Model into a History-Aware Policy**|Jinwoo Shin Team|[2510.00695](http://arxiv.org/abs/2510.00695)|**[link](https://myungkyukoo.github.io/hamlet/)**|
+|**2025-10-01**|**Hybrid Training for Vision-Language-Action Models**|Daniel Dijkman Team|[2510.00600](http://arxiv.org/abs/2510.00600)|null|
+|**2025-10-01**|**VLA-RFT: Vision-Language-Action Reinforcement Fine-tuning with Verified Rewards in World Simulators**|Weihua Su Team|[2510.00406](http://arxiv.org/abs/2510.00406)|null|
 |**2025-09-30**|**MLA: A Multisensory Language-Action Model for Multimodal Understanding and Forecasting in Robotic Manipulation**|Shanghang Zhang Team|[2509.26642](http://arxiv.org/abs/2509.26642)|null|
 |**2025-09-30**|**Seeing Space and Motion: Enhancing Latent Actions with Spatial and Dynamic Awareness for VLA**|Ruqi Huang Team|[2509.26251](http://arxiv.org/abs/2509.26251)|null|
 |**2025-09-30**|**MUVLA: Learning to Explore Object Navigation via Map Understanding**|Jianye Hao Team|[2509.25966](http://arxiv.org/abs/2509.25966)|null|
