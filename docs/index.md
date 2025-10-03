@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.10.02
+## Updated on 2025.10.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Manipulation
@@ -22,7 +22,7 @@ layout: default
 |**2025-09-29**|**Parallel Heuristic Search as Inference for Actor-Critic Reinforcement Learning Models**|Maxim Likhachev Team|[2509.25402](http://arxiv.org/abs/2509.25402)|null|
 |**2025-09-29**|**SARM: Stage-Aware Reward Modeling for Long Horizon Robot Manipulation**|Philipp Wu Team|[2509.25358](http://arxiv.org/abs/2509.25358)|null|
 |**2025-09-29**|**SRMP: Search-Based Robot Motion Planning Library**|Maxim Likhachev Team|[2509.25352](http://arxiv.org/abs/2509.25352)|null|
-|**2025-09-29**|**Curriculum Imitation Learning of Distributed Multi-Robot Policies**|Eduardo Montijano Team|[2509.25097](http://arxiv.org/abs/2509.25097)|null|
+|**2025-10-01**|**Curriculum Imitation Learning of Distributed Multi-Robot Policies**|Eduardo Montijano Team|[2509.25097](http://arxiv.org/abs/2509.25097)|null|
 |**2025-09-29**|**Annotation-Free One-Shot Imitation Learning for Multi-Step Manipulation Tasks**|Ruchi Choudhary Team|[2509.24972](http://arxiv.org/abs/2509.24972)|null|
 |**2025-09-29**|**MSG: Multi-Stream Generative Policies for Sample-Efficient Robotic Manipulation**|Abhinav Valada Team|[2509.24956](http://arxiv.org/abs/2509.24956)|null|
 |**2025-09-29**|**World-Env: Leveraging World Model as a Virtual Environment for VLA Post-Training**|Qing Zhang Team|[2509.24948](http://arxiv.org/abs/2509.24948)|null|
