@@ -16,6 +16,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-03**|**Mask2IV: Interaction-Centric Video Generation via Mask Trajectories**|Laura Sevilla-Lara Team|[2510.03135](http://arxiv.org/abs/2510.03135)|**[link](https://reagan1311.github.io/mask2iv)**|
+|**2025-10-03**|**Learning Stability Certificate for Robotics in Real-World Environments**|Zhe Shen Team|[2510.03123](http://arxiv.org/abs/2510.03123)|null|
+|**2025-10-03**|**Distributional Inverse Reinforcement Learning**|Anqi Wu Team|[2510.03013](http://arxiv.org/abs/2510.03013)|null|
+|**2025-10-03**|**Action Deviation-Aware Inference for Low-Latency Wireless Robots**|Seong-Lyun Kim Team|[2510.02851](http://arxiv.org/abs/2510.02851)|null|
+|**2025-10-03**|**Flow with the Force Field: Learning 3D Compliant Flow Matching Policies from Force and Demonstration-Guided Simulation Data**|Nadia Figueroa Team|[2510.02738](http://arxiv.org/abs/2510.02738)|null|
+|**2025-10-02**|**A Recipe for Efficient Sim-to-Real Transfer in Manipulation with Online Imitation-Pretrained World Models**|Hao Su Team|[2510.02538](http://arxiv.org/abs/2510.02538)|null|
+|**2025-10-02**|**U-LAG: Uncertainty-Aware, Lag-Adaptive Goal Retargeting for Robotic Manipulation**|Anujith Muraleedharan Team|[2510.02526](http://arxiv.org/abs/2510.02526)|null|
+|**2025-10-02**|**Beyond Imitation: Recovering Dense Rewards from Demonstrations**|Gholamreza Haffari Team|[2510.02493](http://arxiv.org/abs/2510.02493)|null|
 |**2025-10-02**|**ARMADA: Autonomous Online Failure Detection and Human Shared Control Empower Scalable Real-world Deployment and Adaptation**|Cewu Lu Team|[2510.02298](http://arxiv.org/abs/2510.02298)|null|
 |**2025-10-02**|**Do You Know Where Your Camera Is? View-Invariant Policy Learning with Camera Conditioning**|Matthew R. Walter Team|[2510.02268](http://arxiv.org/abs/2510.02268)|null|
 |**2025-10-02**|**GRACE: A Language Model Framework for Explainable Inverse Reinforcement Learning**|Bogdan Mazoure Team|[2510.02180](http://arxiv.org/abs/2510.02180)|null|
@@ -2361,6 +2369,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-03**|**MM-Nav: Multi-View VLA Model for Robust Visual Navigation via Multi-Expert Learning**|He Wang Team|[2510.03142](http://arxiv.org/abs/2510.03142)|**[link](https://pku-epic.github.io/MM-Nav-Web/)**|
 |**2025-10-02**|**Contrastive Representation Regularization for Vision-Language-Action Models**|Jinwoo Shin Team|[2510.01711](http://arxiv.org/abs/2510.01711)|null|
 |**2025-10-02**|**FailSafe: Reasoning and Recovery from Failures in Vision-Language-Action Models**|Bihan Wen Team|[2510.01642](http://arxiv.org/abs/2510.01642)|**[link](https://jimntu.github.io/FailSafe/)**|
 |**2025-10-02**|**VLA-R1: Enhancing Reasoning in Vision-Language-Action Models**|Zheng Zhu Team|[2510.01623](http://arxiv.org/abs/2510.01623)|null|
