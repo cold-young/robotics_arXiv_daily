@@ -9,6 +9,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-08**|**WristWorld: Generating Wrist-Views via 4D World Models for Robotic Manipulation**|Shanghang Zhang Team|[2510.07313](http://arxiv.org/abs/2510.07313)|null|
+|**2025-10-08**|**TIGeR: Tool-Integrated Geometric Reasoning in Vision-Language Models for Robotics**|Shanghang Zhang Team|[2510.07181](http://arxiv.org/abs/2510.07181)|null|
+|**2025-10-08**|**DecompGAIL: Learning Realistic Traffic Behaviors with Decomposed Multi-Agent Generative Adversarial Imitation Learning**|Chen Lv Team|[2510.06913](http://arxiv.org/abs/2510.06913)|null|
+|**2025-10-07**|**Webscale-RL: Automated Data Pipeline for Scaling RL Data to Pretraining Levels**|Weiran Yao Team|[2510.06499](http://arxiv.org/abs/2510.06499)|null|
 |**2025-10-07**|**EmbodiedCoder: Parameterized Embodied Mobile Manipulation via Modern Coding Model**|Zhaoxiang Zhang Team|[2510.06207](http://arxiv.org/abs/2510.06207)|**[link](https://anonymous.4open.science/w/Embodied-Coder/)**|
 |**2025-10-07**|**Differentiable Model Predictive Control on the GPU**|Thomas Lew Team|[2510.06179](http://arxiv.org/abs/2510.06179)|null|
 |**2025-10-07**|**Towards Autonomous Tape Handling for Robotic Wound Redressing**|Michael Yip Team|[2510.06127](http://arxiv.org/abs/2510.06127)|null|
@@ -2377,6 +2381,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-08**|**TrackVLA++: Unleashing Reasoning and Memory Capabilities in VLA Models for Embodied Visual Tracking**|He Wang Team|[2510.07134](http://arxiv.org/abs/2510.07134)|**[link](https://pku-epic.github.io/TrackVLA-plus-plus-Web/)**|
+|**2025-10-08**|**Vision-Language-Action Models for Robotics: A Review Towards Real-World Applications**|Yuke Zhu Team|[2510.07077](http://arxiv.org/abs/2510.07077)|**[link](https://vla-survey.github.io)**|
+|**2025-10-08**|**Bring the Apple, Not the Sofa: Impact of Irrelevant Context in Embodied AI Commands on VLA Models**|Elena Tutubalina Team|[2510.07067](http://arxiv.org/abs/2510.07067)|null|
+|**2025-10-08**|**RLinf-VLA: A Unified and Efficient Framework for VLA+RL Training**|Yu Wang Team|[2510.06710](http://arxiv.org/abs/2510.06710)|**[link](https://github.com/RLinf/RLinf)**|
 |**2025-10-07**|**EmbodiedCoder: Parameterized Embodied Mobile Manipulation via Modern Coding Model**|Zhaoxiang Zhang Team|[2510.06207](http://arxiv.org/abs/2510.06207)|**[link](https://anonymous.4open.science/w/Embodied-Coder/)**|
 |**2025-10-07**|**Verifier-free Test-Time Sampling for Vision Language Action Models**|Jinwoo Shin Team|[2510.05681](http://arxiv.org/abs/2510.05681)|null|
 |**2025-10-07**|**MetaVLA: Unified Meta Co-training For Efficient Embodied Adaption**|Marios Savvides Team|[2510.05580](http://arxiv.org/abs/2510.05580)|null|
