@@ -9,6 +9,19 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-10**|**VITA-VLA: Efficiently Teaching Vision-Language Models to Act via Action Expert Distillation**|Caifeng Shan Team|[2510.09607](http://arxiv.org/abs/2510.09607)|**[link](https://ltbai.github.io/VITA-VLA/)**|
+|**2025-10-10**|**Guiding Energy-Efficient Locomotion through Impact Mitigation Rewards**|Alireza Ramezani Team|[2510.09543](http://arxiv.org/abs/2510.09543)|null|
+|**2025-10-10**|**Autonomous Soft Robotic Guidewire Navigation via Imitation Learning**|Axel Krieger Team|[2510.09497](http://arxiv.org/abs/2510.09497)|null|
+|**2025-10-10**|**Near-Optimal Second-Order Guarantees for Model-Based Adversarial Imitation Learning**|Weitong Zhang Team|[2510.09487](http://arxiv.org/abs/2510.09487)|null|
+|**2025-10-10**|**Failure Prediction at Runtime for Generative Robot Policies**|Angela P. Schoellig Team|[2510.09459](http://arxiv.org/abs/2510.09459)|null|
+|**2025-10-10**|**Rate optimal learning of equilibria from data**|Giorgia Ramponi Team|[2510.09325](http://arxiv.org/abs/2510.09325)|null|
+|**2025-10-10**|**Glovity: Learning Dexterous Contact-Rich Manipulation via Spatial Wrench Feedback Teleoperation System**|Pai Zheng Team|[2510.09229](http://arxiv.org/abs/2510.09229)|null|
+|**2025-10-10**|**FM-IRL: Flow-Matching for Reward Modeling and Policy Regularization in Reinforcement Learning**|Ivor Tsang Team|[2510.09222](http://arxiv.org/abs/2510.09222)|null|
+|**2025-10-10**|**When a Robot is More Capable than a Human: Learning from Constrained Demonstrators**|Erdem Bıyık Team|[2510.09096](http://arxiv.org/abs/2510.09096)|null|
+|**2025-10-10**|**iMoWM: Taming Interactive Multi-Modal World Model for Robotic Manipulation**|Ziwei Wang Team|[2510.09036](http://arxiv.org/abs/2510.09036)|null|
+|**2025-10-09**|**Humanoid Everyday: A Comprehensive Robotic Dataset for Open-World Humanoid Manipulation**|Yue Wang Team|[2510.08807](http://arxiv.org/abs/2510.08807)|null|
+|**2025-10-09**|**Geometry-aware Policy Imitation**|Sylvain Calinon Team|[2510.08787](http://arxiv.org/abs/2510.08787)|null|
+|**2025-10-09**|**Point and Go: Intuitive Reference Frame Reallocation in Mode Switching for Assistive Robotics**|M. Jagersand Team|[2510.08753](http://arxiv.org/abs/2510.08753)|null|
 |**2025-10-09**|**Agent Learning via Early Experience**|Yifan Wu Team|[2510.08558](http://arxiv.org/abs/2510.08558)|null|
 |**2025-10-09**|**R2RGEN: Real-to-Real 3D Data Generation for Spatially Generalized Manipulation**|Jiwen Lu Team|[2510.08547](http://arxiv.org/abs/2510.08547)|**[link](https://r2rgen.github.io/)**|
 |**2025-10-09**|**Unlocking 3D Affordance Segmentation with 2D Semantic Knowledge**|Wei Shen Team|[2510.08316](http://arxiv.org/abs/2510.08316)|null|
@@ -2388,8 +2401,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-10**|**VITA-VLA: Efficiently Teaching Vision-Language Models to Act via Action Expert Distillation**|Caifeng Shan Team|[2510.09607](http://arxiv.org/abs/2510.09607)|**[link](https://ltbai.github.io/VITA-VLA/)**|
+|**2025-10-10**|**PhysToolBench: Benchmarking Physical Tool Understanding for MLLMs**|Ying-Cong Chen Team|[2510.09507](http://arxiv.org/abs/2510.09507)|null|
+|**2025-10-10**|**Goal-oriented Backdoor Attack against Vision-Language-Action Models via Physical Objects**|Jingfeng Zhang Team|[2510.09269](http://arxiv.org/abs/2510.09269)|null|
 |**2025-10-09**|**Don't Run with Scissors: Pruning Breaks VLA Models but They Can Be Recovered**|Shayegan Omidshafiei Team|[2510.08464](http://arxiv.org/abs/2510.08464)|null|
-|**2025-10-09**|**USIM and U0: A Vision-Language-Action Dataset and Model for General Underwater Robots**|Zhengxing Wu Team|[2510.07869](http://arxiv.org/abs/2510.07869)|null|
+|**2025-10-10**|**USIM and U0: A Vision-Language-Action Dataset and Model for General Underwater Robots**|Zhengxing Wu Team|[2510.07869](http://arxiv.org/abs/2510.07869)|**[link](https://vincentgu2000.github.io/u0project/)**|
 |**2025-10-09**|**IntentionVLA: Generalizable and Efficient Embodied Intention Reasoning for Human-Robot Interaction**|Liqiang Nie Team|[2510.07778](http://arxiv.org/abs/2510.07778)|null|
 |**2025-10-09**|**DEAS: DEtached value learning with Action Sequence for Scalable Offline RL**|Yuke Zhu Team|[2510.07730](http://arxiv.org/abs/2510.07730)|**[link](https://changyeon.site/deas)**|
 |**2025-10-08**|**TrackVLA++: Unleashing Reasoning and Memory Capabilities in VLA Models for Embodied Visual Tracking**|He Wang Team|[2510.07134](http://arxiv.org/abs/2510.07134)|**[link](https://pku-epic.github.io/TrackVLA-plus-plus-Web/)**|
@@ -2844,6 +2860,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-10**|**Glovity: Learning Dexterous Contact-Rich Manipulation via Spatial Wrench Feedback Teleoperation System**|Pai Zheng Team|[2510.09229](http://arxiv.org/abs/2510.09229)|null|
+|**2025-10-10**|**PLEXUS Hand: Lightweight Four-Motor Prosthetic Hand Enabling Precision-Lateral Dexterous Manipulation**|Kazutoshi Tanaka Team|[2510.09209](http://arxiv.org/abs/2510.09209)|null|
 |**2025-10-09**|**DexNDM: Closing the Reality Gap for Dexterous In-Hand Rotation via Joint-Wise Neural Dynamics Model**|Li Yi Team|[2510.08556](http://arxiv.org/abs/2510.08556)|**[link](https://meowuu7.github.io/DexNDM/)**|
 |**2025-10-09**|**DexMan: Learning Bimanual Dexterous Manipulation from Human and Generated Videos**|Tsung-Wei Ke Team|[2510.08475](http://arxiv.org/abs/2510.08475)|**[link](https://embodiedai-ntu.github.io/dexman/index.html)**|
 |**2025-10-08**|**AVO: Amortized Value Optimization for Contact Mode Switching in Multi-Finger Manipulation**|Dmitry Berenson Team|[2510.07548](http://arxiv.org/abs/2510.07548)|null|
