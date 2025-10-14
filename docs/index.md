@@ -9,11 +9,25 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-13**|**Phys2Real: Fusing VLM Priors with Interactive Online Adaptation for Uncertainty-Aware Sim-to-Real Manipulation**|Mac Schwager Team|[2510.11689](http://arxiv.org/abs/2510.11689)|null|
+|**2025-10-13**|**ManiAgent: An Agentic Framework for General Robotic Manipulation**|Xudong Liu Team|[2510.11660](http://arxiv.org/abs/2510.11660)|null|
+|**2025-10-13**|**HiMaCon: Discovering Hierarchical Manipulation Concepts from Unlabeled Multi-Modal Data**|Yanchao Yang Team|[2510.11321](http://arxiv.org/abs/2510.11321)|null|
+|**2025-10-13**|**FOSSIL: Harnessing Feedback on Suboptimal Samples for Data-Efficient Generalisation with Imitation Learning for Embodied Vision-and-Language Tasks**|Alessandro Suglia Team|[2510.11307](http://arxiv.org/abs/2510.11307)|null|
+|**2025-10-13**|**DemoHLM: From One Demonstration to Generalizable Humanoid Loco-Manipulation**|Zongqing Lu Team|[2510.11258](http://arxiv.org/abs/2510.11258)|null|
+|**2025-10-13**|**Flow Matching-Based Autonomous Driving Planning with Advanced Interactive Behavior Modeling**|Jingjing Liu Team|[2510.11083](http://arxiv.org/abs/2510.11083)|null|
+|**2025-10-13**|**Towards a Unified Understanding of Robot Manipulation: A Comprehensive Survey**|Badong Chen Team|[2510.10903](http://arxiv.org/abs/2510.10903)|null|
+|**2025-10-12**|**High-Fidelity Simulated Data Generation for Real-World Zero-Shot Robotic Manipulation Learning with Gaussian Splatting**|Hua Zou Team|[2510.10637](http://arxiv.org/abs/2510.10637)|null|
+|**2025-10-12**|**Population-Coded Spiking Neural Networks for High-Dimensional Robotic Control**|Jeethu Sreenivas Amuthan Team|[2510.10516](http://arxiv.org/abs/2510.10516)|null|
+|**2025-10-12**|**Data-driven simulator of multi-animal behavior with unknown dynamics via offline and online reinforcement learning**|Yoshinobu Kawahara Team|[2510.10451](http://arxiv.org/abs/2510.10451)|null|
+|**2025-10-11**|**X-VLA: Soft-Prompted Transformer as Scalable Cross-Embodiment Vision-Language-Action Model**|Xianyuan Zhan Team|[2510.10274](http://arxiv.org/abs/2510.10274)|null|
+|**2025-10-11**|**A3RNN: Bi-directional Fusion of Bottom-up and Top-down Process for Developmental Visual Attention in Robots**|Tetsuya Ogata Team|[2510.10221](http://arxiv.org/abs/2510.10221)|null|
+|**2025-10-11**|**UF-RNN: Real-Time Adaptive Motion Generation Using Uncertainty-Driven Foresight Prediction**|Tetsuya Ogata Team|[2510.10217](http://arxiv.org/abs/2510.10217)|null|
+|**2025-10-11**|**Ctrl-World: A Controllable Generative World Model for Robot Manipulation**|Chelsea Finn Team|[2510.10125](http://arxiv.org/abs/2510.10125)|null|
 |**2025-10-10**|**VITA-VLA: Efficiently Teaching Vision-Language Models to Act via Action Expert Distillation**|Caifeng Shan Team|[2510.09607](http://arxiv.org/abs/2510.09607)|**[link](https://ltbai.github.io/VITA-VLA/)**|
-|**2025-10-10**|**Guiding Energy-Efficient Locomotion through Impact Mitigation Rewards**|Alireza Ramezani Team|[2510.09543](http://arxiv.org/abs/2510.09543)|null|
+|**2025-10-13**|**Guiding Energy-Efficient Locomotion through Impact Mitigation Rewards**|Alireza Ramezani Team|[2510.09543](http://arxiv.org/abs/2510.09543)|null|
 |**2025-10-10**|**Autonomous Soft Robotic Guidewire Navigation via Imitation Learning**|Axel Krieger Team|[2510.09497](http://arxiv.org/abs/2510.09497)|null|
 |**2025-10-10**|**Near-Optimal Second-Order Guarantees for Model-Based Adversarial Imitation Learning**|Weitong Zhang Team|[2510.09487](http://arxiv.org/abs/2510.09487)|null|
-|**2025-10-10**|**Failure Prediction at Runtime for Generative Robot Policies**|Angela P. Schoellig Team|[2510.09459](http://arxiv.org/abs/2510.09459)|null|
+|**2025-10-13**|**Failure Prediction at Runtime for Generative Robot Policies**|Angela P. Schoellig Team|[2510.09459](http://arxiv.org/abs/2510.09459)|**[link](https://tum-lsy.github.io/fiper_website.)**|
 |**2025-10-10**|**Rate optimal learning of equilibria from data**|Giorgia Ramponi Team|[2510.09325](http://arxiv.org/abs/2510.09325)|null|
 |**2025-10-10**|**Glovity: Learning Dexterous Contact-Rich Manipulation via Spatial Wrench Feedback Teleoperation System**|Pai Zheng Team|[2510.09229](http://arxiv.org/abs/2510.09229)|null|
 |**2025-10-10**|**FM-IRL: Flow-Matching for Reward Modeling and Policy Regularization in Reinforcement Learning**|Ivor Tsang Team|[2510.09222](http://arxiv.org/abs/2510.09222)|null|
@@ -2401,6 +2415,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-13**|**ManiAgent: An Agentic Framework for General Robotic Manipulation**|Xudong Liu Team|[2510.11660](http://arxiv.org/abs/2510.11660)|null|
+|**2025-10-13**|**Vlaser: Vision-Language-Action Model with Synergistic Embodied Reasoning**|Zhi Hou Team|[2510.11027](http://arxiv.org/abs/2510.11027)|null|
+|**2025-10-13**|**RoVer: Robot Reward Model as Test-Time Verifier for Vision-Language-Action Model**|Xinyu Wu Team|[2510.10975](http://arxiv.org/abs/2510.10975)|null|
+|**2025-10-13**|**TabVLA: Targeted Backdoor Attacks on Vision-Language-Action Models**|Yu-Gang Jiang Team|[2510.10932](http://arxiv.org/abs/2510.10932)|null|
+|**2025-10-11**|**X-VLA: Soft-Prompted Transformer as Scalable Cross-Embodiment Vision-Language-Action Model**|Xianyuan Zhan Team|[2510.10274](http://arxiv.org/abs/2510.10274)|null|
+|**2025-10-11**|**Dejavu: Post-Deployment Learning for Embodied Agents via Experience Feedback**|Hongtao Lu Team|[2510.10181](http://arxiv.org/abs/2510.10181)|null|
+|**2025-10-11**|**Reinforcement Fine-Tuning of Flow-Matching Policies for Vision-Language-Action Models**|Yi Zeng Team|[2510.09976](http://arxiv.org/abs/2510.09976)|null|
+|**2025-10-08**|**OmniSAT: Compact Action Token, Faster Auto Regression**|Changsheng Xu Team|[2510.09667](http://arxiv.org/abs/2510.09667)|null|
 |**2025-10-10**|**VITA-VLA: Efficiently Teaching Vision-Language Models to Act via Action Expert Distillation**|Caifeng Shan Team|[2510.09607](http://arxiv.org/abs/2510.09607)|**[link](https://ltbai.github.io/VITA-VLA/)**|
 |**2025-10-10**|**PhysToolBench: Benchmarking Physical Tool Understanding for MLLMs**|Ying-Cong Chen Team|[2510.09507](http://arxiv.org/abs/2510.09507)|null|
 |**2025-10-10**|**Goal-oriented Backdoor Attack against Vision-Language-Action Models via Physical Objects**|Jingfeng Zhang Team|[2510.09269](http://arxiv.org/abs/2510.09269)|null|
