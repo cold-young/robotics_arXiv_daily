@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.10.15
+## Updated on 2025.10.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Manipulation
@@ -28,7 +28,7 @@ layout: default
 |**2025-10-11**|**X-VLA: Soft-Prompted Transformer as Scalable Cross-Embodiment Vision-Language-Action Model**|Xianyuan Zhan Team|[2510.10274](http://arxiv.org/abs/2510.10274)|null|
 |**2025-10-11**|**A3RNN: Bi-directional Fusion of Bottom-up and Top-down Process for Developmental Visual Attention in Robots**|Tetsuya Ogata Team|[2510.10221](http://arxiv.org/abs/2510.10221)|null|
 |**2025-10-11**|**UF-RNN: Real-Time Adaptive Motion Generation Using Uncertainty-Driven Foresight Prediction**|Tetsuya Ogata Team|[2510.10217](http://arxiv.org/abs/2510.10217)|null|
-|**2025-10-11**|**Ctrl-World: A Controllable Generative World Model for Robot Manipulation**|Chelsea Finn Team|[2510.10125](http://arxiv.org/abs/2510.10125)|null|
+|**2025-10-15**|**Ctrl-World: A Controllable Generative World Model for Robot Manipulation**|Chelsea Finn Team|[2510.10125](http://arxiv.org/abs/2510.10125)|null|
 |**2025-10-10**|**VITA-VLA: Efficiently Teaching Vision-Language Models to Act via Action Expert Distillation**|Caifeng Shan Team|[2510.09607](http://arxiv.org/abs/2510.09607)|**[link](https://ltbai.github.io/VITA-VLA/)**|
 |**2025-10-13**|**Guiding Energy-Efficient Locomotion through Impact Mitigation Rewards**|Alireza Ramezani Team|[2510.09543](http://arxiv.org/abs/2510.09543)|null|
 |**2025-10-10**|**Autonomous Soft Robotic Guidewire Navigation via Imitation Learning**|Axel Krieger Team|[2510.09497](http://arxiv.org/abs/2510.09497)|null|
