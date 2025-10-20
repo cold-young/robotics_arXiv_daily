@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.10.19
+## Updated on 2025.10.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Manipulation
@@ -2453,7 +2453,7 @@ layout: default
 |**2025-10-15**|**VLA-0: Building State-of-the-Art VLAs with Zero Modification**|Fabio Ramos Team|[2510.13054](http://arxiv.org/abs/2510.13054)|null|
 |**2025-10-14**|**DriveVLA-W0: World Models Amplify Data Scaling Law in Autonomous Driving**|Zhaoxiang Zhang Team|[2510.12796](http://arxiv.org/abs/2510.12796)|null|
 |**2025-10-14**|**Reflection-Based Task Adaptation for Self-Improving VLA**|Hongbin Zha Team|[2510.12710](http://arxiv.org/abs/2510.12710)|null|
-|**2025-10-14**|**Spatial Forcing: Implicit Spatial Representation Alignment for Vision-language-action Model**|Haoang Li Team|[2510.12276](http://arxiv.org/abs/2510.12276)|null|
+|**2025-10-17**|**Spatial Forcing: Implicit Spatial Representation Alignment for Vision-language-action Model**|Haoang Li Team|[2510.12276](http://arxiv.org/abs/2510.12276)|null|
 |**2025-10-14**|**ManiAgent: An Agentic Framework for General Robotic Manipulation**|Xudong Liu Team|[2510.11660](http://arxiv.org/abs/2510.11660)|null|
 |**2025-10-13**|**Vlaser: Vision-Language-Action Model with Synergistic Embodied Reasoning**|Zhi Hou Team|[2510.11027](http://arxiv.org/abs/2510.11027)|null|
 |**2025-10-14**|**RoVer: Robot Reward Model as Test-Time Verifier for Vision-Language-Action Model**|Xinyu Wu Team|[2510.10975](http://arxiv.org/abs/2510.10975)|null|
