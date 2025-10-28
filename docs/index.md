@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.10.27
+## Updated on 2025.10.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Manipulation
@@ -25,7 +25,7 @@ layout: default
 |**2025-10-23**|**MemER: Scaling Up Memory for Robot Control via Experience Retrieval**|Chelsea Finn Team|[2510.20328](http://arxiv.org/abs/2510.20328)|**[link](https://jen-pan.github.io/memer/)**|
 |**2025-10-22**|**Approximate Model Predictive Control for Microgrid Energy Management via Imitation Learning**|Bart De Schutter Team|[2510.20040](http://arxiv.org/abs/2510.20040)|null|
 |**2025-10-22**|**Seed3D 1.0: From Images to High-Fidelity Simulation-Ready 3D Assets**|Xuanmeng Zhang Team|[2510.19944](http://arxiv.org/abs/2510.19944)|**[link](https://seed.bytedance.com/seed3d)**|
-|**2025-10-22**|**Using Non-Expert Data to Robustify Imitation Learning via Offline Reinforcement Learning**|Abhishek Gupta Team|[2510.19495](http://arxiv.org/abs/2510.19495)|null|
+|**2025-10-25**|**Using Non-Expert Data to Robustify Imitation Learning via Offline Reinforcement Learning**|Abhishek Gupta Team|[2510.19495](http://arxiv.org/abs/2510.19495)|null|
 |**2025-10-22**|**Seeing Across Views: Benchmarking Spatial Reasoning of Vision-Language Models in Robotic Scenes**|Baining Guo Team|[2510.19400](http://arxiv.org/abs/2510.19400)|**[link](https://github.com/microsoft/MV-RoboBench)**|
 |**2025-10-22**|**Using Temperature Sampling to Effectively Train Robot Learning Policies on Imbalanced Datasets**|Bernadette Bucher Team|[2510.19373](http://arxiv.org/abs/2510.19373)|null|
 |**2025-10-22**|**Imitation Learning Policy based on Multi-Step Consistent Integration Shortcut Model**|Jie Zhao Team|[2510.19356](http://arxiv.org/abs/2510.19356)|null|
