@@ -2538,7 +2538,7 @@ layout: default
 |**2025-10-29**|**NanoVLA: Routing Decoupled Vision-Language Understanding for Nano-sized Generalist Robotic Policies**|Jinghui Lu Team|[2510.25122](http://arxiv.org/abs/2510.25122)|null|
 |**2025-10-27**|**A Survey on Efficient Vision-Language-Action Models**|Heng Tao Shen Team|[2510.24795](http://arxiv.org/abs/2510.24795)|null|
 |**2025-10-28**|**BLM $_1$ : A Boundless Large Model for Cross-Space, Cross-Task, and Cross-Embodiment Learning**|Heng Tao Shen Team|[2510.24161](http://arxiv.org/abs/2510.24161)|null|
-|**2025-10-29**|**RoboOmni: Proactive Robot Manipulation in Omni-modal Context**|Xipeng Qiu Team|[2510.23763](http://arxiv.org/abs/2510.23763)|null|
+|**2025-11-01**|**RoboOmni: Proactive Robot Manipulation in Omni-modal Context**|Xipeng Qiu Team|[2510.23763](http://arxiv.org/abs/2510.23763)|null|
 |**2025-10-27**|**UrbanVLA: A Vision-Language-Action Model for Urban Micromobility**|He Wang Team|[2510.23576](http://arxiv.org/abs/2510.23576)|null|
 |**2025-10-27**|**Dexbotic: Open-Source Vision-Language-Action Toolbox**|Ziyu Zhang Team|[2510.23511](http://arxiv.org/abs/2510.23511)|**[link](https://dexbotic.com/.)**|
 |**2025-10-25**|**ACG: Action Coherence Guidance for Flow-based VLA models**|Jaegul Choo Team|[2510.22201](http://arxiv.org/abs/2510.22201)|null|
