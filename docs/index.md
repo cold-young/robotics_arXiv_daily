@@ -9,6 +9,20 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-04**|**Audience Amplified: Virtual Audiences in Asynchronously Performed AR Theater**|Tobias Höllerer Team|[2511.02807](http://arxiv.org/abs/2511.02807)|null|
+|**2025-11-04**|**Dexterous Robotic Piano Playing at Scale**|Dieter Büchler Team|[2511.02504](http://arxiv.org/abs/2511.02504)|null|
+|**2025-11-04**|**LACY: A Vision-Language Model-based Language-Action Cycle for Self-Improving Robotic Manipulation**|Changhyun Choi Team|[2511.02239](http://arxiv.org/abs/2511.02239)|**[link](https://vla2026.github.io/LACY/)**|
+|**2025-10-31**|**A Step Toward World Models: A Survey on Robotic Manipulation**|Heng Tao Shen Team|[2511.02097](http://arxiv.org/abs/2511.02097)|null|
+|**2025-11-03**|**TRACE: Textual Reasoning for Affordance Coordinate Extraction**|Matthew S. Brown Team|[2511.01999](http://arxiv.org/abs/2511.01999)|null|
+|**2025-11-01**|**iFlyBot-VLA Technical Report**|Jia Pan Team|[2511.01914](http://arxiv.org/abs/2511.01914)|null|
+|**2025-11-03**|**SE(3)-PoseFlow: Estimating 6D Pose Distributions for Uncertainty-Aware Robotic Manipulation**|Georgia Chalvatzaki Team|[2511.01501](http://arxiv.org/abs/2511.01501)|null|
+|**2025-11-03**|**RobustVLA: Robustness-Aware Reinforcement Post-Training for Vision-Language-Action Models**|Donglin Wang Team|[2511.01331](http://arxiv.org/abs/2511.01331)|null|
+|**2025-11-03**|**Improving Needle Penetration via Precise Rotational Insertion Using Iterative Learning Control**|Tsu-Chin Tsao Team|[2511.01256](http://arxiv.org/abs/2511.01256)|null|
+|**2025-11-03**|**Embodiment Transfer Learning for Vision-Language-Action Models**|Yaxin Peng Team|[2511.01224](http://arxiv.org/abs/2511.01224)|null|
+|**2025-11-02**|**Deployable Vision-driven UAV River Navigation via Human-in-the-loop Preference Alignment**|Nina Mahmoudian Team|[2511.01083](http://arxiv.org/abs/2511.01083)|null|
+|**2025-11-02**|**GauDP: Reinventing Multi-Agent Collaboration through Gaussian-Image Synergy in Diffusion Policies**|Ruimao Zhang Team|[2511.00998](http://arxiv.org/abs/2511.00998)|**[link](https://ziyeeee.github.io/gaudp.io/)**|
+|**2025-11-01**|**Improving Robustness to Out-of-Distribution States in Imitation Learning via Deep Koopman-Boosted Diffusion Policy**|Zhongliang Jiang Team|[2511.00555](http://arxiv.org/abs/2511.00555)|null|
+|**2025-10-31**|**EgoMI: Learning Active Vision and Whole-Body Manipulation from Egocentric Human Demonstrations**|Philipp Wu Team|[2511.00153](http://arxiv.org/abs/2511.00153)|null|
 |**2025-10-31**|**Whole-Body Proprioceptive Morphing: A Modular Soft Gripper for Robust Cross-Scale Grasping**|Xiaonan Huang Team|[2510.27666](http://arxiv.org/abs/2510.27666)|null|
 |**2025-10-31**|**Toward Accurate Long-Horizon Robotic Manipulation: Language-to-Action with Foundation Models via Scene Graphs**|Shinkyu Park Team|[2510.27558](http://arxiv.org/abs/2510.27558)|null|
 |**2025-10-31**|**When AI Trading Agents Compete: Adverse Selection of Meta-Orders by Reinforcement Learning-Based Market Making**|Nick Firoozye Team|[2510.27334](http://arxiv.org/abs/2510.27334)|null|
@@ -2528,7 +2542,18 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-10-31**|**Dual-Stream Diffusion for World-Model Augmented Vision-Language-Action Model**|Jinwoo Shin Team|[2510.27607](http://arxiv.org/abs/2510.27607)|null|
+|**2025-11-04**|**TWIST2: Scalable, Portable, and Holistic Humanoid Data Collection System**|C. Karen Liu Team|[2511.02832](http://arxiv.org/abs/2511.02832)|**[link](https://yanjieze.com/TWIST2)**|
+|**2025-11-04**|**XR-1: Towards Versatile Vision-Language-Action Models via Learning Unified Vision-Motion Representations**|Jian Tang Team|[2511.02776](http://arxiv.org/abs/2511.02776)|null|
+|**2025-11-01**|**iFlyBot-VLA Technical Report**|Jia Pan Team|[2511.01914](http://arxiv.org/abs/2511.01914)|null|
+|**2025-11-03**|**Unified Diffusion VLA: Vision-Language-Action Model via Joint Discrete Denoising Diffusion Process**|Haoang Li Team|[2511.01718](http://arxiv.org/abs/2511.01718)|null|
+|**2025-11-03**|**PixelVLA: Advancing Pixel-level Understanding in Vision-Language-Action Model**|Yang Cong Team|[2511.01571](http://arxiv.org/abs/2511.01571)|null|
+|**2025-11-03**|**RobustVLA: Robustness-Aware Reinforcement Post-Training for Vision-Language-Action Models**|Donglin Wang Team|[2511.01331](http://arxiv.org/abs/2511.01331)|null|
+|**2025-11-03**|**Embodiment Transfer Learning for Vision-Language-Action Models**|Yaxin Peng Team|[2511.01224](http://arxiv.org/abs/2511.01224)|null|
+|**2025-11-03**|**OmniVLA: Unifiying Multi-Sensor Perception for Physically-Grounded Multimodal VLA**|Lili Qi Team|[2511.01210](http://arxiv.org/abs/2511.01210)|null|
+|**2025-10-31**|**End-to-End Dexterous Arm-Hand VLA Policies via Shared Autonomy: VR Teleoperation Augmented by Autonomous Hand VLA Policy for Efficient Data Collection**|Zhibin Li Team|[2511.00139](http://arxiv.org/abs/2511.00139)|null|
+|**2025-10-30**|**Self-Improving Vision-Language-Action Models with Data Generation via Residual RL**|Yuke Zhu Team|[2511.00091](http://arxiv.org/abs/2511.00091)|null|
+|**2025-10-30**|**Alpamayo-R1: Bridging Reasoning and Action Prediction for Generalizable Autonomous Driving in the Long Tail**|Marco Pavone Team|[2511.00088](http://arxiv.org/abs/2511.00088)|null|
+|**2025-11-04**|**Dual-Stream Diffusion for World-Model Augmented Vision-Language-Action Model**|Jinwoo Shin Team|[2510.27607](http://arxiv.org/abs/2510.27607)|null|
 |**2025-10-31**|**EBT-Policy: Energy Unlocks Emergent Physical Reasoning Capabilities**|Luhui Hu Team|[2510.27545](http://arxiv.org/abs/2510.27545)|null|
 |**2025-10-30**|**RoboOS-NeXT: A Unified Memory-based Framework for Lifelong, Scalable, and Robust Multi-Robot Collaboration**|Shanghang Zhang Team|[2510.26536](http://arxiv.org/abs/2510.26536)|null|
 |**2025-10-30**|**Human-in-the-loop Online Rejection Sampling for Robotic Manipulation**|Yansong Tang Team|[2510.26406](http://arxiv.org/abs/2510.26406)|null|
@@ -3042,6 +3067,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-04**|**TWIST2: Scalable, Portable, and Holistic Humanoid Data Collection System**|C. Karen Liu Team|[2511.02832](http://arxiv.org/abs/2511.02832)|**[link](https://yanjieze.com/TWIST2)**|
+|**2025-11-03**|**GenDexHand: Generative Simulation for Dexterous Hands**|Yi Ma Team|[2511.01791](http://arxiv.org/abs/2511.01791)|null|
+|**2025-11-03**|**Scaling Cross-Embodiment World Models for Dexterous Manipulation**|Hao Su Team|[2511.01177](http://arxiv.org/abs/2511.01177)|null|
+|**2025-10-31**|**End-to-End Dexterous Arm-Hand VLA Policies via Shared Autonomy: VR Teleoperation Augmented by Autonomous Hand VLA Policy for Efficient Data Collection**|Zhibin Li Team|[2511.00139](http://arxiv.org/abs/2511.00139)|null|
 |**2025-10-30**|**SpikeATac: A Multimodal Tactile Finger with Taxelized Dynamic Sensing for Dexterous Manipulation**|Matei Ciocarlie Team|[2510.27048](http://arxiv.org/abs/2510.27048)|null|
 |**2025-10-28**|**A Humanoid Visual-Tactile-Action Dataset for Contact-Rich Manipulation**|Kyung-Joong Kim Team|[2510.25725](http://arxiv.org/abs/2510.25725)|null|
 |**2025-10-27**|**OmniDexGrasp: Generalizable Dexterous Grasping via Foundation Model and Force Feedback**|Wei-Shi Zheng Team|[2510.23119](http://arxiv.org/abs/2510.23119)|**[link](https://isee-laboratory.github.io/OmniDexGrasp/)**|
