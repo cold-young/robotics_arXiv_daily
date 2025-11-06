@@ -9,6 +9,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-05**|**Going Beyond Expert Performance via Deep Implicit Imitation Reinforcement Learning**|Georgios Chalkiadakis Team|[2511.03616](http://arxiv.org/abs/2511.03616)|null|
+|**2025-11-05**|**Imitation Learning in the Deep Learning Era: A Novel Taxonomy and Recent Advances**|Georgios Chalkiadakis Team|[2511.03565](http://arxiv.org/abs/2511.03565)|null|
+|**2025-11-05**|**Development of the Bioinspired Tendon-Driven DexHand 021 with Proprioceptive Compliance Control**|Sheng Yi Team|[2511.03481](http://arxiv.org/abs/2511.03481)|null|
+|**2025-11-05**|**Learning-based Cooperative Robotic Paper Wrapping: A Unified Control Policy with Residual Force Control**|Kensuke Harada Team|[2511.03181](http://arxiv.org/abs/2511.03181)|null|
+|**2025-11-05**|**Learning Natural and Robust Hexapod Locomotion over Complex Terrains via Motion Priors based on Deep Reinforcement Learning**|Feng Gao Team|[2511.03167](http://arxiv.org/abs/2511.03167)|null|
+|**2025-11-05**|**ISC-Perception: A Hybrid Computer Vision Dataset for Object Detection in Novel Steel Assembly**|Debra F. Laefer Team|[2511.03098](http://arxiv.org/abs/2511.03098)|null|
+|**2025-11-04**|**3D Cal: An Open-Source Software Library for Calibrating Tactile Sensors**|Gregory Reardon Team|[2511.03078](http://arxiv.org/abs/2511.03078)|null|
 |**2025-11-04**|**Audience Amplified: Virtual Audiences in Asynchronously Performed AR Theater**|Tobias Höllerer Team|[2511.02807](http://arxiv.org/abs/2511.02807)|null|
 |**2025-11-04**|**Dexterous Robotic Piano Playing at Scale**|Dieter Büchler Team|[2511.02504](http://arxiv.org/abs/2511.02504)|null|
 |**2025-11-04**|**LACY: A Vision-Language Model-based Language-Action Cycle for Self-Improving Robotic Manipulation**|Changhyun Choi Team|[2511.02239](http://arxiv.org/abs/2511.02239)|**[link](https://vla2026.github.io/LACY/)**|
@@ -3067,6 +3074,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-05**|**Development of the Bioinspired Tendon-Driven DexHand 021 with Proprioceptive Compliance Control**|Sheng Yi Team|[2511.03481](http://arxiv.org/abs/2511.03481)|null|
 |**2025-11-04**|**TWIST2: Scalable, Portable, and Holistic Humanoid Data Collection System**|C. Karen Liu Team|[2511.02832](http://arxiv.org/abs/2511.02832)|**[link](https://yanjieze.com/TWIST2)**|
 |**2025-11-03**|**GenDexHand: Generative Simulation for Dexterous Hands**|Yi Ma Team|[2511.01791](http://arxiv.org/abs/2511.01791)|null|
 |**2025-11-03**|**Scaling Cross-Embodiment World Models for Dexterous Manipulation**|Hao Su Team|[2511.01177](http://arxiv.org/abs/2511.01177)|null|
