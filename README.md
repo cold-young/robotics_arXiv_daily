@@ -16,6 +16,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-06**|**X-Diffusion: Training Diffusion Policies on Cross-Embodiment Human Demonstrations**|Kushal Kedia Team|[2511.04671](http://arxiv.org/abs/2511.04671)|null|
+|**2025-11-06**|**Real-to-Sim Robot Policy Evaluation with Gaussian Splatting Simulation of Soft-Body Interactions**|Yunzhu Li Team|[2511.04665](http://arxiv.org/abs/2511.04665)|**[link](https://real2sim-eval.github.io/)**|
+|**2025-11-06**|**ForeRobo: Unlocking Infinite Simulation Data for 3D Goal-driven Robotic Manipulation**|Chunsheng Liu Team|[2511.04381](http://arxiv.org/abs/2511.04381)|null|
+|**2025-11-06**|**GraSP-VLA: Graph-based Symbolic Action Representation for Long-Horizon Planning with VLA Policies**|Cédric Buche Team|[2511.04357](http://arxiv.org/abs/2511.04357)|null|
+|**2025-11-06**|**Learning Vision-Driven Reactive Soccer Skills for Humanoid Robots**|Mingguo Zhao Team|[2511.03996](http://arxiv.org/abs/2511.03996)|**[link](https://humanoid-kick.github.io)**|
+|**2025-11-05**|**Investigating Robot Control Policy Learning for Autonomous X-ray-guided Spine Procedures**|Mathias Unberath Team|[2511.03882](http://arxiv.org/abs/2511.03882)|null|
 |**2025-11-05**|**Going Beyond Expert Performance via Deep Implicit Imitation Reinforcement Learning**|Georgios Chalkiadakis Team|[2511.03616](http://arxiv.org/abs/2511.03616)|null|
 |**2025-11-05**|**Imitation Learning in the Deep Learning Era: A Novel Taxonomy and Recent Advances**|Georgios Chalkiadakis Team|[2511.03565](http://arxiv.org/abs/2511.03565)|null|
 |**2025-11-05**|**Development of the Bioinspired Tendon-Driven DexHand 021 with Proprioceptive Compliance Control**|Sheng Yi Team|[2511.03481](http://arxiv.org/abs/2511.03481)|null|
@@ -2560,6 +2566,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-06**|**Evo-1: Lightweight Vision-Language-Action Model with Preserved Semantic Alignment**|Bo Zhao Team|[2511.04555](http://arxiv.org/abs/2511.04555)|**[link](https://github.com/MINT-SJTU/Evo-1)**|
+|**2025-11-06**|**GraSP-VLA: Graph-based Symbolic Action Representation for Long-Horizon Planning with VLA Policies**|Cédric Buche Team|[2511.04357](http://arxiv.org/abs/2511.04357)|null|
 |**2025-11-04**|**TWIST2: Scalable, Portable, and Holistic Humanoid Data Collection System**|C. Karen Liu Team|[2511.02832](http://arxiv.org/abs/2511.02832)|**[link](https://yanjieze.com/TWIST2)**|
 |**2025-11-04**|**XR-1: Towards Versatile Vision-Language-Action Models via Learning Unified Vision-Motion Representations**|Jian Tang Team|[2511.02776](http://arxiv.org/abs/2511.02776)|null|
 |**2025-11-01**|**iFlyBot-VLA Technical Report**|Jia Pan Team|[2511.01914](http://arxiv.org/abs/2511.01914)|null|
@@ -2567,7 +2575,7 @@
 |**2025-11-03**|**PixelVLA: Advancing Pixel-level Understanding in Vision-Language-Action Model**|Yang Cong Team|[2511.01571](http://arxiv.org/abs/2511.01571)|null|
 |**2025-11-03**|**RobustVLA: Robustness-Aware Reinforcement Post-Training for Vision-Language-Action Models**|Donglin Wang Team|[2511.01331](http://arxiv.org/abs/2511.01331)|null|
 |**2025-11-03**|**Embodiment Transfer Learning for Vision-Language-Action Models**|Yaxin Peng Team|[2511.01224](http://arxiv.org/abs/2511.01224)|null|
-|**2025-11-03**|**OmniVLA: Unifiying Multi-Sensor Perception for Physically-Grounded Multimodal VLA**|Lili Qi Team|[2511.01210](http://arxiv.org/abs/2511.01210)|null|
+|**2025-11-06**|**OmniVLA: Physically-Grounded Multimodal VLA with Unified Multi-Sensor Perception for Robotic Manipulation**|Lili Qiu Team|[2511.01210](http://arxiv.org/abs/2511.01210)|null|
 |**2025-10-31**|**End-to-End Dexterous Arm-Hand VLA Policies via Shared Autonomy: VR Teleoperation Augmented by Autonomous Hand VLA Policy for Efficient Data Collection**|Zhibin Li Team|[2511.00139](http://arxiv.org/abs/2511.00139)|null|
 |**2025-10-30**|**Self-Improving Vision-Language-Action Models with Data Generation via Residual RL**|Yuke Zhu Team|[2511.00091](http://arxiv.org/abs/2511.00091)|null|
 |**2025-10-30**|**Alpamayo-R1: Bridging Reasoning and Action Prediction for Generalizable Autonomous Driving in the Long Tail**|Marco Pavone Team|[2511.00088](http://arxiv.org/abs/2511.00088)|null|
