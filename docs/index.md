@@ -9,6 +9,17 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-07**|**EveryDayVLA: A Vision-Language-Action Model for Affordable Robotic Manipulation**|Samuel Dickerson Team|[2511.05397](http://arxiv.org/abs/2511.05397)|null|
+|**2025-11-07**|**ETHOS: A Robotic Encountered-Type Haptic Display for Social Interaction in Virtual Reality**|Matthew K. X. J. Pan Team|[2511.05379](http://arxiv.org/abs/2511.05379)|null|
+|**2025-11-07**|**Force-Safe Environment Maps and Real-Time Detection for Soft Robot Manipulators**|Andrew P. Sabelhaus Team|[2511.05307](http://arxiv.org/abs/2511.05307)|null|
+|**2025-11-07**|**Context-aware Learned Mesh-based Simulation via Trajectory-Level Meta-Learning**|Gerhard Neumann Team|[2511.05234](http://arxiv.org/abs/2511.05234)|null|
+|**2025-11-07**|**Let Me Show You: Learning by Retrieving from Egocentric Video for Robotic Manipulation**|Feifei Feng Team|[2511.05199](http://arxiv.org/abs/2511.05199)|null|
+|**2025-11-07**|**Follow-Me in Micro-Mobility with End-to-End Imitation Learning**|Jorge Peña Queralta Team|[2511.05158](http://arxiv.org/abs/2511.05158)|null|
+|**2025-11-07**|**TAPOM: Task-Space Topology-Guided Motion Planning for Manipulating Elongated Object in Cluttered Environments**|Yijiang Huang Team|[2511.05052](http://arxiv.org/abs/2511.05052)|null|
+|**2025-11-07**|**MoE-DP: An MoE-Enhanced Diffusion Policy for Robust Long-Horizon Robotic Manipulation with Skill Decomposition and Failure Recovery**|Huazhe Xu Team|[2511.05007](http://arxiv.org/abs/2511.05007)|null|
+|**2025-11-06**|**Isaac Lab: A GPU-Accelerated Simulation Framework for Multi-Modal Robot Learning**|Gavriel State Team|[2511.04831](http://arxiv.org/abs/2511.04831)|**[link](https://github.com/isaac-sim/IsaacLab)**|
+|**2025-11-06**|**Unified Multimodal Diffusion Forcing for Forceful Manipulation**|Dmitry Berenson Team|[2511.04812](http://arxiv.org/abs/2511.04812)|**[link](https://unified-df.github.io)**|
+|**2025-11-06**|**ReGen: Generative Robot Simulation via Inverse Design**|Daniela Rus Team|[2511.04769](http://arxiv.org/abs/2511.04769)|null|
 |**2025-11-06**|**X-Diffusion: Training Diffusion Policies on Cross-Embodiment Human Demonstrations**|Kushal Kedia Team|[2511.04671](http://arxiv.org/abs/2511.04671)|null|
 |**2025-11-06**|**Real-to-Sim Robot Policy Evaluation with Gaussian Splatting Simulation of Soft-Body Interactions**|Yunzhu Li Team|[2511.04665](http://arxiv.org/abs/2511.04665)|**[link](https://real2sim-eval.github.io/)**|
 |**2025-11-06**|**ForeRobo: Unlocking Infinite Simulation Data for 3D Goal-driven Robotic Manipulation**|Chunsheng Liu Team|[2511.04381](http://arxiv.org/abs/2511.04381)|null|
@@ -2555,6 +2566,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-07**|**Visual Spatial Tuning**|Hengshuang Zhao Team|[2511.05491](http://arxiv.org/abs/2511.05491)|null|
+|**2025-11-07**|**EveryDayVLA: A Vision-Language-Action Model for Affordable Robotic Manipulation**|Samuel Dickerson Team|[2511.05397](http://arxiv.org/abs/2511.05397)|null|
+|**2025-11-07**|**TwinVLA: Data-Efficient Bimanual Manipulation with Twin Single-Arm Vision-Language-Action Models**|Youngwoon Lee Team|[2511.05275](http://arxiv.org/abs/2511.05275)|**[link](https://jellyho.github.io/TwinVLA/)**|
 |**2025-11-06**|**Evo-1: Lightweight Vision-Language-Action Model with Preserved Semantic Alignment**|Bo Zhao Team|[2511.04555](http://arxiv.org/abs/2511.04555)|**[link](https://github.com/MINT-SJTU/Evo-1)**|
 |**2025-11-06**|**GraSP-VLA: Graph-based Symbolic Action Representation for Long-Horizon Planning with VLA Policies**|Cédric Buche Team|[2511.04357](http://arxiv.org/abs/2511.04357)|null|
 |**2025-11-04**|**TWIST2: Scalable, Portable, and Holistic Humanoid Data Collection System**|C. Karen Liu Team|[2511.02832](http://arxiv.org/abs/2511.02832)|**[link](https://yanjieze.com/TWIST2)**|
@@ -3082,6 +3096,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-06**|**Isaac Lab: A GPU-Accelerated Simulation Framework for Multi-Modal Robot Learning**|Gavriel State Team|[2511.04831](http://arxiv.org/abs/2511.04831)|**[link](https://github.com/isaac-sim/IsaacLab)**|
 |**2025-11-05**|**Development of the Bioinspired Tendon-Driven DexHand 021 with Proprioceptive Compliance Control**|Sheng Yi Team|[2511.03481](http://arxiv.org/abs/2511.03481)|null|
 |**2025-11-04**|**TWIST2: Scalable, Portable, and Holistic Humanoid Data Collection System**|C. Karen Liu Team|[2511.02832](http://arxiv.org/abs/2511.02832)|**[link](https://yanjieze.com/TWIST2)**|
 |**2025-11-03**|**GenDexHand: Generative Simulation for Dexterous Hands**|Yi Ma Team|[2511.01791](http://arxiv.org/abs/2511.01791)|null|
