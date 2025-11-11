@@ -16,6 +16,18 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-10**|**Lightning Grasp: High Performance Procedural Grasp Synthesis with Contact Fields**|Pieter Abbeel Team|[2511.07418](http://arxiv.org/abs/2511.07418)|**[link](https://github.com/zhaohengyin/lightning-grasp)**|
+|**2025-11-10**|**Robot Learning from a Physical World Model**|Yue Wang Team|[2511.07416](http://arxiv.org/abs/2511.07416)|**[link](https://pointscoder.github.io/PhysWorld_Web/)**|
+|**2025-11-10**|**Enabling Off-Policy Imitation Learning with Deep Actor Critic Stabilization**|Shalabh Bhatnagar Team|[2511.07288](http://arxiv.org/abs/2511.07288)|null|
+|**2025-11-10**|**SlotVLA: Towards Modeling of Object-Relation Representations in Robotic Manipulation**|Ngan Le Team|[2511.06754](http://arxiv.org/abs/2511.06754)|null|
+|**2025-11-10**|**Physically-Grounded Goal Imagination: Physics-Informed Variational Autoencoder for Self-Supervised Reinforcement Learning**|Nam Pham Hai Team|[2511.06745](http://arxiv.org/abs/2511.06745)|null|
+|**2025-11-10**|**Rapidly Learning Soft Robot Control via Implicit Time-Stepping**|Dezhong Tong Team|[2511.06667](http://arxiv.org/abs/2511.06667)|**[link](https://github.com/QuantuMope/dismech-rl)**|
+|**2025-11-09**|**Real Garment Benchmark (RGBench): A Comprehensive Benchmark for Robotic Garment Manipulation featuring a High-Fidelity Scalable Simulator**|Ruigang Yang Team|[2511.06434](http://arxiv.org/abs/2511.06434)|null|
+|**2025-11-09**|**ExpReS-VLA: Specializing Vision-Language-Action Models Through Experience Replay and Retrieval**|Jeff Ichnowski Team|[2511.06202](http://arxiv.org/abs/2511.06202)|null|
+|**2025-11-08**|**Exploring Category-level Articulated Object Pose Tracking on SE(3) Manifolds**|Jun Liu Team|[2511.05996](http://arxiv.org/abs/2511.05996)|null|
+|**2025-11-08**|**Gentle Manipulation Policy Learning via Demonstrations from VLM Planned Atomic Skills**|Renjing Xu Team|[2511.05855](http://arxiv.org/abs/2511.05855)|null|
+|**2025-11-08**|**VLAD-Grasp: Zero-shot Grasp Detection via Vision-Language Models**|Aniket Bera Team|[2511.05791](http://arxiv.org/abs/2511.05791)|null|
+|**2025-11-07**|**VLM-driven Skill Selection for Robotic Assembly Tasks**|Chang-Hyun Kim Team|[2511.05680](http://arxiv.org/abs/2511.05680)|null|
 |**2025-11-07**|**EveryDayVLA: A Vision-Language-Action Model for Affordable Robotic Manipulation**|Samuel Dickerson Team|[2511.05397](http://arxiv.org/abs/2511.05397)|null|
 |**2025-11-07**|**ETHOS: A Robotic Encountered-Type Haptic Display for Social Interaction in Virtual Reality**|Matthew K. X. J. Pan Team|[2511.05379](http://arxiv.org/abs/2511.05379)|null|
 |**2025-11-07**|**Force-Safe Environment Maps and Real-Time Detection for Soft Robot Manipulators**|Andrew P. Sabelhaus Team|[2511.05307](http://arxiv.org/abs/2511.05307)|null|
@@ -2577,6 +2589,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-10**|**How Do VLAs Effectively Inherit from VLMs?**|Jiang Bian Team|[2511.06619](http://arxiv.org/abs/2511.06619)|null|
+|**2025-11-09**|**ExpReS-VLA: Specializing Vision-Language-Action Models Through Experience Replay and Retrieval**|Jeff Ichnowski Team|[2511.06202](http://arxiv.org/abs/2511.06202)|null|
+|**2025-11-08**|**10 Open Challenges Steering the Future of Vision-Language-Action Models**|David Hsu Team|[2511.05936](http://arxiv.org/abs/2511.05936)|null|
+|**2025-11-07**|**Lite VLA: Efficient Vision-Language-Action Control on CPU-Bound Edge Robots**|Mrinmoy Sarkar Team|[2511.05642](http://arxiv.org/abs/2511.05642)|null|
 |**2025-11-07**|**Visual Spatial Tuning**|Hengshuang Zhao Team|[2511.05491](http://arxiv.org/abs/2511.05491)|null|
 |**2025-11-07**|**EveryDayVLA: A Vision-Language-Action Model for Affordable Robotic Manipulation**|Samuel Dickerson Team|[2511.05397](http://arxiv.org/abs/2511.05397)|null|
 |**2025-11-07**|**TwinVLA: Data-Efficient Bimanual Manipulation with Twin Single-Arm Vision-Language-Action Models**|Youngwoon Lee Team|[2511.05275](http://arxiv.org/abs/2511.05275)|**[link](https://jellyho.github.io/TwinVLA/)**|
@@ -3111,11 +3127,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-10**|**Lightning Grasp: High Performance Procedural Grasp Synthesis with Contact Fields**|Pieter Abbeel Team|[2511.07418](http://arxiv.org/abs/2511.07418)|**[link](https://github.com/zhaohengyin/lightning-grasp)**|
 |**2025-11-06**|**Isaac Lab: A GPU-Accelerated Simulation Framework for Multi-Modal Robot Learning**|Gavriel State Team|[2511.04831](http://arxiv.org/abs/2511.04831)|**[link](https://github.com/isaac-sim/IsaacLab)**|
-|**2025-11-05**|**Development of the Bioinspired Tendon-Driven DexHand 021 with Proprioceptive Compliance Control**|Sheng Yi Team|[2511.03481](http://arxiv.org/abs/2511.03481)|null|
+|**2025-11-09**|**Development of the Bioinspired Tendon-Driven DexHand 021 with Proprioceptive Compliance Control**|Sheng Yi Team|[2511.03481](http://arxiv.org/abs/2511.03481)|null|
 |**2025-11-04**|**TWIST2: Scalable, Portable, and Holistic Humanoid Data Collection System**|C. Karen Liu Team|[2511.02832](http://arxiv.org/abs/2511.02832)|**[link](https://yanjieze.com/TWIST2)**|
 |**2025-11-03**|**GenDexHand: Generative Simulation for Dexterous Hands**|Yi Ma Team|[2511.01791](http://arxiv.org/abs/2511.01791)|null|
-|**2025-11-03**|**Scaling Cross-Embodiment World Models for Dexterous Manipulation**|Hao Su Team|[2511.01177](http://arxiv.org/abs/2511.01177)|null|
+|**2025-11-09**|**Scaling Cross-Embodiment World Models for Dexterous Manipulation**|Hao Su Team|[2511.01177](http://arxiv.org/abs/2511.01177)|null|
 |**2025-10-31**|**End-to-End Dexterous Arm-Hand VLA Policies via Shared Autonomy: VR Teleoperation Augmented by Autonomous Hand VLA Policy for Efficient Data Collection**|Zhibin Li Team|[2511.00139](http://arxiv.org/abs/2511.00139)|null|
 |**2025-10-30**|**SpikeATac: A Multimodal Tactile Finger with Taxelized Dynamic Sensing for Dexterous Manipulation**|Matei Ciocarlie Team|[2510.27048](http://arxiv.org/abs/2510.27048)|null|
 |**2025-10-28**|**A Humanoid Visual-Tactile-Action Dataset for Contact-Rich Manipulation**|Kyung-Joong Kim Team|[2510.25725](http://arxiv.org/abs/2510.25725)|null|
