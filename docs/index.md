@@ -2,13 +2,33 @@
 layout: default
 ---
 
-## Updated on 2025.11.14
+## Updated on 2025.11.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Manipulation
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-13**|**Robot Crash Course: Learning Soft and Stylized Falling**|Moritz Bächer Team|[2511.10635](http://arxiv.org/abs/2511.10635)|null|
+|**2025-11-13**|**OmniVGGT: Omni-Modality Driven Visual Geometry Grounded**|Ziwei Liu Team|[2511.10560](http://arxiv.org/abs/2511.10560)|**[link](https://livioni.github.io/OmniVGGT-offcial/)**|
+|**2025-11-13**|**SemanticVLA: Semantic-Aligned Sparsification and Enhancement for Efficient Robotic Manipulation**|Liqiang Nie Team|[2511.10518](http://arxiv.org/abs/2511.10518)|**[link](https://github.com/JiuTian-VL/SemanticVLA)**|
+|**2025-11-13**|**RoboBenchMart: Benchmarking Robots in Retail Environment**|Vlad Shakhuro Team|[2511.10276](http://arxiv.org/abs/2511.10276)|null|
+|**2025-11-13**|**Photon transport and blockade based on non-Markovian interactions between a microring resonator and waveguide**|Haijin Ding Team|[2511.10256](http://arxiv.org/abs/2511.10256)|null|
+|**2025-11-13**|**Learning a Thousand Tasks in a Day**|Edward Johns Team|[2511.10110](http://arxiv.org/abs/2511.10110)|**[link](https://www.science.org/doi/10.1126/scirobotics.adv7594.)**|
+|**2025-11-13**|**Opinion: Towards Unified Expressive Policy Optimization for Robust Robot Learning**|Xiaocong Li Team|[2511.10087](http://arxiv.org/abs/2511.10087)|null|
+|**2025-11-13**|**Physics-informed Machine Learning for Static Friction Modeling in Robotic Manipulators Based on Kolmogorov-Arnold Networks**|Yinghua Liu Team|[2511.10079](http://arxiv.org/abs/2511.10079)|null|
+|**2025-11-13**|**Efficient Verification and Falsification of ReLU Neural Barrier Certificates**|Bai Xue Team|[2511.10015](http://arxiv.org/abs/2511.10015)|null|
+|**2025-11-13**|**Audio-VLA: Adding Contact Audio Perception to Vision-Language-Action Model for Robotic Manipulation**|Changbo Wang Team|[2511.09958](http://arxiv.org/abs/2511.09958)|null|
+|**2025-11-13**|**A Study on Enhancing the Generalization Ability of Visuomotor Policies via Data Augmentation**|Hanwen Wang Team|[2511.09932](http://arxiv.org/abs/2511.09932)|null|
+|**2025-11-13**|**Harnessing Bounded-Support Evolution Strategies for Policy Refinement**|Fabio Ramos Team|[2511.09923](http://arxiv.org/abs/2511.09923)|null|
+|**2025-11-13**|**Evolving Rules: Imitation and Best Response Learning in Cournot Oligopoly**|Boyu Zhang Team|[2511.09839](http://arxiv.org/abs/2511.09839)|null|
+|**2025-11-13**|**Provably Safe Stein Variational Clarity-Aware Informative Planning**|Dimitra Panagou Team|[2511.09836](http://arxiv.org/abs/2511.09836)|**[link](https://usahai18.github.io/stein_clarity/))**|
+|**2025-11-12**|**A Robust Task-Level Control Architecture for Learned Dynamical Systems**|Naira Hovakimyan Team|[2511.09790](http://arxiv.org/abs/2511.09790)|null|
+|**2025-11-12**|**Out-of-Distribution Generalization with a SPARC: Racing 100 Unseen Vehicles with a Single Policy**|Peter R. Wurman Team|[2511.09737](http://arxiv.org/abs/2511.09737)|**[link](https://github.com/bramgrooten/sparc)**|
+|**2025-11-12**|**Baby Sophia: A Developmental Approach to Self-Exploration through Self-Touch and Hand Regard**|Katerina Pastra Team|[2511.09727](http://arxiv.org/abs/2511.09727)|null|
+|**2025-11-12**|**SEBA: Sample-Efficient Black-Box Attacks on Visual Reinforcement Learning**|Haibo Hu Team|[2511.09681](http://arxiv.org/abs/2511.09681)|null|
+|**2025-11-12**|**Statistically Consistent Approximate Model Predictive Control**|Melanie N. Zeilinger Team|[2511.09661](http://arxiv.org/abs/2511.09661)|null|
+|**2025-11-12**|**IFG: Internet-Scale Guidance for Functional Grasping Generation**|Deepak Pathak Team|[2511.09558](http://arxiv.org/abs/2511.09558)|**[link](https://ifgrasping.github.io/)**|
 |**2025-11-10**|**Lightning Grasp: High Performance Procedural Grasp Synthesis with Contact Fields**|Pieter Abbeel Team|[2511.07418](http://arxiv.org/abs/2511.07418)|**[link](https://github.com/zhaohengyin/lightning-grasp)**|
 |**2025-11-10**|**Robot Learning from a Physical World Model**|Yue Wang Team|[2511.07416](http://arxiv.org/abs/2511.07416)|**[link](https://pointscoder.github.io/PhysWorld_Web/)**|
 |**2025-11-10**|**Enabling Off-Policy Imitation Learning with Deep Actor Critic Stabilization**|Shalabh Bhatnagar Team|[2511.07288](http://arxiv.org/abs/2511.07288)|null|
@@ -2597,9 +2617,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-13**|**Towards Blind and Low-Vision Accessibility of Lightweight VLMs and Custom LLM-Evals**|Pawan Goyal Team|[2511.10615](http://arxiv.org/abs/2511.10615)|null|
+|**2025-11-13**|**OmniVGGT: Omni-Modality Driven Visual Geometry Grounded**|Ziwei Liu Team|[2511.10560](http://arxiv.org/abs/2511.10560)|**[link](https://livioni.github.io/OmniVGGT-offcial/)**|
+|**2025-11-13**|**SemanticVLA: Semantic-Aligned Sparsification and Enhancement for Efficient Robotic Manipulation**|Liqiang Nie Team|[2511.10518](http://arxiv.org/abs/2511.10518)|**[link](https://github.com/JiuTian-VL/SemanticVLA)**|
+|**2025-11-13**|**Facial-R1: Aligning Reasoning and Recognition for Facial Emotion Analysis**|Min Cao Team|[2511.10254](http://arxiv.org/abs/2511.10254)|null|
+|**2025-11-13**|**SUGAR: Learning Skeleton Representation with Visual-Motion Knowledge for Action Recognition**|Zitong Yu Team|[2511.10091](http://arxiv.org/abs/2511.10091)|null|
+|**2025-11-13**|**Phantom Menace: Exploring and Enhancing the Robustness of VLA Models against Physical Sensor Attacks**|Wenyuan Xu Team|[2511.10008](http://arxiv.org/abs/2511.10008)|null|
+|**2025-11-13**|**Audio-VLA: Adding Contact Audio Perception to Vision-Language-Action Model for Robotic Manipulation**|Changbo Wang Team|[2511.09958](http://arxiv.org/abs/2511.09958)|null|
+|**2025-11-12**|**MAP-VLA: Memory-Augmented Prompting for Vision-Language-Action Model in Robotic Manipulation**|Ziwei Wang Team|[2511.09516](http://arxiv.org/abs/2511.09516)|null|
+|**2025-11-12**|**WMPO: World Model-based Policy Optimization for Vision-Language-Action Models**|Song Guo Team|[2511.09515](http://arxiv.org/abs/2511.09515)|**[link](https://wm-po.github.io)**|
+|**2025-11-12**|**Think, Remember, Navigate: Zero-Shot Object-Goal Navigation with VLM-Powered Reasoning**|Fatemeh Afghah Team|[2511.08942](http://arxiv.org/abs/2511.08942)|null|
+|**2025-11-12**|**Lumine: An Open Recipe for Building Generalist Agents in 3D Open Worlds**|Guang Shi Team|[2511.08892](http://arxiv.org/abs/2511.08892)|null|
+|**2025-11-12**|**MirrorLimb: Implementing hand pose acquisition and robot teleoperation based on RealMirror**|Tao Shen Team|[2511.08865](http://arxiv.org/abs/2511.08865)|null|
+|**2025-11-11**|**SONIC: Supersizing Motion Tracking for Natural Humanoid Whole-Body Control**|Yuke Zhu Team|[2511.07820](http://arxiv.org/abs/2511.07820)|**[link](https://nvlabs.github.io/SONIC/)**|
+|**2025-11-11**|**ViPRA: Video Prediction for Robot Actions**|Deepak Pathak Team|[2511.07732](http://arxiv.org/abs/2511.07732)|**[link](https://vipra-project.github.io)**|
+|**2025-11-11**|**LLM-GROP: Visually Grounded Robot Task and Motion Planning with Large Language Models**|Shiqi Zhang Team|[2511.07727](http://arxiv.org/abs/2511.07727)|null|
 |**2025-11-10**|**How Do VLAs Effectively Inherit from VLMs?**|Jiang Bian Team|[2511.06619](http://arxiv.org/abs/2511.06619)|null|
 |**2025-11-09**|**ExpReS-VLA: Specializing Vision-Language-Action Models Through Experience Replay and Retrieval**|Jeff Ichnowski Team|[2511.06202](http://arxiv.org/abs/2511.06202)|null|
+|**2025-11-09**|**OpenVLN: Open-world aerial Vision-Language Navigation**|Yang Cong Team|[2511.06182](http://arxiv.org/abs/2511.06182)|null|
 |**2025-11-08**|**10 Open Challenges Steering the Future of Vision-Language-Action Models**|David Hsu Team|[2511.05936](http://arxiv.org/abs/2511.05936)|null|
+|**2025-11-11**|**Causal Tracing of Object Representations in Large Vision Language Models: Mechanistic Interpretability and Hallucination Mitigation**|Xiachong Feng Team|[2511.05923](http://arxiv.org/abs/2511.05923)|null|
 |**2025-11-07**|**Lite VLA: Efficient Vision-Language-Action Control on CPU-Bound Edge Robots**|Mrinmoy Sarkar Team|[2511.05642](http://arxiv.org/abs/2511.05642)|null|
 |**2025-11-07**|**Visual Spatial Tuning**|Hengshuang Zhao Team|[2511.05491](http://arxiv.org/abs/2511.05491)|null|
 |**2025-11-07**|**EveryDayVLA: A Vision-Language-Action Model for Affordable Robotic Manipulation**|Samuel Dickerson Team|[2511.05397](http://arxiv.org/abs/2511.05397)|null|
@@ -3144,13 +3181,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-13**|**Opinion: Towards Unified Expressive Policy Optimization for Robust Robot Learning**|Xiaocong Li Team|[2511.10087](http://arxiv.org/abs/2511.10087)|null|
+|**2025-11-12**|**ScaleADFG: Affordance-based Dexterous Functional Grasping via Scalable Dataset**|Peng Wang Team|[2511.09602](http://arxiv.org/abs/2511.09602)|null|
+|**2025-11-12**|**IFG: Internet-Scale Guidance for Functional Grasping Generation**|Deepak Pathak Team|[2511.09558](http://arxiv.org/abs/2511.09558)|**[link](https://ifgrasping.github.io/)**|
+|**2025-11-12**|**SPIDER: Scalable Physics-Informed Dexterous Retargeting**|Francois Hogan Team|[2511.09484](http://arxiv.org/abs/2511.09484)|**[link](https://jc-bao.github.io/spider-project/)**|
+|**2025-11-12**|**RGMP: Recurrent Geometric-prior Multimodal Policy for Generalizable Humanoid Robot Manipulation**|Miao Li Team|[2511.09141](http://arxiv.org/abs/2511.09141)|null|
+|**2025-11-12**|**MirrorLimb: Implementing hand pose acquisition and robot teleoperation based on RealMirror**|Tao Shen Team|[2511.08865](http://arxiv.org/abs/2511.08865)|null|
 |**2025-11-10**|**Lightning Grasp: High Performance Procedural Grasp Synthesis with Contact Fields**|Pieter Abbeel Team|[2511.07418](http://arxiv.org/abs/2511.07418)|**[link](https://github.com/zhaohengyin/lightning-grasp)**|
+|**2025-11-09**|**Robust Differentiable Collision Detection for General Objects**|He Wang Team|[2511.06267](http://arxiv.org/abs/2511.06267)|null|
+|**2025-11-08**|**Adversarial Game-Theoretic Algorithm for Dexterous Grasp Synthesis**|Jeffrey Ichnowski Team|[2511.05809](http://arxiv.org/abs/2511.05809)|null|
 |**2025-11-06**|**Isaac Lab: A GPU-Accelerated Simulation Framework for Multi-Modal Robot Learning**|Gavriel State Team|[2511.04831](http://arxiv.org/abs/2511.04831)|**[link](https://github.com/isaac-sim/IsaacLab)**|
+|**2025-11-05**|**Dexterous Intramyocardial Needle Ablation (d-INA): Design, Fabrication, and In-Vivo Validation**|Yue Chen Team|[2511.03763](http://arxiv.org/abs/2511.03763)|null|
 |**2025-11-09**|**Development of the Bioinspired Tendon-Driven DexHand 021 with Proprioceptive Compliance Control**|Sheng Yi Team|[2511.03481](http://arxiv.org/abs/2511.03481)|null|
+|**2025-11-10**|**3D Cal: An Open-Source Software Library for Calibrating Tactile Sensors**|Gregory Reardon Team|[2511.03078](http://arxiv.org/abs/2511.03078)|null|
 |**2025-11-04**|**TWIST2: Scalable, Portable, and Holistic Humanoid Data Collection System**|C. Karen Liu Team|[2511.02832](http://arxiv.org/abs/2511.02832)|**[link](https://yanjieze.com/TWIST2)**|
-|**2025-11-04**|**GenDexHand: Generative Simulation for Dexterous Hands**|Yi Ma Team|[2511.01791](http://arxiv.org/abs/2511.01791)|null|
+|**2025-11-04**|**Dexterous Robotic Piano Playing at Scale**|Dieter Büchler Team|[2511.02504](http://arxiv.org/abs/2511.02504)|null|
+|**2025-11-10**|**Whole-body motion planning and safety-critical control for aerial manipulation**|Jeonghyun Byun Team|[2511.02342](http://arxiv.org/abs/2511.02342)|null|
+|**2025-11-03**|**GenDexHand: Generative Simulation for Dexterous Hands**|Yi Ma Team|[2511.01791](http://arxiv.org/abs/2511.01791)|null|
 |**2025-11-09**|**Scaling Cross-Embodiment World Models for Dexterous Manipulation**|Hao Su Team|[2511.01177](http://arxiv.org/abs/2511.01177)|null|
 |**2025-10-31**|**End-to-End Dexterous Arm-Hand VLA Policies via Shared Autonomy: VR Teleoperation Augmented by Autonomous Hand VLA Policy for Efficient Data Collection**|Zhibin Li Team|[2511.00139](http://arxiv.org/abs/2511.00139)|null|
+|**2025-10-31**|**Whole-Body Proprioceptive Morphing: A Modular Soft Gripper for Robust Cross-Scale Grasping**|Xiaonan Huang Team|[2510.27666](http://arxiv.org/abs/2510.27666)|null|
 |**2025-10-30**|**SpikeATac: A Multimodal Tactile Finger with Taxelized Dynamic Sensing for Dexterous Manipulation**|Matei Ciocarlie Team|[2510.27048](http://arxiv.org/abs/2510.27048)|null|
 |**2025-10-28**|**A Humanoid Visual-Tactile-Action Dataset for Contact-Rich Manipulation**|Kyung-Joong Kim Team|[2510.25725](http://arxiv.org/abs/2510.25725)|null|
 |**2025-10-27**|**OmniDexGrasp: Generalizable Dexterous Grasping via Foundation Model and Force Feedback**|Wei-Shi Zheng Team|[2510.23119](http://arxiv.org/abs/2510.23119)|**[link](https://isee-laboratory.github.io/OmniDexGrasp/)**|
