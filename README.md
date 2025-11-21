@@ -16,6 +16,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-20**|**Dexterity from Smart Lenses: Multi-Fingered Robot Manipulation with In-the-Wild Human Demonstrations**|Homanga Bharadhwaj Team|[2511.16661](http://arxiv.org/abs/2511.16661)|null|
+|**2025-11-20**|**InternData-A1: Pioneering High-Fidelity Synthetic Data for Pre-training Generalist Policy**|Jiangmiao Pang Team|[2511.16651](http://arxiv.org/abs/2511.16651)|null|
+|**2025-11-20**|**Toward Artificial Palpation: Representation Learning of Touch on Soft Bodies**|Aviv Tamar Team|[2511.16596](http://arxiv.org/abs/2511.16596)|null|
+|**2025-11-20**|**Green Resilience of Cyber-Physical Systems: Doctoral Dissertation**|Diaeddin Rimawi Team|[2511.16593](http://arxiv.org/abs/2511.16593)|null|
+|**2025-11-20**|**Distributed MIS Algorithms for Rational Agents using Games**|Shreyas Pai Team|[2511.16533](http://arxiv.org/abs/2511.16533)|null|
+|**2025-11-20**|**VLA-Pruner: Temporal-Aware Dual-Level Visual Token Pruning for Efficient Vision-Language-Action Inference**|Bo Zhao Team|[2511.16449](http://arxiv.org/abs/2511.16449)|null|
+|**2025-11-20**|**Graph Neural Networks for Surgical Scene Segmentation**|Danail Stoyanov Team|[2511.16430](http://arxiv.org/abs/2511.16430)|null|
+|**2025-11-20**|**LAOF: Robust Latent Action Learning with Optical Flow Constraints**|Wei Li Team|[2511.16407](http://arxiv.org/abs/2511.16407)|**[link](https://github.com/XizoB/LAOF)**|
+|**2025-11-20**|**Homogeneous Proportional-Integral-Derivative Controller in Mobile Robotic Manipulators**|Andrey Polyakov Team|[2511.16406](http://arxiv.org/abs/2511.16406)|null|
+|**2025-11-20**|**Robot Metacognition: Decision Making with Confidence for Tool Invention**|Pablo Lanillos Team|[2511.16390](http://arxiv.org/abs/2511.16390)|null|
+|**2025-11-20**|**Beyond Generative AI: World Models for Clinical Prediction, Counterfactuals, and Planning**|Mohammad Yaqub Team|[2511.16333](http://arxiv.org/abs/2511.16333)|null|
+|**2025-11-20**|**Safe and Optimal Variable Impedance Control via Certified Reinforcement Learning**|Ravi Prakash Team|[2511.16330](http://arxiv.org/abs/2511.16330)|null|
+|**2025-11-20**|**InEKFormer: A Hybrid State Estimator for Humanoid Robots**|Frank Kirchner Team|[2511.16306](http://arxiv.org/abs/2511.16306)|null|
+|**2025-11-20**|**DynaMimicGen: A Data Generation Framework for Robot Learning of Dynamic Tasks**|Anna Valente Team|[2511.16223](http://arxiv.org/abs/2511.16223)|null|
+|**2025-11-20**|**When Alignment Fails: Multimodal Adversarial Attacks on Vision-Language-Action Models**|Yaochu Jin Team|[2511.16203](http://arxiv.org/abs/2511.16203)|null|
+|**2025-11-20**|**Mantis: A Versatile Vision-Language-Action Model with Disentangled Visual Foresight**|Zhijie Deng Team|[2511.16175](http://arxiv.org/abs/2511.16175)|null|
+|**2025-11-20**|**EvoVLA: Self-Evolving Vision-Language-Action Model**|Hao Tang Team|[2511.16166](http://arxiv.org/abs/2511.16166)|null|
+|**2025-11-20**|**MagBotSim: Physics-Based Simulation and Reinforcement Learning Environments for Magnetic Robotics**|Klaus Neumann Team|[2511.16158](http://arxiv.org/abs/2511.16158)|null|
+|**2025-11-20**|**Real-Time 3D Object Detection with Inference-Aligned Learning**|Nan Xue Team|[2511.16140](http://arxiv.org/abs/2511.16140)|null|
+|**2025-11-20**|**Bi-AQUA: Bilateral Control-Based Imitation Learning for Underwater Robot Arms via Lighting-Aware Action Chunking with Transformers**|Yuki Uranishi Team|[2511.16050](http://arxiv.org/abs/2511.16050)|null|
 |**2025-11-19**|**Optimus-Q: Utilizing Federated Learning in Adaptive Robots for Intelligent Nuclear Power Plant Operations through Quantum Cryptography**|Sajedul Talukder Team|[2511.15614](http://arxiv.org/abs/2511.15614)|null|
 |**2025-11-19**|**SRPO: Self-Referential Policy Optimization for Vision-Language-Action Models**|Xipeng Qiu Team|[2511.15605](http://arxiv.org/abs/2511.15605)|null|
 |**2025-11-19**|**Learning from Mistakes: Loss-Aware Memory Enhanced Continual Learning for LiDAR Place Recognition**|Tiantian Feng Team|[2511.15597](http://arxiv.org/abs/2511.15597)|null|
@@ -2700,6 +2720,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-20**|**InternData-A1: Pioneering High-Fidelity Synthetic Data for Pre-training Generalist Policy**|Jiangmiao Pang Team|[2511.16651](http://arxiv.org/abs/2511.16651)|null|
+|**2025-11-20**|**VLA-Pruner: Temporal-Aware Dual-Level Visual Token Pruning for Efficient Vision-Language-Action Inference**|Bo Zhao Team|[2511.16449](http://arxiv.org/abs/2511.16449)|null|
+|**2025-11-20**|**FT-NCFM: An Influence-Aware Data Distillation Framework for Efficient VLA Models**|Mingsheng Shang Team|[2511.16233](http://arxiv.org/abs/2511.16233)|null|
+|**2025-11-20**|**When Alignment Fails: Multimodal Adversarial Attacks on Vision-Language-Action Models**|Yaochu Jin Team|[2511.16203](http://arxiv.org/abs/2511.16203)|null|
+|**2025-11-20**|**Mantis: A Versatile Vision-Language-Action Model with Disentangled Visual Foresight**|Zhijie Deng Team|[2511.16175](http://arxiv.org/abs/2511.16175)|null|
+|**2025-11-20**|**EvoVLA: Self-Evolving Vision-Language-Action Model**|Hao Tang Team|[2511.16166](http://arxiv.org/abs/2511.16166)|null|
 |**2025-11-19**|**SRPO: Self-Referential Policy Optimization for Vision-Language-Action Models**|Xipeng Qiu Team|[2511.15605](http://arxiv.org/abs/2511.15605)|null|
 |**2025-11-19**|**Zero-Shot Open-Vocabulary Human Motion Grounding with Test-Time Training**|Jianfei Yang Team|[2511.15379](http://arxiv.org/abs/2511.15379)|null|
 |**2025-11-19**|**Look, Zoom, Understand: The Robotic Eyeball for Embodied Perception**|Wenzhao Lian Team|[2511.15279](http://arxiv.org/abs/2511.15279)|null|
@@ -3295,6 +3321,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-20**|**Dexterity from Smart Lenses: Multi-Fingered Robot Manipulation with In-the-Wild Human Demonstrations**|Homanga Bharadhwaj Team|[2511.16661](http://arxiv.org/abs/2511.16661)|null|
+|**2025-11-20**|**InternData-A1: Pioneering High-Fidelity Synthetic Data for Pre-training Generalist Policy**|Jiangmiao Pang Team|[2511.16651](http://arxiv.org/abs/2511.16651)|null|
 |**2025-11-19**|**VIRAL: Visual Sim-to-Real at Scale for Humanoid Loco-Manipulation**|Yuke Zhu Team|[2511.15200](http://arxiv.org/abs/2511.15200)|**[link](https://viral-humanoid.github.io/)**|
 |**2025-11-18**|**Toward Robust and Harmonious Adaptation for Cross-modal Retrieval**|Xi Peng Team|[2511.14416](http://arxiv.org/abs/2511.14416)|null|
 |**2025-11-17**|**From Power to Precision: Learning Fine-grained Dexterity for Multi-fingered Robotic Hands**|Xiaolong Wang Team|[2511.13710](http://arxiv.org/abs/2511.13710)|**[link](https://jianglongye.com/power-to-precision)**|
