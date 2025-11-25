@@ -2,13 +2,33 @@
 layout: default
 ---
 
-## Updated on 2025.11.24
+## Updated on 2025.11.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Manipulation
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-23**|**ORIGAMISPACE: Benchmarking Multimodal LLMs in Multi-Step Spatial Reasoning with Mathematical Constraints**|Yinghui Xu Team|[2511.18450](http://arxiv.org/abs/2511.18450)|null|
+|**2025-11-23**|**Learning Visually Interpretable Oscillator Networks for Soft Continuum Robots from Video**|Takehisa Yairi Team|[2511.18322](http://arxiv.org/abs/2511.18322)|null|
+|**2025-11-23**|**MicCheck: Repurposing Off-the-Shelf Pin Microphones for Easy and Low-Cost Contact Sensing**|Jia-Yeu Lin Team|[2511.18299](http://arxiv.org/abs/2511.18299)|null|
+|**2025-11-23**|**Dreaming Falcon: Physics-Informed Model-Based Reinforcement Learning for Quadcopters**|Matthew McCrink Team|[2511.18243](http://arxiv.org/abs/2511.18243)|null|
+|**2025-11-22**|**SkillWrapper: Generative Predicate Invention for Skill Abstraction**|Naman Shah Team|[2511.18203](http://arxiv.org/abs/2511.18203)|null|
+|**2025-11-22**|**Off-Road Navigation via Implicit Neural Representation of Terrain Traversability**|Jonathan P. How Team|[2511.18183](http://arxiv.org/abs/2511.18183)|null|
+|**2025-11-22**|**scipy.spatial.transform: Differentiable Framework-Agnostic 3D Transformations in Python**|Angela P. Schoellig Team|[2511.18157](http://arxiv.org/abs/2511.18157)|null|
+|**2025-11-22**|**Observer Actor: Active Vision Imitation Learning with Sparse View Gaussian Splatting**|Edward Johns Team|[2511.18140](http://arxiv.org/abs/2511.18140)|**[link](https://obact.github.io)**|
+|**2025-11-22**|**SFHand: A Streaming Framework for Language-guided 3D Hand Forecasting and Embodied Manipulation**|Yoichi Sato Team|[2511.18127](http://arxiv.org/abs/2511.18127)|null|
+|**2025-11-22**|**EchoVLA: Robotic Vision-Language-Action Model with Synergistic Declarative Memory for Mobile Manipulation**|Xiaodan Liang Team|[2511.18112](http://arxiv.org/abs/2511.18112)|null|
+|**2025-11-22**|**A Unified Multi-Dynamics Framework for Perception-Oriented Modeling in Tendon-Driven Continuum Robots**|Ke Wu Team|[2511.18088](http://arxiv.org/abs/2511.18088)|null|
+|**2025-11-22**|**Continually Evolving Skill Knowledge in Vision Language Action Model**|Hesheng Wang Team|[2511.18085](http://arxiv.org/abs/2511.18085)|null|
+|**2025-11-22**|**ActDistill: General Action-Guided Self-Derived Distillation for Efficient Vision-Language-Action Models**|Guoli Yang Team|[2511.18082](http://arxiv.org/abs/2511.18082)|null|
+|**2025-11-22**|**RoboArmGS: High-Quality Robotic Arm Splatting via Bézier Curve Refinement**|Shanghang Zhang Team|[2511.17961](http://arxiv.org/abs/2511.17961)|null|
+|**2025-11-22**|**DISPATCH -- Decentralized Informed Spatial Planning and Assignment of Tasks for Cooperative Heterogeneous Agents**|Bhaskar Krishnamachari Team|[2511.17915](http://arxiv.org/abs/2511.17915)|null|
+|**2025-11-22**|**L1 Sample Flow for Efficient Visuomotor Learning**|Yong-Lu Li Team|[2511.17898](http://arxiv.org/abs/2511.17898)|null|
+|**2025-11-22**|**MobileVLA-R1: Reinforcing Vision-Language-Action for Mobile Robots**|Hao Tang Team|[2511.17889](http://arxiv.org/abs/2511.17889)|null|
+|**2025-11-22**|**QuickLAP: Quick Language-Action Preference Learning for Autonomous Driving Agents**|Andreea Bobu Team|[2511.17855](http://arxiv.org/abs/2511.17855)|null|
+|**2025-11-21**|**QAL: A Loss for Recall Precision Balance in 3D Reconstruction**|Karthik Dantu Team|[2511.17824](http://arxiv.org/abs/2511.17824)|null|
+|**2025-11-21**|**SM $^2$ ITH: Safe Mobile Manipulation with Interactive Human Prediction via Task-Hierarchical Bilevel Model Predictive Control**|Angela P. Schoellig Team|[2511.17798](http://arxiv.org/abs/2511.17798)|null|
 |**2025-11-21**|**RynnVLA-002: A Unified Vision-Language-Action and World Model**|Hao Chen Team|[2511.17502](http://arxiv.org/abs/2511.17502)|null|
 |**2025-11-21**|**RoboCOIN: An Open-Sourced Bimanual Robotic Data COllection for INtegrated Manipulation**|Guocai Yao Team|[2511.17441](http://arxiv.org/abs/2511.17441)|null|
 |**2025-11-21**|**SPEAR-1: Scaling Beyond Robot Demonstrations via 3D Understanding**|Danda Pani Paudel Team|[2511.17411](http://arxiv.org/abs/2511.17411)|null|
@@ -2720,6 +2740,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-23**|**TRANSPORTER: Transferring Visual Semantics from VLM Manifolds**|Alexandros Stergiou Team|[2511.18359](http://arxiv.org/abs/2511.18359)|**[link](https://alexandrosstergiou.github.io/TRANSPORTER)**|
+|**2025-11-22**|**EchoVLA: Robotic Vision-Language-Action Model with Synergistic Declarative Memory for Mobile Manipulation**|Xiaodan Liang Team|[2511.18112](http://arxiv.org/abs/2511.18112)|null|
+|**2025-11-22**|**Continually Evolving Skill Knowledge in Vision Language Action Model**|Hesheng Wang Team|[2511.18085](http://arxiv.org/abs/2511.18085)|null|
+|**2025-11-22**|**ActDistill: General Action-Guided Self-Derived Distillation for Efficient Vision-Language-Action Models**|Guoli Yang Team|[2511.18082](http://arxiv.org/abs/2511.18082)|null|
+|**2025-11-22**|**MobileVLA-R1: Reinforcing Vision-Language-Action for Mobile Robots**|Hao Tang Team|[2511.17889](http://arxiv.org/abs/2511.17889)|null|
 |**2025-11-21**|**RynnVLA-002: A Unified Vision-Language-Action and World Model**|Hao Chen Team|[2511.17502](http://arxiv.org/abs/2511.17502)|null|
 |**2025-11-21**|**METIS: Multi-Source Egocentric Training for Integrated Dexterous Vision-Language-Action Model**|Shanghang Zhang Team|[2511.17366](http://arxiv.org/abs/2511.17366)|null|
 |**2025-11-21**|**Robot Confirmation Generation and Action Planning Using Long-context Q-Former Integrated with Multimodal LLM**|Jonathan Le Roux Team|[2511.17335](http://arxiv.org/abs/2511.17335)|null|
@@ -2728,7 +2753,7 @@ layout: default
 |**2025-11-20**|**InternData-A1: Pioneering High-Fidelity Synthetic Data for Pre-training Generalist Policy**|Jiangmiao Pang Team|[2511.16651](http://arxiv.org/abs/2511.16651)|null|
 |**2025-11-21**|**VLA-Pruner: Temporal-Aware Dual-Level Visual Token Pruning for Efficient Vision-Language-Action Inference**|Bo Zhao Team|[2511.16449](http://arxiv.org/abs/2511.16449)|null|
 |**2025-11-20**|**FT-NCFM: An Influence-Aware Data Distillation Framework for Efficient VLA Models**|Mingsheng Shang Team|[2511.16233](http://arxiv.org/abs/2511.16233)|null|
-|**2025-11-20**|**When Alignment Fails: Multimodal Adversarial Attacks on Vision-Language-Action Models**|Yaochu Jin Team|[2511.16203](http://arxiv.org/abs/2511.16203)|null|
+|**2025-11-23**|**When Alignment Fails: Multimodal Adversarial Attacks on Vision-Language-Action Models**|Yaochu Jin Team|[2511.16203](http://arxiv.org/abs/2511.16203)|null|
 |**2025-11-20**|**Mantis: A Versatile Vision-Language-Action Model with Disentangled Visual Foresight**|Zhijie Deng Team|[2511.16175](http://arxiv.org/abs/2511.16175)|null|
 |**2025-11-20**|**EvoVLA: Self-Evolving Vision-Language-Action Model**|Hao Tang Team|[2511.16166](http://arxiv.org/abs/2511.16166)|null|
 |**2025-11-19**|**SRPO: Self-Referential Policy Optimization for Vision-Language-Action Models**|Xipeng Qiu Team|[2511.15605](http://arxiv.org/abs/2511.15605)|null|
