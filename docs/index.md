@@ -9,6 +9,22 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-24**|**Mixture of Horizons in Action Chunking**|Mingyu Ding Team|[2511.19433](http://arxiv.org/abs/2511.19433)|null|
+|**2025-11-24**|**Real-Time Object Tracking with On-Device Deep Learning for Adaptive Beamforming in Dynamic Acoustic Environments**|Maximo Cobos Team|[2511.19396](http://arxiv.org/abs/2511.19396)|null|
+|**2025-11-24**|**Rethinking Intermediate Representation for VLM-based Robot Manipulation**|Chi-Wing Fu Team|[2511.19315](http://arxiv.org/abs/2511.19315)|null|
+|**2025-11-24**|**Efficient Optimization of a Permanent Magnet Array for a Stable 2D Trap**|Tian Qiu Team|[2511.19201](http://arxiv.org/abs/2511.19201)|null|
+|**2025-11-24**|**Analysis of Deep-Learning Methods in an ISO/TS 15066-Compliant Human-Robot Safety Framework**|Andreas Mueller Team|[2511.19094](http://arxiv.org/abs/2511.19094)|null|
+|**2025-11-24**|**ReEXplore: Improving MLLMs for Embodied Exploration with Contextualized Retrospective Experience Replay**|Volker Tresp Team|[2511.19033](http://arxiv.org/abs/2511.19033)|null|
+|**2025-11-24**|**Multi-Agent Monocular Dense SLAM With 3D Reconstruction Priors**|Yuchen Zhou Team|[2511.19031](http://arxiv.org/abs/2511.19031)|null|
+|**2025-11-24**|**AVA-VLA: Improving Vision-Language-Action models with Active Visual Attention**|Xiaoyuan Yu Team|[2511.18960](http://arxiv.org/abs/2511.18960)|null|
+|**2025-11-24**|**Learning to Compress Graphs via Dual Agents for Consistent Topological Robustness Evaluation**|Tao Jia Team|[2511.18958](http://arxiv.org/abs/2511.18958)|null|
+|**2025-11-24**|**Compressor-VLA: Instruction-Guided Visual Token Compression for Efficient Robotic Manipulation**|Wenjing Qian Team|[2511.18950](http://arxiv.org/abs/2511.18950)|null|
+|**2025-11-24**|**Accelerating Reinforcement Learning via Error-Related Human Brain Signals**|Hyo-Jeong Jang Team|[2511.18878](http://arxiv.org/abs/2511.18878)|null|
+|**2025-11-24**|**AutoOdom: Learning Auto-regressive Proprioceptive Odometry for Legged Locomotion**|Mingguo Zhao Team|[2511.18857](http://arxiv.org/abs/2511.18857)|null|
+|**2025-11-24**|**Any4D: Open-Prompt 4D Generation from Natural Language and Images**|Qiao Sun Team|[2511.18746](http://arxiv.org/abs/2511.18746)|null|
+|**2025-11-23**|**AutoFocus-IL: VLM-based Saliency Maps for Data-Efficient Visual Imitation Learning without Extra Human Annotations**|Erdem Biyik Team|[2511.18617](http://arxiv.org/abs/2511.18617)|**[link](http://autofocus-il.github.io/)**|
+|**2025-11-23**|**Object-centric Task Representation and Transfer using Diffused Orientation Fields**|Sylvain Calinon Team|[2511.18563](http://arxiv.org/abs/2511.18563)|null|
+|**2025-11-23**|**SafeFall: Learning Protective Control for Humanoid Robots**|Siyuan Huang Team|[2511.18509](http://arxiv.org/abs/2511.18509)|null|
 |**2025-11-23**|**ORIGAMISPACE: Benchmarking Multimodal LLMs in Multi-Step Spatial Reasoning with Mathematical Constraints**|Yinghui Xu Team|[2511.18450](http://arxiv.org/abs/2511.18450)|null|
 |**2025-11-23**|**Learning Visually Interpretable Oscillator Networks for Soft Continuum Robots from Video**|Takehisa Yairi Team|[2511.18322](http://arxiv.org/abs/2511.18322)|null|
 |**2025-11-23**|**MicCheck: Repurposing Off-the-Shelf Pin Microphones for Easy and Low-Cost Contact Sensing**|Jia-Yeu Lin Team|[2511.18299](http://arxiv.org/abs/2511.18299)|null|
@@ -2740,12 +2756,23 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-24**|**Mixture of Horizons in Action Chunking**|Mingyu Ding Team|[2511.19433](http://arxiv.org/abs/2511.19433)|null|
+|**2025-11-24**|**Rethinking Intermediate Representation for VLM-based Robot Manipulation**|Chi-Wing Fu Team|[2511.19315](http://arxiv.org/abs/2511.19315)|null|
+|**2025-11-24**|**Percept-WAM: Perception-Enhanced World-Awareness-Action Model for Robust End-to-End Autonomous Driving**|Hang Xu Team|[2511.19221](http://arxiv.org/abs/2511.19221)|null|
+|**2025-11-24**|**AVA-VLA: Improving Vision-Language-Action models with Active Visual Attention**|Xiaoyuan Yu Team|[2511.18960](http://arxiv.org/abs/2511.18960)|null|
+|**2025-11-24**|**Compressor-VLA: Instruction-Guided Visual Token Compression for Efficient Robotic Manipulation**|Wenjing Qian Team|[2511.18950](http://arxiv.org/abs/2511.18950)|null|
+|**2025-11-24**|**UNeMo: Collaborative Visual-Language Reasoning and Navigation via a Multimodal World Model**|Jianqiang Li Team|[2511.18845](http://arxiv.org/abs/2511.18845)|null|
+|**2025-11-24**|**VideoPerceiver: Enhancing Fine-Grained Temporal Perception in Video Multimodal Large Language Models**|Danfeng Yan Team|[2511.18823](http://arxiv.org/abs/2511.18823)|null|
+|**2025-11-24**|**MergeVLA: Cross-Skill Model Merging Toward a Generalist Vision-Language-Action Agent**|Yadan Luo Team|[2511.18810](http://arxiv.org/abs/2511.18810)|null|
+|**2025-11-24**|**Understanding Task Transfer in Vision-Language Models**|Vineeth N. Balasubramanian Team|[2511.18787](http://arxiv.org/abs/2511.18787)|null|
+|**2025-11-24**|**Any4D: Open-Prompt 4D Generation from Natural Language and Images**|Qiao Sun Team|[2511.18746](http://arxiv.org/abs/2511.18746)|null|
+|**2025-11-24**|**Beyond Description: Cognitively Benchmarking Fine-Grained Action for Embodied Agents**|Yang Liu Team|[2511.18685](http://arxiv.org/abs/2511.18685)|null|
 |**2025-11-23**|**TRANSPORTER: Transferring Visual Semantics from VLM Manifolds**|Alexandros Stergiou Team|[2511.18359](http://arxiv.org/abs/2511.18359)|**[link](https://alexandrosstergiou.github.io/TRANSPORTER)**|
 |**2025-11-22**|**EchoVLA: Robotic Vision-Language-Action Model with Synergistic Declarative Memory for Mobile Manipulation**|Xiaodan Liang Team|[2511.18112](http://arxiv.org/abs/2511.18112)|null|
 |**2025-11-22**|**Continually Evolving Skill Knowledge in Vision Language Action Model**|Hesheng Wang Team|[2511.18085](http://arxiv.org/abs/2511.18085)|null|
 |**2025-11-22**|**ActDistill: General Action-Guided Self-Derived Distillation for Efficient Vision-Language-Action Models**|Guoli Yang Team|[2511.18082](http://arxiv.org/abs/2511.18082)|null|
 |**2025-11-22**|**MobileVLA-R1: Reinforcing Vision-Language-Action for Mobile Robots**|Hao Tang Team|[2511.17889](http://arxiv.org/abs/2511.17889)|null|
-|**2025-11-21**|**RynnVLA-002: A Unified Vision-Language-Action and World Model**|Hao Chen Team|[2511.17502](http://arxiv.org/abs/2511.17502)|null|
+|**2025-11-24**|**RynnVLA-002: A Unified Vision-Language-Action and World Model**|Hao Chen Team|[2511.17502](http://arxiv.org/abs/2511.17502)|null|
 |**2025-11-21**|**METIS: Multi-Source Egocentric Training for Integrated Dexterous Vision-Language-Action Model**|Shanghang Zhang Team|[2511.17366](http://arxiv.org/abs/2511.17366)|null|
 |**2025-11-21**|**Robot Confirmation Generation and Action Planning Using Long-context Q-Former Integrated with Multimodal LLM**|Jonathan Le Roux Team|[2511.17335](http://arxiv.org/abs/2511.17335)|null|
 |**2025-11-21**|**VLA-4D: Embedding 4D Awareness into Vision-Language-Action Models for SpatioTemporally Coherent Robotic Manipulation**|Gim Hee Lee Team|[2511.17199](http://arxiv.org/abs/2511.17199)|null|
