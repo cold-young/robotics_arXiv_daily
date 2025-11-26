@@ -9,6 +9,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-25**|**Reinforcing Action Policies by Prophesying**|Li Zhang Team|[2511.20633](http://arxiv.org/abs/2511.20633)|**[link](https://LogosRoboticsGroup.github.io/ProphRL)**|
+|**2025-11-25**|**Safe and Stable Neural Network Dynamical Systems for Robot Motion Planning**|Abdalla Swikir Team|[2511.20593](http://arxiv.org/abs/2511.20593)|null|
+|**2025-11-25**|**Gated Uncertainty-Aware Runtime Dual Invariants for Neural Signal-Controlled Robotics**|Oiwi Parker Jones Team|[2511.20570](http://arxiv.org/abs/2511.20570)|null|
+|**2025-11-25**|**Metric, inertially aligned monocular state estimation via kinetodynamic priors**|Laurent Kneip Team|[2511.20496](http://arxiv.org/abs/2511.20496)|null|
 |**2025-11-25**|**Improved adaptive wind driven optimization algorithm for real-time path planning**|Le-le Mao Team|[2511.20394](http://arxiv.org/abs/2511.20394)|null|
 |**2025-11-25**|**How Robot Kinematics Influence Human Performance in Virtual Robot-to-Human Handover Tasks**|Joost C. Dessing Team|[2511.20299](http://arxiv.org/abs/2511.20299)|null|
 |**2025-11-25**|**HAFO: Humanoid Force-Adaptive Control for Intense External Force Interaction Environments**|Bin He Team|[2511.20275](http://arxiv.org/abs/2511.20275)|null|
@@ -2768,6 +2772,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-25**|**Reinforcing Action Policies by Prophesying**|Li Zhang Team|[2511.20633](http://arxiv.org/abs/2511.20633)|**[link](https://LogosRoboticsGroup.github.io/ProphRL)**|
 |**2025-11-25**|**ArtiBench and ArtiBrain: Benchmarking Generalizable Vision-Language Articulated Object Manipulation**|Yan Xia Team|[2511.20330](http://arxiv.org/abs/2511.20330)|null|
 |**2025-11-25**|**ScenarioCLIP: Pretrained Transferable Visual Language Models and Action-Genome Dataset for Natural Scene Analysis**|Abhijit Das Team|[2511.20274](http://arxiv.org/abs/2511.20274)|null|
 |**2025-11-25**|**Reasoning-VLA: A Fast and General Vision-Language-Action Reasoning Model for Autonomous Driving**|Tat-Seng Chua Team|[2511.19912](http://arxiv.org/abs/2511.19912)|null|
