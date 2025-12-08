@@ -9,6 +9,21 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-05**|**SIMPACT: Simulation-Enabled Action Planning using Vision-Language Models**|Yilun Du Team|[2512.05955](http://arxiv.org/abs/2512.05955)|null|
+|**2025-12-05**|**Correspondence-Oriented Imitation Learning: Flexible Visuomotor Control with 3D Conditioning**|Kuan Fang Team|[2512.05953](http://arxiv.org/abs/2512.05953)|null|
+|**2025-12-05**|**World Models That Know When They Don't Know: Controllable Video Generation with Calibrated Uncertainty**|Anirudha Majumdar Team|[2512.05927](http://arxiv.org/abs/2512.05927)|null|
+|**2025-12-05**|**Real-time Remote Tracking and Autonomous Planning for Whale Rendezvous using Robots**|Stephanie Gil Team|[2512.05808](http://arxiv.org/abs/2512.05808)|null|
+|**2025-12-05**|**3D Path Planning for Robot-assisted Vertebroplasty from Arbitrary Bi-plane X-ray via Differentiable Rendering**|Mathias Unberath Team|[2512.05803](http://arxiv.org/abs/2512.05803)|null|
+|**2025-12-05**|**Curvature-Regularized Variational Autoencoder for 3D Scene Reconstruction from Sparse Depth**|Soodeh Bakhshandeh Team|[2512.05783](http://arxiv.org/abs/2512.05783)|null|
+|**2025-12-05**|**An Integrated System for WEEE Sorting Employing X-ray Imaging, AI-based Object Detection and Segmentation, and Delta Robot Manipulation**|Panagiotis Chatzakos Team|[2512.05599](http://arxiv.org/abs/2512.05599)|null|
+|**2025-12-05**|**A Comprehensive Framework for Automated Quality Control in the Automotive Industry**|Panagiotis Chatzakos Team|[2512.05579](http://arxiv.org/abs/2512.05579)|null|
+|**2025-12-05**|**MIND: Multi-rationale INtegrated Discriminative Reasoning Framework for Multi-modal Large Models**|Xiangyu Yue Team|[2512.05530](http://arxiv.org/abs/2512.05530)|null|
+|**2025-12-05**|**Distributed scalable coupled policy algorithm for networked multi-agent reinforcement learning**|Wei Ren Team|[2512.05447](http://arxiv.org/abs/2512.05447)|null|
+|**2025-12-05**|**State-Conditional Adversarial Learning: An Off-Policy Visual Domain Transfer Method for End-to-End Imitation Learning**|Shengfan Cao Team|[2512.05335](http://arxiv.org/abs/2512.05335)|null|
+|**2025-12-04**|**Disturbance Compensation for Safe Kinematic Control of Robotic Systems with Closed Architecture**|Qin Lin Team|[2512.05292](http://arxiv.org/abs/2512.05292)|null|
+|**2025-12-04**|**Uncertainty-Aware Data-Efficient AI: An Information-Theoretic Perspective**|Yaniv Romano Team|[2512.05267](http://arxiv.org/abs/2512.05267)|null|
+|**2025-12-04**|**Age-Inclusive 3D Human Mesh Recovery for Action-Preserving Data Anonymization**|Petros Maragos Team|[2512.05259](http://arxiv.org/abs/2512.05259)|null|
+|**2025-12-04**|**IE2Video: Adapting Pretrained Diffusion Models for Event-Based Video Reconstruction**|Yihui Ren Team|[2512.05240](http://arxiv.org/abs/2512.05240)|null|
 |**2025-12-04**|**STARE-VLA: Progressive Stage-Aware Reinforcement for Fine-Tuning Vision-Language-Action Models**|Benjamin Busam Team|[2512.05107](http://arxiv.org/abs/2512.05107)|null|
 |**2025-12-04**|**From Generated Human Videos to Physically Plausible Robot Trajectories**|Roei Herzig Team|[2512.05094](http://arxiv.org/abs/2512.05094)|**[link](https://genmimic.github.io)**|
 |**2025-12-04**|**Object Reconstruction under Occlusion with Generative Priors and Contact-induced Constraints**|Michael Posa Team|[2512.05079](http://arxiv.org/abs/2512.05079)|**[link](https://contactgen3d.github.io/)**|
@@ -2889,6 +2904,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-05**|**Training-Time Action Conditioning for Efficient Real-Time Chunking**|Sergey Levine Team|[2512.05964](http://arxiv.org/abs/2512.05964)|null|
+|**2025-12-05**|**SIMPACT: Simulation-Enabled Action Planning using Vision-Language Models**|Yilun Du Team|[2512.05955](http://arxiv.org/abs/2512.05955)|null|
+|**2025-12-05**|**TRACE: A Framework for Analyzing and Enhancing Stepwise Reasoning in Vision-Language Models**|Babak Damavandi Team|[2512.05943](http://arxiv.org/abs/2512.05943)|null|
+|**2025-12-05**|**Probing the effectiveness of World Models for Spatial Reasoning through Test-time Scaling**|Sarath Chandar Team|[2512.05809](http://arxiv.org/abs/2512.05809)|null|
+|**2025-12-05**|**HiMoE-VLA: Hierarchical Mixture-of-Experts for Generalist Vision-Language-Action Policies**|Yu-Gang Jiang Team|[2512.05693](http://arxiv.org/abs/2512.05693)|null|
+|**2025-12-05**|**Conscious Gaze: Adaptive Attention Mechanisms for Hallucination Mitigation in Vision-Language Models**|Guixian Zhang Team|[2512.05546](http://arxiv.org/abs/2512.05546)|null|
+|**2025-12-05**|**VOST-SGG: VLM-Aided One-Stage Spatio-Temporal Scene Graph Generation**|Basura Fernando Team|[2512.05524](http://arxiv.org/abs/2512.05524)|null|
+|**2025-12-04**|**From Segments to Scenes: Temporal Understanding in Autonomous Driving via Vision-Language Model**|Mohammad Akbari Team|[2512.05277](http://arxiv.org/abs/2512.05277)|null|
 |**2025-12-04**|**STARE-VLA: Progressive Stage-Aware Reinforcement for Fine-Tuning Vision-Language-Action Models**|Benjamin Busam Team|[2512.05107](http://arxiv.org/abs/2512.05107)|null|
 |**2025-12-04**|**TV2TV: A Unified Framework for Interleaved Language and Video Generation**|Emily Dinan Team|[2512.05103](http://arxiv.org/abs/2512.05103)|null|
 |**2025-12-04**|**FASTer: Toward Efficient Autoregressive Vision Language Action Modeling via neural Action Tokenization**|Hang Zhao Team|[2512.04952](http://arxiv.org/abs/2512.04952)|null|
