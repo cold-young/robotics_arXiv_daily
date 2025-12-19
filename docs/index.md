@@ -9,6 +9,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-18**|**Posterior Behavioral Cloning: Pretraining BC Policies for Efficient RL Finetuning**|Sergey Levine Team|[2512.16911](http://arxiv.org/abs/2512.16911)|null|
+|**2025-12-18**|**PolaRiS: Scalable Real-to-Sim Evaluations for Generalist Robot Policies**|Karl Pertsch Team|[2512.16881](http://arxiv.org/abs/2512.16881)|**[link](https://polaris-evals.github.io/)**|
+|**2025-12-18**|**ReinforceGen: Hybrid Skill Policies with Automated Data Generation and Reinforcement Learning**|Caelan Garrett Team|[2512.16861](http://arxiv.org/abs/2512.16861)|null|
+|**2025-12-18**|**OPENTOUCH: Bringing Full-Hand Touch to Real-World Interaction**|Paul Pu Liang Team|[2512.16842](http://arxiv.org/abs/2512.16842)|**[link](https://opentouch-tactile.github.io/)**|
+|**2025-12-18**|**GeoPredict: Leveraging Predictive Kinematics and 3D Gaussian Geometry for Precise VLA Manipulation**|Li Jiang Team|[2512.16811](http://arxiv.org/abs/2512.16811)|null|
+|**2025-12-18**|**VERM: Leveraging Foundation Models to Create a Virtual Eye for Efficient 3D Robotic Manipulation**|Liang Wang Team|[2512.16724](http://arxiv.org/abs/2512.16724)|null|
+|**2025-12-18**|**Single-View Shape Completion for Robotic Grasping in Clutter**|Todor Stoyanov Team|[2512.16449](http://arxiv.org/abs/2512.16449)|null|
+|**2025-12-18**|**ManiLong-Shot: Interaction-Aware One-Shot Imitation Learning for Long-Horizon Manipulation**|Yang Gao Team|[2512.16302](http://arxiv.org/abs/2512.16302)|null|
+|**2025-12-17**|**CoVAR: Co-generation of Video and Action for Robotic Manipulation via Multi-Modal Diffusion**|Abhinav Valada Team|[2512.16023](http://arxiv.org/abs/2512.16023)|null|
+|**2025-12-17**|**Large Video Planner Enables Generalizable Robot Control**|Yilun Du Team|[2512.15840](http://arxiv.org/abs/2512.15840)|null|
 |**2025-12-17**|**In Pursuit of Pixel Supervision for Visual Pre-training**|Hu Xu Team|[2512.15715](http://arxiv.org/abs/2512.15715)|**[link](https://github.com/facebookresearch/pixio)**|
 |**2025-12-17**|**mimic-video: Video-Action Models for Generalizable Robot Control Beyond VLAs**|Elvis Nava Team|[2512.15692](http://arxiv.org/abs/2512.15692)|null|
 |**2025-12-17**|**ISS Policy : Scalable Diffusion Policy with Implicit Scene Supervision**|Jie Mei Team|[2512.15020](http://arxiv.org/abs/2512.15020)|null|
@@ -2954,6 +2964,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-18**|**GeoPredict: Leveraging Predictive Kinematics and 3D Gaussian Geometry for Precise VLA Manipulation**|Li Jiang Team|[2512.16811](http://arxiv.org/abs/2512.16811)|null|
+|**2025-12-18**|**Vision-Language-Action Models for Autonomous Driving: Past, Present, and Future**|Junwei Liang Team|[2512.16760](http://arxiv.org/abs/2512.16760)|**[link](https://github.com/worldbench/awesome-vla-for-ad)**|
+|**2025-12-17**|**Large Video Planner Enables Generalizable Robot Control**|Yilun Du Team|[2512.15840](http://arxiv.org/abs/2512.15840)|null|
 |**2025-12-17**|**mimic-video: Video-Action Models for Generalizable Robot Control Beyond VLAs**|Elvis Nava Team|[2512.15692](http://arxiv.org/abs/2512.15692)|null|
 |**2025-12-17**|**MiVLA: Towards Generalizable Vision-Language-Action Model with Human-Robot Mutual Imitation Pre-training**|Heng Tao Shen Team|[2512.15411](http://arxiv.org/abs/2512.15411)|null|
 |**2025-12-17**|**VLA-AN: An Efficient and Onboard Vision-Language-Action Framework for Aerial Navigation in Complex Environments**|Fei Gao Team|[2512.15258](http://arxiv.org/abs/2512.15258)|null|
@@ -2969,7 +2982,7 @@ layout: default
 |**2025-12-12**|**BLURR: A Boosted Low-Resource Inference for Vision-Language-Action Models**|Yanfang Ye Team|[2512.11769](http://arxiv.org/abs/2512.11769)|**[link](https://github.com/JijiKing-Sam/BLURR-A-Boosted-Low-Resource-Inference-for-Vision-Language-Action-Model)**|
 |**2025-12-12**|**Embodied Image Compression**|Guangtao Zhai Team|[2512.11612](http://arxiv.org/abs/2512.11612)|null|
 |**2025-12-12**|**Atomic Action Slicing: Planner-Aligned Options for Generalist VLA Agents**|Boris Kraychev Team|[2512.11584](http://arxiv.org/abs/2512.11584)|null|
-|**2025-12-12**|**An Anatomy of Vision-Language-Action Models: From Modules to Milestones and Challenges**|Jiankang Deng Team|[2512.11362](http://arxiv.org/abs/2512.11362)|null|
+|**2025-12-18**|**An Anatomy of Vision-Language-Action Models: From Modules to Milestones and Challenges**|Jiankang Deng Team|[2512.11362](http://arxiv.org/abs/2512.11362)|**[link](https://suyuz1.github.io/Survery/)**|
 |**2025-12-12**|**Benchmarking the Generality of Vision-Language-Action Models**|Yangyue Wang Team|[2512.11315](http://arxiv.org/abs/2512.11315)|null|
 |**2025-12-12**|**Seeing to Act, Prompting to Specify: A Bayesian Factorization of Vision Language Action Policy**|Yue Wang Team|[2512.11218](http://arxiv.org/abs/2512.11218)|null|
 |**2025-12-15**|**WholeBodyVLA: Towards Unified Latent VLA for Whole-Body Loco-Manipulation Control**|Hongyang Li Team|[2512.11047](http://arxiv.org/abs/2512.11047)|null|
