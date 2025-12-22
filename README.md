@@ -16,6 +16,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-19**|**Distributionally Robust Imitation Learning: Layered Control Architecture for Certifiable Autonomy**|Alberto Speranzon Team|[2512.17899](http://arxiv.org/abs/2512.17899)|null|
+|**2025-12-19**|**AnyTask: an Automated Task and Data Generation Framework for Advancing Sim-to-Real Policy Learning**|Karl Schmeckpeper Team|[2512.17853](http://arxiv.org/abs/2512.17853)|null|
+|**2025-12-19**|**Kinematics-Aware Diffusion Policy with Consistent 3D Observation and Action Space for Whole-Arm Robotic Manipulation**|Xiang Li Team|[2512.17568](http://arxiv.org/abs/2512.17568)|**[link](https://kinematics-aware-diffusion-policy.github.io)**|
+|**2025-12-19**|**Learning-Based Safety-Aware Task Scheduling for Efficient Human-Robot Collaboration**|P. Rocco Team|[2512.17560](http://arxiv.org/abs/2512.17560)|null|
+|**2025-12-19**|**TakeAD: Preference-based Post-optimization for End-to-end Autonomous Driving with Expert Takeover Data**|Dongbin Zhao Team|[2512.17370](http://arxiv.org/abs/2512.17370)|null|
+|**2025-12-19**|**Mitty: Diffusion-based Human-to-Robot Video Generation**|Mike Zheng Shou Team|[2512.17253](http://arxiv.org/abs/2512.17253)|null|
+|**2025-12-19**|**Semantic Co-Speech Gesture Synthesis and Real-Time Control for Humanoid Robots**|Gang Zhang Team|[2512.17183](http://arxiv.org/abs/2512.17183)|null|
+|**2025-12-18**|**Lang2Manip: A Tool for LLM-Based Symbolic-to-Geometric Planning for Manipulation**|Irfan Hussain Team|[2512.17062](http://arxiv.org/abs/2512.17062)|null|
 |**2025-12-18**|**Posterior Behavioral Cloning: Pretraining BC Policies for Efficient RL Finetuning**|Sergey Levine Team|[2512.16911](http://arxiv.org/abs/2512.16911)|null|
 |**2025-12-18**|**PolaRiS: Scalable Real-to-Sim Evaluations for Generalist Robot Policies**|Karl Pertsch Team|[2512.16881](http://arxiv.org/abs/2512.16881)|**[link](https://polaris-evals.github.io/)**|
 |**2025-12-18**|**ReinforceGen: Hybrid Skill Policies with Automated Data Generation and Reinforcement Learning**|Caelan Garrett Team|[2512.16861](http://arxiv.org/abs/2512.16861)|null|
@@ -27,7 +35,7 @@
 |**2025-12-17**|**CoVAR: Co-generation of Video and Action for Robotic Manipulation via Multi-Modal Diffusion**|Abhinav Valada Team|[2512.16023](http://arxiv.org/abs/2512.16023)|null|
 |**2025-12-17**|**Large Video Planner Enables Generalizable Robot Control**|Yilun Du Team|[2512.15840](http://arxiv.org/abs/2512.15840)|null|
 |**2025-12-17**|**In Pursuit of Pixel Supervision for Visual Pre-training**|Hu Xu Team|[2512.15715](http://arxiv.org/abs/2512.15715)|**[link](https://github.com/facebookresearch/pixio)**|
-|**2025-12-17**|**mimic-video: Video-Action Models for Generalizable Robot Control Beyond VLAs**|Elvis Nava Team|[2512.15692](http://arxiv.org/abs/2512.15692)|null|
+|**2025-12-19**|**mimic-video: Video-Action Models for Generalizable Robot Control Beyond VLAs**|Elvis Nava Team|[2512.15692](http://arxiv.org/abs/2512.15692)|null|
 |**2025-12-17**|**ISS Policy : Scalable Diffusion Policy with Implicit Scene Supervision**|Jie Mei Team|[2512.15020](http://arxiv.org/abs/2512.15020)|null|
 |**2025-12-16**|**Imitation Learning for Multi-turn LM Agents via On-policy Expert Corrections**|Jeff Da Team|[2512.14895](http://arxiv.org/abs/2512.14895)|null|
 |**2025-12-16**|**EVOLVE-VLA: Test-Time Training from Environment Feedback for Vision-Language-Action Models**|Mike Zheng Shou Team|[2512.14666](http://arxiv.org/abs/2512.14666)|null|
@@ -2978,9 +2986,9 @@
 |**2025-12-18**|**GeoPredict: Leveraging Predictive Kinematics and 3D Gaussian Geometry for Precise VLA Manipulation**|Li Jiang Team|[2512.16811](http://arxiv.org/abs/2512.16811)|null|
 |**2025-12-18**|**Vision-Language-Action Models for Autonomous Driving: Past, Present, and Future**|Junwei Liang Team|[2512.16760](http://arxiv.org/abs/2512.16760)|**[link](https://github.com/worldbench/awesome-vla-for-ad)**|
 |**2025-12-17**|**Large Video Planner Enables Generalizable Robot Control**|Yilun Du Team|[2512.15840](http://arxiv.org/abs/2512.15840)|null|
-|**2025-12-17**|**mimic-video: Video-Action Models for Generalizable Robot Control Beyond VLAs**|Elvis Nava Team|[2512.15692](http://arxiv.org/abs/2512.15692)|null|
-|**2025-12-17**|**MiVLA: Towards Generalizable Vision-Language-Action Model with Human-Robot Mutual Imitation Pre-training**|Heng Tao Shen Team|[2512.15411](http://arxiv.org/abs/2512.15411)|null|
-|**2025-12-17**|**VLA-AN: An Efficient and Onboard Vision-Language-Action Framework for Aerial Navigation in Complex Environments**|Fei Gao Team|[2512.15258](http://arxiv.org/abs/2512.15258)|null|
+|**2025-12-19**|**mimic-video: Video-Action Models for Generalizable Robot Control Beyond VLAs**|Elvis Nava Team|[2512.15692](http://arxiv.org/abs/2512.15692)|null|
+|**2025-12-19**|**MiVLA: Towards Generalizable Vision-Language-Action Model with Human-Robot Mutual Imitation Pre-training**|Heng Tao Shen Team|[2512.15411](http://arxiv.org/abs/2512.15411)|null|
+|**2025-12-19**|**VLA-AN: An Efficient and Onboard Vision-Language-Action Framework for Aerial Navigation in Complex Environments**|Fei Gao Team|[2512.15258](http://arxiv.org/abs/2512.15258)|null|
 |**2025-12-16**|**EVOLVE-VLA: Test-Time Training from Environment Feedback for Vision-Language-Action Models**|Mike Zheng Shou Team|[2512.14666](http://arxiv.org/abs/2512.14666)|null|
 |**2025-12-16**|**Sample-Efficient Robot Skill Learning for Construction Tasks: Benchmarking Hierarchical Reinforcement Learning and Vision-Language-Action VLA Model**|Ci-Jyun Liang Team|[2512.14031](http://arxiv.org/abs/2512.14031)|null|
 |**2025-12-16**|**MindDrive: A Vision-Language-Action Model for Autonomous Driving via Online Reinforcement Learning**|Xiang Bai Team|[2512.13636](http://arxiv.org/abs/2512.13636)|**[link](https://xiaomi-mlab.github.io/MindDrive/)**|
@@ -2993,7 +3001,7 @@
 |**2025-12-12**|**BLURR: A Boosted Low-Resource Inference for Vision-Language-Action Models**|Yanfang Ye Team|[2512.11769](http://arxiv.org/abs/2512.11769)|**[link](https://github.com/JijiKing-Sam/BLURR-A-Boosted-Low-Resource-Inference-for-Vision-Language-Action-Model)**|
 |**2025-12-12**|**Embodied Image Compression**|Guangtao Zhai Team|[2512.11612](http://arxiv.org/abs/2512.11612)|null|
 |**2025-12-12**|**Atomic Action Slicing: Planner-Aligned Options for Generalist VLA Agents**|Boris Kraychev Team|[2512.11584](http://arxiv.org/abs/2512.11584)|null|
-|**2025-12-18**|**An Anatomy of Vision-Language-Action Models: From Modules to Milestones and Challenges**|Jiankang Deng Team|[2512.11362](http://arxiv.org/abs/2512.11362)|**[link](https://suyuz1.github.io/Survery/)**|
+|**2025-12-19**|**An Anatomy of Vision-Language-Action Models: From Modules to Milestones and Challenges**|Jiankang Deng Team|[2512.11362](http://arxiv.org/abs/2512.11362)|**[link](https://suyuz1.github.io/VLA-Survey-Anatomy/)**|
 |**2025-12-12**|**Benchmarking the Generality of Vision-Language-Action Models**|Yangyue Wang Team|[2512.11315](http://arxiv.org/abs/2512.11315)|null|
 |**2025-12-12**|**Seeing to Act, Prompting to Specify: A Bayesian Factorization of Vision Language Action Policy**|Yue Wang Team|[2512.11218](http://arxiv.org/abs/2512.11218)|null|
 |**2025-12-15**|**WholeBodyVLA: Towards Unified Latent VLA for Whole-Body Loco-Manipulation Control**|Hongyang Li Team|[2512.11047](http://arxiv.org/abs/2512.11047)|null|
@@ -3725,7 +3733,7 @@
 |**2025-12-02**|**GR-RL: Going Dexterous and Precise for Long-Horizon Robotic Manipulation**|Yonghui Wu Team|[2512.01801](http://arxiv.org/abs/2512.01801)|null|
 |**2025-11-30**|**Tactile Robotics: Past and Future**|Nathan F. Lepora Team|[2512.01106](http://arxiv.org/abs/2512.01106)|null|
 |**2025-11-30**|**CycleManip: Enabling Cyclic Task Manipulation via Effective Historical Perception and Understanding**|Wei-Shi Zheng Team|[2512.01022](http://arxiv.org/abs/2512.01022)|**[link](https://isee-laboratory.github.io/OmniDexGrasp/)**|
-|**2025-11-29**|**MILE: A Mechanically Isomorphic Exoskeleton Data Collection System with Fingertip Visuotactile Sensing for Dexterous Manipulation**|Xiangyang Zhu Team|[2512.00324](http://arxiv.org/abs/2512.00324)|null|
+|**2025-12-19**|**MILE: A Mechanically Isomorphic Exoskeleton Data Collection System with Fingertip Visuotactile Sensing for Dexterous Manipulation**|Xiangyang Zhu Team|[2512.00324](http://arxiv.org/abs/2512.00324)|null|
 |**2025-11-27**|**Design of an Adaptive Modular Anthropomorphic Dexterous Hand for Human-like Manipulation**|Yaonan Wang Team|[2511.22100](http://arxiv.org/abs/2511.22100)|null|
 |**2025-11-26**|**Kinematics-Aware Multi-Policy Reinforcement Learning for Force-Capable Humanoid Loco-Manipulation**|Qijun Chen Team|[2511.21169](http://arxiv.org/abs/2511.21169)|null|
 |**2025-11-25**|**ACE-F: A Cross Embodiment Foldable System with Force Feedback for Dexterous Teleoperation**|Xiaolong Wang Team|[2511.20887](http://arxiv.org/abs/2511.20887)|null|
