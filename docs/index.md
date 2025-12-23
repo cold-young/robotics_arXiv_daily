@@ -9,6 +9,24 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-22**|**Learning Generalizable Hand-Object Tracking from Synthetic Demonstrations**|Ping Tan Team|[2512.19583](http://arxiv.org/abs/2512.19583)|null|
+|**2025-12-22**|**REALM: A Real-to-Sim Validated Benchmark for Generalization in Robotic Manipulation**|Vladimir Petrik Team|[2512.19562](http://arxiv.org/abs/2512.19562)|null|
+|**2025-12-22**|**A Gauss-Newton-Induced Structure-Exploiting Algorithm for Differentiable Optimal Control**|Hong Chen Team|[2512.19447](http://arxiv.org/abs/2512.19447)|null|
+|**2025-12-22**|**Real2Edit2Real: Generating Robotic Demonstrations via a 3D Control Interface**|Hao Dong Team|[2512.19402](http://arxiv.org/abs/2512.19402)|null|
+|**2025-12-22**|**TwinAligner: Visual-Dynamic Alignment Empowers Physics-aware Real2Sim2Real for Robotic Manipulation**|Hao Dong Team|[2512.19390](http://arxiv.org/abs/2512.19390)|null|
+|**2025-12-22**|**OMP: One-step Meanflow Policy with Directional Alignment**|Yutong Ban Team|[2512.19347](http://arxiv.org/abs/2512.19347)|null|
+|**2025-12-22**|**Are All Data Necessary? Efficient Data Pruning for Large-scale Autonomous Driving Dataset via Trajectory Entropy Maximization**|Diange Yang Team|[2512.19270](http://arxiv.org/abs/2512.19270)|null|
+|**2025-12-22**|**Translating Flow to Policy via Hindsight Online Imitation**|Yang Gao Team|[2512.19269](http://arxiv.org/abs/2512.19269)|null|
+|**2025-12-22**|**DTCCL: Disengagement-Triggered Contrastive Continual Learning for Autonomous Bus Planners**|Diange Yang Team|[2512.18988](http://arxiv.org/abs/2512.18988)|null|
+|**2025-12-21**|**Offline Reinforcement Learning for End-to-End Autonomous Driving**|Takaki Yamamoto Team|[2512.18662](http://arxiv.org/abs/2512.18662)|null|
+|**2025-12-21**|**ChronoDreamer: Action-Conditioned World Model as an Online Simulator for Robotic Planning**|Dan Negrut Team|[2512.18619](http://arxiv.org/abs/2512.18619)|null|
+|**2025-12-21**|**SD2AIL: Adversarial Imitation Learning from Synthetic Demonstrations via Diffusion Models**|Xin Xu Team|[2512.18583](http://arxiv.org/abs/2512.18583)|null|
+|**2025-12-20**|**STORM: Search-Guided Generative World Models for Robotic Manipulation**|Keze Wang Team|[2512.18477](http://arxiv.org/abs/2512.18477)|null|
+|**2025-12-20**|**AOMGen: Photoreal, Physics-Consistent Demonstration Generation for Articulated Object Manipulation**|Yakun Huang Team|[2512.18396](http://arxiv.org/abs/2512.18396)|null|
+|**2025-12-20**|**Learning Semantic Atomic Skills for Multi-Task Robotic Manipulation**|Jingya Wang Team|[2512.18368](http://arxiv.org/abs/2512.18368)|null|
+|**2025-12-19**|**SurgiPose: Estimating Surgical Tool Kinematics from Monocular Video for Surgical Robot Learning**|Axel Krieger Team|[2512.18068](http://arxiv.org/abs/2512.18068)|null|
+|**2025-12-19**|**Embodied4C: Measuring What Matters for Embodied Vision-Language Navigation**|Eric Sax Team|[2512.18028](http://arxiv.org/abs/2512.18028)|null|
+|**2025-12-19**|**Robotic VLA Benefits from Joint Learning with Motion Image Diffusion**|Juan Carlos Niebles Team|[2512.18007](http://arxiv.org/abs/2512.18007)|**[link](https://vla-motion.github.io/)**|
 |**2025-12-19**|**Distributionally Robust Imitation Learning: Layered Control Architecture for Certifiable Autonomy**|Alberto Speranzon Team|[2512.17899](http://arxiv.org/abs/2512.17899)|null|
 |**2025-12-19**|**AnyTask: an Automated Task and Data Generation Framework for Advancing Sim-to-Real Policy Learning**|Karl Schmeckpeper Team|[2512.17853](http://arxiv.org/abs/2512.17853)|null|
 |**2025-12-19**|**Kinematics-Aware Diffusion Policy with Consistent 3D Observation and Action Space for Whole-Arm Robotic Manipulation**|Xiang Li Team|[2512.17568](http://arxiv.org/abs/2512.17568)|**[link](https://kinematics-aware-diffusion-policy.github.io)**|
@@ -2972,6 +2990,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-22**|**REALM: A Real-to-Sim Validated Benchmark for Generalization in Robotic Manipulation**|Vladimir Petrik Team|[2512.19562](http://arxiv.org/abs/2512.19562)|null|
+|**2025-12-22**|**Point What You Mean: Visually Grounded Instruction Policy**|Yang Gao Team|[2512.18933](http://arxiv.org/abs/2512.18933)|null|
+|**2025-12-20**|**STORM: Search-Guided Generative World Models for Robotic Manipulation**|Keze Wang Team|[2512.18477](http://arxiv.org/abs/2512.18477)|null|
+|**2025-12-20**|**AOMGen: Photoreal, Physics-Consistent Demonstration Generation for Articulated Object Manipulation**|Yakun Huang Team|[2512.18396](http://arxiv.org/abs/2512.18396)|null|
+|**2025-12-19**|**Robotic VLA Benefits from Joint Learning with Motion Image Diffusion**|Juan Carlos Niebles Team|[2512.18007](http://arxiv.org/abs/2512.18007)|**[link](https://vla-motion.github.io/)**|
 |**2025-12-18**|**GeoPredict: Leveraging Predictive Kinematics and 3D Gaussian Geometry for Precise VLA Manipulation**|Li Jiang Team|[2512.16811](http://arxiv.org/abs/2512.16811)|null|
 |**2025-12-18**|**Vision-Language-Action Models for Autonomous Driving: Past, Present, and Future**|Junwei Liang Team|[2512.16760](http://arxiv.org/abs/2512.16760)|**[link](https://github.com/worldbench/awesome-vla-for-ad)**|
 |**2025-12-17**|**Large Video Planner Enables Generalizable Robot Control**|Yilun Du Team|[2512.15840](http://arxiv.org/abs/2512.15840)|null|
@@ -3703,6 +3726,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-22**|**Learning Generalizable Hand-Object Tracking from Synthetic Demonstrations**|Ping Tan Team|[2512.19583](http://arxiv.org/abs/2512.19583)|null|
+|**2025-12-19**|**SurgiPose: Estimating Surgical Tool Kinematics from Monocular Video for Surgical Robot Learning**|Axel Krieger Team|[2512.18068](http://arxiv.org/abs/2512.18068)|null|
 |**2025-12-17**|**ISS Policy : Scalable Diffusion Policy with Implicit Scene Supervision**|Jie Mei Team|[2512.15020](http://arxiv.org/abs/2512.15020)|null|
 |**2025-12-15**|**World Models Can Leverage Human Videos for Dexterous Manipulation**|Yann LeCun Team|[2512.13644](http://arxiv.org/abs/2512.13644)|null|
 |**2025-12-15**|**WholeBodyVLA: Towards Unified Latent VLA for Whole-Body Loco-Manipulation Control**|Hongyang Li Team|[2512.11047](http://arxiv.org/abs/2512.11047)|null|
