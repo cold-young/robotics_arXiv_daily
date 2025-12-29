@@ -16,7 +16,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-12-24**|**RoboCade: Gamifying Robot Data Collection**|Dorsa Sadigh Team|[2512.21235](http://arxiv.org/abs/2512.21235)|null|
+|**2025-12-26**|**StereoVLA: Enhancing Vision-Language-Action Models with Stereo Vision**|He Wang Team|[2512.21970](http://arxiv.org/abs/2512.21970)|null|
+|**2025-12-26**|**Flexible Multitask Learning with Factorized Diffusion Policy**|Yilun Du Team|[2512.21898](http://arxiv.org/abs/2512.21898)|null|
+|**2025-12-26**|**Optimal Trajectory Planning for Orbital Robot Rendezvous and Docking**|Kazuya Yoshida Team|[2512.21882](http://arxiv.org/abs/2512.21882)|null|
+|**2025-12-25**|**Videos are Sample-Efficient Supervisions: Behavior Cloning from Videos via Latent Representations**|Dongbin Zhao Team|[2512.21586](http://arxiv.org/abs/2512.21586)|null|
+|**2025-12-26**|**RoboCade: Gamifying Robot Data Collection**|Dorsa Sadigh Team|[2512.21235](http://arxiv.org/abs/2512.21235)|null|
 |**2025-12-24**|**Language-Guided Grasp Detection with Coarse-to-Fine Learning for Robotic Manipulation**|Hu Cao Team|[2512.21065](http://arxiv.org/abs/2512.21065)|null|
 |**2025-12-24**|**Tracing Energy Flow: Learning Tactile-based Grasping Force Control to Prevent Slippage in Dynamic Object Interaction**|Takamitsu Matsubara Team|[2512.21043](http://arxiv.org/abs/2512.21043)|null|
 |**2025-12-24**|**Proprioception Enhances Vision Language Model in Generating Captions and Subtask Segmentations for Robot Task**|Tetsuya Ogata Team|[2512.20876](http://arxiv.org/abs/2512.20876)|null|
@@ -3009,6 +3013,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-26**|**StereoVLA: Enhancing Vision-Language-Action Models with Stereo Vision**|He Wang Team|[2512.21970](http://arxiv.org/abs/2512.21970)|null|
 |**2025-12-23**|**ActionFlow: A Pipelined Action Acceleration for Vision Language Models on Edge**|Xuehai Zhou Team|[2512.20276](http://arxiv.org/abs/2512.20276)|null|
 |**2025-12-23**|**Asynchronous Fast-Slow Vision-Language-Action Policies for Whole-Body Robotic Manipulation**|Lianyang Ma Team|[2512.20188](http://arxiv.org/abs/2512.20188)|null|
 |**2025-12-23**|**LoLA: Long Horizon Latent Action Learning for General Robot Manipulation**|Baining Guo Team|[2512.20166](http://arxiv.org/abs/2512.20166)|null|
@@ -3753,7 +3758,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-12-24**|**UniTacHand: Unified Spatio-Tactile Representation for Human to Robotic Hand Skill Transfer**|Zongqing Lu Team|[2512.21233](http://arxiv.org/abs/2512.21233)|null|
+|**2025-12-25**|**UniTacHand: Unified Spatio-Tactile Representation for Human to Robotic Hand Skill Transfer**|Zongqing Lu Team|[2512.21233](http://arxiv.org/abs/2512.21233)|null|
 |**2025-12-22**|**Learning Generalizable Hand-Object Tracking from Synthetic Demonstrations**|Ping Tan Team|[2512.19583](http://arxiv.org/abs/2512.19583)|null|
 |**2025-12-19**|**SurgiPose: Estimating Surgical Tool Kinematics from Monocular Video for Surgical Robot Learning**|Axel Krieger Team|[2512.18068](http://arxiv.org/abs/2512.18068)|null|
 |**2025-12-17**|**ISS Policy : Scalable Diffusion Policy with Implicit Scene Supervision**|Jie Mei Team|[2512.15020](http://arxiv.org/abs/2512.15020)|null|
