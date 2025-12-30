@@ -1,4 +1,4 @@
-## Updated on 2025.12.29
+## Updated on 2025.12.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -1655,7 +1655,7 @@
 |**2019-01-23**|**Learning Dexterous In-Hand Manipulation**|Wojciech Zaremba Team|[1808.00177](http://arxiv.org/abs/1808.00177)|null|
 |**2017-10-27**|**Learning Robotic Manipulation of Granular Media**|Sergey Levine Team|[1709.02833](http://arxiv.org/abs/1709.02833)|null|
 
-<p align=right>(<a href=#updated-on-20251229>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251230>back to top</a>)</p>
 
 ## VLM
 
@@ -3007,7 +3007,7 @@
 |**2025-04-02**|**BioAtt: Anatomical Prior Driven Low-Dose CT Denoising**|UiHyun Cho Team|[2504.01662](http://arxiv.org/abs/2504.01662)|null|
 |**2025-04-02**|**Text Speaks Louder than Vision: ASCII Art Reveals Textual Biases in Vision-Language Models**|Ming-Hsuan Yang Team|[2504.01589](http://arxiv.org/abs/2504.01589)|null|
 
-<p align=right>(<a href=#updated-on-20251229>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251230>back to top</a>)</p>
 
 ## VLA
 
@@ -3586,7 +3586,7 @@
 |**2022-08-16**|**A Dataset for Interactive Vision-Language Navigation with Unknown Command Feasibility**|Bryan A. Plummer Team|[2202.02312](http://arxiv.org/abs/2202.02312)|null|
 |**2017-04-25**|**An Analysis of Action Recognition Datasets for Language and Vision Tasks**|Frank Keller Team|[1704.07129](http://arxiv.org/abs/1704.07129)|null|
 
-<p align=right>(<a href=#updated-on-20251229>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251230>back to top</a>)</p>
 
 ## Humanoid
 
@@ -3752,7 +3752,7 @@
 |**2025-03-13**|**HumanoidPano: Hybrid Spherical Panoramic-LiDAR Cross-Modal Perception for Humanoid Robots**|Renjing Xu Team|[2503.09010](http://arxiv.org/abs/2503.09010)|null|
 |**2025-03-11**|**LiPS: Large-Scale Humanoid Robot Reinforcement Learning with Parallel-Series Structures**|Renjing Xu Team|[2503.08349](http://arxiv.org/abs/2503.08349)|null|
 
-<p align=right>(<a href=#updated-on-20251229>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251230>back to top</a>)</p>
 
 ## Dexterous
 
@@ -3971,5 +3971,5 @@
 |**2018-06-27**|**Learning Complex Dexterous Manipulation with Deep Reinforcement Learning and Demonstrations**|Sergey Levine Team|[1709.10087](http://arxiv.org/abs/1709.10087)|**[link](https://sites.google.com/view/deeprl-dexterous-manipulation)**|
 |**2017-03-21**|**Learning Dexterous Manipulation for a Soft Robotic Hand from Human Demonstration**|Pieter Abbeel Team|[1603.06348](http://arxiv.org/abs/1603.06348)|null|
 
-<p align=right>(<a href=#updated-on-20251229>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251230>back to top</a>)</p>
 
