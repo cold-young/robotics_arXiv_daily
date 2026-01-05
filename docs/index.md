@@ -9,16 +9,18 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-01**|**Imitation from Observations with Trajectory-Level Generative Embeddings**|Weitong Zhang Team|[2601.00452](http://arxiv.org/abs/2601.00452)|null|
+|**2025-12-31**|**Compositional Diffusion with Guided search for Long-Horizon Planning**|Danfei Xu Team|[2601.00126](http://arxiv.org/abs/2601.00126)|null|
 |**2025-12-31**|**Coordinated Humanoid Manipulation with Choice Policies**|Jitendra Malik Team|[2512.25072](http://arxiv.org/abs/2512.25072)|**[link](https://choice-policy.github.io/)**|
 |**2025-12-31**|**Dream2Flow: Bridging Video Generation and Open-World Manipulation with 3D Object Flow**|Ruohan Zhang Team|[2512.24766](http://arxiv.org/abs/2512.24766)|**[link](https://dream2flow.github.io/)**|
 |**2025-12-31**|**RoboMIND 2.0: A Multimodal, Bimanual Mobile Manipulation Dataset for Generalizable Embodied Intelligence**|Jian Tang Team|[2512.24653](http://arxiv.org/abs/2512.24653)|null|
 |**2025-12-31**|**Resolving State Ambiguity in Robot Manipulation via Adaptive Working Memory Recoding**|Wenchao Ding Team|[2512.24638](http://arxiv.org/abs/2512.24638)|null|
 |**2025-12-30**|**Subsecond 3D Mesh Generation for Robot Manipulation**|Daniel Rakita Team|[2512.24428](http://arxiv.org/abs/2512.24428)|null|
-|**2025-12-30**|**World In Your Hands: A Large-Scale and Open-source Ecosystem for Learning Human-centric Manipulation in the Wild**|Wenchao Din Team|[2512.24310](http://arxiv.org/abs/2512.24310)|null|
+|**2026-01-01**|**World In Your Hands: A Large-Scale and Open-source Ecosystem for Learning Human-centric Manipulation in the Wild**|Wenchao Ding Team|[2512.24310](http://arxiv.org/abs/2512.24310)|null|
 |**2025-12-30**|**Real-world Reinforcement Learning from Suboptimal Interventions**|Jian Tang Team|[2512.24288](http://arxiv.org/abs/2512.24288)|null|
 |**2025-12-30**|**Local Path Optimization in The Latent Space Using Learned Distance Gradient**|Jifeng Guo Team|[2512.24272](http://arxiv.org/abs/2512.24272)|null|
 |**2025-12-30**|**GR-Dexter Technical Report**|Hang Li Team|[2512.24210](http://arxiv.org/abs/2512.24210)|null|
-|**2025-12-30**|**Unified Embodied VLM Reasoning with Robotic Action via Autoregressive Discretized Pre-training**|Jianlan Luo Team|[2512.24125](http://arxiv.org/abs/2512.24125)|null|
+|**2026-01-01**|**Unified Embodied VLM Reasoning with Robotic Action via Autoregressive Discretized Pre-training**|Jianlan Luo Team|[2512.24125](http://arxiv.org/abs/2512.24125)|null|
 |**2025-12-29**|**Robo-Dopamine: General Process Reward Modeling for High-Precision Robotic Manipulation**|Shanghang Zhang Team|[2512.23703](http://arxiv.org/abs/2512.23703)|null|
 |**2025-12-29**|**Interactive Robot Programming for Surface Finishing via Task-Centric Mixed Reality Interfaces**|Dongheui Lee Team|[2512.23616](http://arxiv.org/abs/2512.23616)|null|
 |**2025-12-29**|**Act2Goal: From World Model To General Goal-conditioned Policy**|Jianlan Luo Team|[2512.23541](http://arxiv.org/abs/2512.23541)|null|
@@ -3028,7 +3030,7 @@ layout: default
 |**2025-12-31**|**RoboMIND 2.0: A Multimodal, Bimanual Mobile Manipulation Dataset for Generalizable Embodied Intelligence**|Jian Tang Team|[2512.24653](http://arxiv.org/abs/2512.24653)|null|
 |**2025-12-30**|**Counterfactual VLA: Self-Reflective Vision-Language-Action Model with Adaptive Reasoning**|Marco Pavone Team|[2512.24426](http://arxiv.org/abs/2512.24426)|null|
 |**2025-12-30**|**GR-Dexter Technical Report**|Hang Li Team|[2512.24210](http://arxiv.org/abs/2512.24210)|null|
-|**2025-12-30**|**Unified Embodied VLM Reasoning with Robotic Action via Autoregressive Discretized Pre-training**|Jianlan Luo Team|[2512.24125](http://arxiv.org/abs/2512.24125)|null|
+|**2026-01-01**|**Unified Embodied VLM Reasoning with Robotic Action via Autoregressive Discretized Pre-training**|Jianlan Luo Team|[2512.24125](http://arxiv.org/abs/2512.24125)|null|
 |**2025-12-29**|**Learning to Feel the Future: DreamTacVLA for Contact-Rich Manipulation**|Han Liu Team|[2512.23864](http://arxiv.org/abs/2512.23864)|null|
 |**2025-12-30**|**SurgWorld: Learning Surgical Robot Policies from Videos via World Modeling**|Daguang Xu Team|[2512.23162](http://arxiv.org/abs/2512.23162)|null|
 |**2025-12-31**|**ColaVLA: Leveraging Cognitive Latent Reasoning for Hierarchical Parallel Trajectory Planning in Autonomous Driving**|Hongsheng Li Team|[2512.22939](http://arxiv.org/abs/2512.22939)|**[link](https://pqh22.github.io/projects/ColaVLA/index.html)**|
@@ -3780,7 +3782,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-12-31**|**ShowUI- $π$ : Flow-based Generative Models as GUI Dexterous Hands**|Mike Zheng Shou Team|[2512.24965](http://arxiv.org/abs/2512.24965)|null|
 |**2025-12-31**|**Antagonistic Bowden-Cable Actuation of a Lightweight Robotic Hand: Toward Dexterous Manipulation for Payload Constrained Humanoids**|David Hyunchul Shim Team|[2512.24657](http://arxiv.org/abs/2512.24657)|null|
-|**2025-12-30**|**World In Your Hands: A Large-Scale and Open-source Ecosystem for Learning Human-centric Manipulation in the Wild**|Wenchao Din Team|[2512.24310](http://arxiv.org/abs/2512.24310)|null|
+|**2026-01-01**|**World In Your Hands: A Large-Scale and Open-source Ecosystem for Learning Human-centric Manipulation in the Wild**|Wenchao Ding Team|[2512.24310](http://arxiv.org/abs/2512.24310)|null|
 |**2025-12-30**|**GR-Dexter Technical Report**|Hang Li Team|[2512.24210](http://arxiv.org/abs/2512.24210)|null|
 |**2025-12-29**|**UniTacHand: Unified Spatio-Tactile Representation for Human to Robotic Hand Skill Transfer**|Zongqing Lu Team|[2512.21233](http://arxiv.org/abs/2512.21233)|null|
 |**2025-12-22**|**Learning Generalizable Hand-Object Tracking from Synthetic Demonstrations**|Ping Tan Team|[2512.19583](http://arxiv.org/abs/2512.19583)|null|
