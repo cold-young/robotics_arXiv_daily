@@ -16,6 +16,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-06**|**A High-Fidelity Digital Twin for Robotic Manipulation Based on 3D Gaussian Splatting**|Chengxu Zhou Team|[2601.03200](http://arxiv.org/abs/2601.03200)|null|
+|**2026-01-06**|**SOP: A Scalable Online Post-Training System for Vision-Language-Action Models**|Jianlan Luo Team|[2601.03044](http://arxiv.org/abs/2601.03044)|null|
+|**2026-01-05**|**InternVLA-A1: Unifying Understanding, Generation and Action for Robotic Manipulation**|Yuchen Zhu Team|[2601.02456](http://arxiv.org/abs/2601.02456)|**[link](https://internrobotics.github.io/internvla-a1.github.io/)**|
 |**2026-01-05**|**Genie Sim 3.0 : A High-Fidelity Comprehensive Simulation Platform for Humanoid Robot**|Maoqing Yao Team|[2601.02078](http://arxiv.org/abs/2601.02078)|null|
 |**2026-01-05**|**Learning Diffusion Policy from Primitive Skills for Robot Manipulation**|Dong Xu Team|[2601.01948](http://arxiv.org/abs/2601.01948)|null|
 |**2026-01-04**|**STEMNIST: Spiking Tactile Extended MNIST Neuromorphic Dataset**|Arindam Basu Team|[2601.01658](http://arxiv.org/abs/2601.01658)|null|
@@ -26,7 +29,7 @@
 |**2026-01-05**|**Compositional Diffusion with Guided Search for Long-Horizon Planning**|Danfei Xu Team|[2601.00126](http://arxiv.org/abs/2601.00126)|null|
 |**2025-12-31**|**Coordinated Humanoid Manipulation with Choice Policies**|Jitendra Malik Team|[2512.25072](http://arxiv.org/abs/2512.25072)|**[link](https://choice-policy.github.io/)**|
 |**2025-12-31**|**Dream2Flow: Bridging Video Generation and Open-World Manipulation with 3D Object Flow**|Ruohan Zhang Team|[2512.24766](http://arxiv.org/abs/2512.24766)|**[link](https://dream2flow.github.io/)**|
-|**2025-12-31**|**RoboMIND 2.0: A Multimodal, Bimanual Mobile Manipulation Dataset for Generalizable Embodied Intelligence**|Jian Tang Team|[2512.24653](http://arxiv.org/abs/2512.24653)|null|
+|**2026-01-06**|**RoboMIND 2.0: A Multimodal, Bimanual Mobile Manipulation Dataset for Generalizable Embodied Intelligence**|Jian Tang Team|[2512.24653](http://arxiv.org/abs/2512.24653)|null|
 |**2025-12-31**|**Resolving State Ambiguity in Robot Manipulation via Adaptive Working Memory Recoding**|Wenchao Ding Team|[2512.24638](http://arxiv.org/abs/2512.24638)|null|
 |**2025-12-30**|**Subsecond 3D Mesh Generation for Robot Manipulation**|Daniel Rakita Team|[2512.24428](http://arxiv.org/abs/2512.24428)|null|
 |**2026-01-01**|**World In Your Hands: A Large-Scale and Open-source Ecosystem for Learning Human-centric Manipulation in the Wild**|Wenchao Ding Team|[2512.24310](http://arxiv.org/abs/2512.24310)|null|
@@ -3043,12 +3046,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-06**|**Limited Linguistic Diversity in Embodied AI Datasets**|Mitch Pryor Team|[2601.03136](http://arxiv.org/abs/2601.03136)|null|
+|**2026-01-06**|**SOP: A Scalable Online Post-Training System for Vision-Language-Action Models**|Jianlan Luo Team|[2601.03044](http://arxiv.org/abs/2601.03044)|null|
+|**2026-01-05**|**InternVLA-A1: Unifying Understanding, Generation and Action for Robotic Manipulation**|Yuchen Zhu Team|[2601.02456](http://arxiv.org/abs/2601.02456)|**[link](https://internrobotics.github.io/internvla-a1.github.io/)**|
 |**2026-01-05**|**CycleVLA: Proactive Self-Correcting Vision-Language-Action Models via Subtask Backtracking and Minimum Bayes Risk Decoding**|Andrew Markham Team|[2601.02295](http://arxiv.org/abs/2601.02295)|**[link](https://dannymcy.github.io/cyclevla/)**|
 |**2026-01-04**|**Action-Sketcher: From Reasoning to Action via Visual Sketches for Long-Horizon Robotic Manipulation**|Shanghang Zhang Team|[2601.01618](http://arxiv.org/abs/2601.01618)|null|
 |**2026-01-02**|**Value Vision-Language-Action Planning & Search**|Cyrus Neary Team|[2601.00969](http://arxiv.org/abs/2601.00969)|null|
 |**2025-12-31**|**Dichotomous Diffusion Policy Optimization**|Xianyuan Zhan Team|[2601.00898](http://arxiv.org/abs/2601.00898)|null|
 |**2025-12-31**|**VLA-RAIL: A Real-Time Asynchronous Inference Linker for VLA Models and Robots**|Han Gao Team|[2512.24673](http://arxiv.org/abs/2512.24673)|null|
-|**2025-12-31**|**RoboMIND 2.0: A Multimodal, Bimanual Mobile Manipulation Dataset for Generalizable Embodied Intelligence**|Jian Tang Team|[2512.24653](http://arxiv.org/abs/2512.24653)|null|
+|**2026-01-06**|**RoboMIND 2.0: A Multimodal, Bimanual Mobile Manipulation Dataset for Generalizable Embodied Intelligence**|Jian Tang Team|[2512.24653](http://arxiv.org/abs/2512.24653)|null|
 |**2025-12-30**|**Counterfactual VLA: Self-Reflective Vision-Language-Action Model with Adaptive Reasoning**|Marco Pavone Team|[2512.24426](http://arxiv.org/abs/2512.24426)|null|
 |**2025-12-30**|**GR-Dexter Technical Report**|Hang Li Team|[2512.24210](http://arxiv.org/abs/2512.24210)|null|
 |**2026-01-01**|**Unified Embodied VLM Reasoning with Robotic Action via Autoregressive Discretized Pre-training**|Jianlan Luo Team|[2512.24125](http://arxiv.org/abs/2512.24125)|null|
@@ -3805,6 +3811,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-06**|**Closing the Reality Gap: Zero-Shot Sim-to-Real Deployment for Dexterous Force-Based Grasping and Manipulation**|Zhe Zhao Team|[2601.02778](http://arxiv.org/abs/2601.02778)|null|
 |**2026-01-04**|**DemoBot: Efficient Learning of Bimanual Manipulation with Dexterous Hands From Third-Person Human Videos**|Robert B. Fisher Team|[2601.01651](http://arxiv.org/abs/2601.01651)|null|
 |**2025-12-31**|**ShowUI- $π$ : Flow-based Generative Models as GUI Dexterous Hands**|Mike Zheng Shou Team|[2512.24965](http://arxiv.org/abs/2512.24965)|null|
 |**2025-12-31**|**Antagonistic Bowden-Cable Actuation of a Lightweight Robotic Hand: Toward Dexterous Manipulation for Payload Constrained Humanoids**|David Hyunchul Shim Team|[2512.24657](http://arxiv.org/abs/2512.24657)|null|
