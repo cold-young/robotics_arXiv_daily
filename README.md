@@ -16,6 +16,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-08**|**LaST $_{0}$ : Latent Spatio-Temporal Chain-of-Thought for Robotic Vision-Language-Action Model**|Shanghang Zhang Team|[2601.05248](http://arxiv.org/abs/2601.05248)|null|
+|**2026-01-08**|**RoboVIP: Multi-View Video Generation with Visual Identity Prompting Augments Robot Manipulation**|Jiangmiao Pang Team|[2601.05241](http://arxiv.org/abs/2601.05241)|null|
+|**2026-01-08**|**Plenoptic Video Generation**|Chen-Hsuan Lin Team|[2601.05239](http://arxiv.org/abs/2601.05239)|**[link](https://research.nvidia.com/labs/dir/plenopticdreamer/)**|
+|**2026-01-08**|**UniBiDex: A Unified Teleoperation Framework for Robotic Bimanual Dexterous Manipulation**|Peng Zhou Team|[2601.04629](http://arxiv.org/abs/2601.04629)|null|
+|**2026-01-08**|**Multiagent Reinforcement Learning with Neighbor Action Estimation**|Aoxiang Liu Team|[2601.04511](http://arxiv.org/abs/2601.04511)|null|
 |**2026-01-07**|**Choreographing a World of Dynamic Objects**|Jiajun Wu Team|[2601.04194](http://arxiv.org/abs/2601.04194)|null|
 |**2026-01-07**|**Wow, wo, val! A Comprehensive Embodied World Model Evaluation Turing Test**|Jian Tang Team|[2601.04137](http://arxiv.org/abs/2601.04137)|null|
 |**2026-01-07**|**PointWorld: Scaling 3D World Models for In-The-Wild Robotic Manipulation**|Li Fei-Fei Team|[2601.03782](http://arxiv.org/abs/2601.03782)|null|
@@ -30,6 +35,7 @@
 |**2026-01-04**|**Action-Sketcher: From Reasoning to Action via Visual Sketches for Long-Horizon Robotic Manipulation**|Shanghang Zhang Team|[2601.01618](http://arxiv.org/abs/2601.01618)|null|
 |**2026-01-04**|**Online Estimation and Manipulation of Articulated Objects**|Sethu Vijayakumar Team|[2601.01438](http://arxiv.org/abs/2601.01438)|null|
 |**2026-01-02**|**Value Vision-Language-Action Planning & Search**|Cyrus Neary Team|[2601.00969](http://arxiv.org/abs/2601.00969)|null|
+|**2026-01-08**|**RoboReward: General-Purpose Vision-Language Reward Models for Robotics**|Chelsea Finn Team|[2601.00675](http://arxiv.org/abs/2601.00675)|null|
 |**2026-01-01**|**Imitation from Observations with Trajectory-Level Generative Embeddings**|Weitong Zhang Team|[2601.00452](http://arxiv.org/abs/2601.00452)|null|
 |**2026-01-05**|**Compositional Diffusion with Guided Search for Long-Horizon Planning**|Danfei Xu Team|[2601.00126](http://arxiv.org/abs/2601.00126)|null|
 |**2025-12-31**|**Coordinated Humanoid Manipulation with Choice Policies**|Jitendra Malik Team|[2512.25072](http://arxiv.org/abs/2512.25072)|**[link](https://choice-policy.github.io/)**|
@@ -3051,6 +3057,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-08**|**LaST $_{0}$ : Latent Spatio-Temporal Chain-of-Thought for Robotic Vision-Language-Action Model**|Shanghang Zhang Team|[2601.05248](http://arxiv.org/abs/2601.05248)|null|
+|**2026-01-08**|**RoboVIP: Multi-View Video Generation with Visual Identity Prompting Augments Robot Manipulation**|Jiangmiao Pang Team|[2601.05241](http://arxiv.org/abs/2601.05241)|null|
+|**2026-01-07**|**State Backdoor: Towards Stealthy Real-world Poisoning Attack on Vision-Language-Action Model in State Space**|Dusit Niyato Team|[2601.04266](http://arxiv.org/abs/2601.04266)|null|
 |**2026-01-07**|**CLAP: Contrastive Latent Action Pretraining for Learning Vision-Language-Action Models from Human Videos**|Yansong Tang Team|[2601.04061](http://arxiv.org/abs/2601.04061)|**[link](https://lin-shan.com/CLAP/)**|
 |**2026-01-07**|**Stable Language Guidance for Vision-Language-Action Models**|Guangrun Wang Team|[2601.04052](http://arxiv.org/abs/2601.04052)|null|
 |**2026-01-07**|**I2E: From Image Pixels to Actionable Interactive Environments for Text-Guided Image Editing**|Bowen Zhou Team|[2601.03741](http://arxiv.org/abs/2601.03741)|null|
@@ -3821,6 +3830,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-08**|**UniBiDex: A Unified Teleoperation Framework for Robotic Bimanual Dexterous Manipulation**|Peng Zhou Team|[2601.04629](http://arxiv.org/abs/2601.04629)|null|
 |**2026-01-06**|**Closing the Reality Gap: Zero-Shot Sim-to-Real Deployment for Dexterous Force-Based Grasping and Manipulation**|Zhe Zhao Team|[2601.02778](http://arxiv.org/abs/2601.02778)|null|
 |**2026-01-04**|**DemoBot: Efficient Learning of Bimanual Manipulation with Dexterous Hands From Third-Person Human Videos**|Robert B. Fisher Team|[2601.01651](http://arxiv.org/abs/2601.01651)|null|
 |**2025-12-31**|**ShowUI- $π$ : Flow-based Generative Models as GUI Dexterous Hands**|Mike Zheng Shou Team|[2512.24965](http://arxiv.org/abs/2512.24965)|null|
